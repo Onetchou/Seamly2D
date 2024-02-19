@@ -6,7 +6,7 @@
     <message>
         <location filename="../../src/libs/vtools/undocommands/add_draftblock.cpp" line="+67"/>
         <source>add draft block %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ajouter un bloc%1</translation>
     </message>
 </context>
 <context>
@@ -22,7 +22,7 @@
     <message>
         <location filename="../../src/libs/vtools/undocommands/add_groupitem.cpp" line="+43"/>
         <source>Add item to group</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter au groupe</translation>
     </message>
 </context>
 <context>
@@ -30,7 +30,7 @@
     <message>
         <location filename="../../src/libs/vtools/undocommands/addpiece.cpp" line="+64"/>
         <source>add piece</source>
-        <translation type="unfinished"></translation>
+        <translation>ajouter une pièce</translation>
     </message>
 </context>
 <context>
@@ -46,12 +46,12 @@
     <message>
         <location filename="../../src/libs/vtools/dialogs/tools/addtogroup_dialog.ui" line="+32"/>
         <source>Add to Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter au groupe</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -59,22 +59,22 @@
     <message>
         <location filename="../../src/libs/vtools/dialogs/tools/anchorpoint_dialog.ui" line="+20"/>
         <source>Anchor Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Point d&apos;ancrage</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Anchor Point tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Outil Point d&apos;Ancrage</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Point:</source>
-        <translation type="unfinished">Point :</translation>
+        <translation>Point :</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Piece:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pièce :</translation>
     </message>
 </context>
 <context>
@@ -248,7 +248,7 @@
     <message>
         <location filename="../../src/app/seamly2d/dialogs/calculator_dialog.ui" line="+35"/>
         <source>Calculator</source>
-        <translation type="unfinished"></translation>
+        <translation>Calculatrice</translation>
     </message>
 </context>
 <context>
@@ -257,105 +257,105 @@
         <location filename="../../src/libs/vwidgets/calculator/calculator.cpp" line="+88"/>
         <location line="+210"/>
         <source>.</source>
-        <translation type="unfinished"></translation>
+        <translation>.</translation>
     </message>
     <message>
         <location line="-209"/>
         <source>±</source>
-        <translation type="unfinished"></translation>
+        <translation>±</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Retour arrière</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer tout</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>MC</source>
-        <translation type="unfinished"></translation>
+        <translation>MC</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>MR</source>
-        <translation type="unfinished"></translation>
+        <translation>MR</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>MS</source>
-        <translation type="unfinished"></translation>
+        <translation>MS</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>M+</source>
-        <translation type="unfinished"></translation>
+        <translation>M+</translation>
     </message>
     <message>
         <location line="+2"/>
         <location line="+307"/>
         <source>÷</source>
-        <translation type="unfinished"></translation>
+        <translation>÷</translation>
     </message>
     <message>
         <location line="-306"/>
         <location line="+304"/>
         <source>×</source>
-        <translation type="unfinished"></translation>
+        <translation>×</translation>
     </message>
     <message>
         <location line="-303"/>
         <location line="+208"/>
         <location line="+93"/>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
     <message>
         <location line="-300"/>
         <location line="+298"/>
         <source>+</source>
-        <translation type="unfinished"></translation>
+        <translation>+</translation>
     </message>
     <message>
         <location line="-296"/>
         <location line="+74"/>
         <source>Sqrt</source>
-        <translation type="unfinished"></translation>
+        <translation>√</translation>
     </message>
     <message>
         <location line="-73"/>
         <location line="+79"/>
         <source>x²</source>
-        <translation type="unfinished"></translation>
+        <translation>x²</translation>
     </message>
     <message>
         <location line="-78"/>
         <location line="+80"/>
         <source>1/x</source>
-        <translation type="unfinished"></translation>
+        <translation>1/x</translation>
     </message>
     <message>
         <location line="-79"/>
         <source>=</source>
-        <translation type="unfinished"></translation>
+        <translation>=</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>Calculator</source>
-        <translation type="unfinished"></translation>
+        <translation>Calculatrice</translation>
     </message>
     <message>
         <location line="+248"/>
         <source>####</source>
-        <translation type="unfinished"></translation>
+        <translation>####</translation>
     </message>
 </context>
 <context>
@@ -363,7 +363,7 @@
     <message>
         <location filename="../../src/app/seamly2d/dialogs/decimalchart_dialog.ui" line="+29"/>
         <source>Decimal Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Fractions usuelles</translation>
     </message>
     <message>
         <location line="+74"/>
@@ -379,7 +379,18 @@ p, li { white-space: pre-wrap; }
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;11/16 = .6875&lt;/span&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;13/16 = .8125&lt;/span&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;15/16 = .9375&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; 1/16 = .0625&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; 3/16 = .1875&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; 5/16 = .3125&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; 7/16 = .4375&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; 9/16 = .5625&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;11/16 = .6875&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;13/16 = .8125&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;15/16 = .9375&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="-38"/>
@@ -388,7 +399,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot;  font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p align=&quot;center&quot; style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;1/8 = .125&lt;br /&gt;2/8 = .250&lt;br /&gt;3/8 = .375&lt;br /&gt;4/8 = .500&lt;br /&gt;5/8 = .625&lt;br /&gt;6/8 = .750&lt;br /&gt;7/8 = .875&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot;  font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;1/8 = .125&lt;br /&gt;2/8 = .250&lt;br /&gt;3/8 = .375&lt;br /&gt;4/8 = .500&lt;br /&gt;5/8 = .625&lt;br /&gt;6/8 = .750&lt;br /&gt;7/8 = .875&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -412,7 +427,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/libs/vtools/undocommands/delete_draftblock.cpp" line="+69"/>
         <source>delete draft block %1</source>
-        <translation type="unfinished"></translation>
+        <translation>supprimer le bloc %1</translation>
     </message>
 </context>
 <context>
@@ -468,12 +483,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-13"/>
         <source>Downloading installer %p% complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement de l&apos;installateur %p% terminé</translation>
     </message>
     <message>
         <location filename="../../src/app/seamly2d/dialogs/dialogaboutapp.cpp" line="-7"/>
         <source>unknown</source>
-        <translation type="unfinished">inconnu</translation>
+        <translation>inconnu</translation>
     </message>
 </context>
 <context>
@@ -481,52 +496,52 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/app/seamlyme/dialogs/dialogaboutseamlyme.ui" line="+26"/>
         <source>About SeamlyMe</source>
-        <translation type="unfinished">A propos de SeamlyMe</translation>
+        <translation>À propos de SeamlyMe</translation>
     </message>
     <message>
         <location line="+48"/>
         <source>SeamlyMe version</source>
-        <translation type="unfinished">Version de SeamlyMe</translation>
+        <translation>Version de SeamlyMe</translation>
     </message>
     <message>
         <location filename="../../src/app/seamlyme/dialogs/dialogaboutseamlyme.cpp" line="+171"/>
         <source>Build revision: %1</source>
-        <translation type="unfinished">Version compilée: %1</translation>
+        <translation>Version compilée : %1</translation>
     </message>
     <message>
         <location filename="../../src/app/seamlyme/dialogs/dialogaboutseamlyme.ui" line="+28"/>
         <source>This program is part of Seamly2D project.</source>
-        <translation type="unfinished">Ce programme fait partie du projet Seamly2D.</translation>
+        <translation>Ce programme fait partie du projet Seamly2D.</translation>
     </message>
     <message>
         <location line="+163"/>
         <source>Downloading installer %p% complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement de l&apos;installateur %p% terminé</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Check For Updates</source>
-        <translation type="unfinished">Vérifier les Mises à Jour</translation>
+        <translation>Vérifier les Mises à Jour</translation>
     </message>
     <message>
         <location filename="../../src/app/seamlyme/dialogs/dialogaboutseamlyme.cpp" line="-81"/>
         <source>Cannot open your default browser</source>
-        <translation type="unfinished">Impossible d&apos;ouvrir votre navigateur par défaut</translation>
+        <translation>Impossible d&apos;ouvrir votre navigateur par défaut</translation>
     </message>
     <message>
         <location line="+85"/>
         <source>Built on %1 at %2</source>
-        <translation type="unfinished">Compilé le %1 à %2</translation>
+        <translation>Compilé le %1 à %2</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Web site : %1</source>
-        <translation type="unfinished">Site web : %1</translation>
+        <translation>Site web : %1</translation>
     </message>
     <message>
         <location line="-14"/>
         <source>unknown</source>
-        <translation type="unfinished">inconnu</translation>
+        <translation>inconnu</translation>
     </message>
 </context>
 <context>
@@ -589,52 +604,53 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+286"/>
         <source>Linetype:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Trait ? Style de ligne (trop long ?) ? Tirets ? Pointillés ?</translatorcomment>
+        <translation>Ligne :</translation>
     </message>
     <message>
         <location line="+118"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur :</translation>
     </message>
     <message>
         <location line="-577"/>
         <source>Point - On Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Point - Sur une ligne</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Unique name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom unique</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Choose unique name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nom unique.</translation>
     </message>
     <message>
         <location line="+118"/>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Géométrie</translation>
     </message>
     <message>
         <location line="+227"/>
         <source>Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributs</translation>
     </message>
     <message>
         <location line="+97"/>
         <source>Lineweight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur :</translation>
     </message>
     <message>
         <location line="-473"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -731,48 +747,49 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-118"/>
         <source>Linetype:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne :</translation>
     </message>
     <message>
         <location line="-792"/>
         <source>Arc - Radius and Angles</source>
-        <translation type="unfinished"></translation>
+        <translation>Arc - Rayon et angles</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+119"/>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Géométrie</translation>
     </message>
     <message>
         <location line="+388"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;370&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;300&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;First Angle Calculation&lt;/span&gt;&lt;br/&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p align=&quot;right&quot;&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot; style=&quot;vertical-align: middle;&quot;/&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;370&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;300&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Calcul du premier angle&lt;/span&gt;&lt;br/&gt;Les angles sont spécifiés en degrés, i.e. un tour complet vaut 360°. Les angles sont comptés positivement dans le sens inverse des aiguilles d&apos;une montre. L&apos;angle 0° est situé à 3h.&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p align=&quot;right&quot;&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot; style=&quot;vertical-align: middle;&quot;/&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+197"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
 &lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Angle Calculation&lt;/b&gt;&lt;br&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an  angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Calcul d&apos;angles&lt;/b&gt;&lt;br&gt;Les angles sont spécifiés en degrés, i.e. un tour complet vaut 360°. Les angles sont comptés positivement dans le sens inverse des aiguilles d&apos;une montre. L&apos;angle 0° est situé à 3h.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributs</translation>
     </message>
     <message>
         <location line="+97"/>
         <source>Lineweight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur :</translation>
     </message>
     <message>
         <location line="-806"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -863,43 +880,44 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-118"/>
         <source>Linetype:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne :</translation>
     </message>
     <message>
         <location line="-786"/>
         <source>Arc - Radius and Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Arc - Rayon et Longueur</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+116"/>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Géométrie</translation>
     </message>
     <message>
         <location line="+388"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
 &lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Angle Calculation&lt;/b&gt;&lt;br&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an  angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Calcul d&apos;angles&lt;/b&gt;&lt;br&gt;Les angles sont spécifiés en degrés, i.e. un tour complet vaut 360°. Les angles sont comptés positivement dans le sens inverse des aiguilles d&apos;une montre. L&apos;angle 0° est situé à 3h.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+225"/>
         <source>Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributs</translation>
     </message>
     <message>
         <location line="+97"/>
         <source>Lineweight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur :</translation>
     </message>
     <message>
         <location line="-803"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -962,52 +980,52 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+311"/>
         <source>Linetype:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne :</translation>
     </message>
     <message>
         <location line="+118"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur :</translation>
     </message>
     <message>
         <location line="-642"/>
         <source>Point - On Bisector</source>
-        <translation type="unfinished"></translation>
+        <translation>Point - Sur une bissectrice</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>Unique name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom unique</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Choose unique name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nom unique.</translation>
     </message>
     <message>
         <location line="+180"/>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Géométrie</translation>
     </message>
     <message>
         <location line="+221"/>
         <source>Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributs</translation>
     </message>
     <message>
         <location line="+97"/>
         <source>Lineweight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur :</translation>
     </message>
     <message>
         <location line="-529"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -1065,27 +1083,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/libs/vtools/dialogs/tools/dialogcubicbezier.ui" line="+90"/>
         <source>Linetype:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne :</translation>
     </message>
     <message>
         <location line="-314"/>
         <source>Curve - Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Courbe - Fixe</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+257"/>
         <source>Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributs</translation>
     </message>
     <message>
         <location line="+97"/>
         <source>Lineweight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur :</translation>
     </message>
 </context>
 <context>
@@ -1118,32 +1136,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/libs/vtools/dialogs/tools/dialogcubicbezierpath.ui" line="+160"/>
         <source>Linetype:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne :</translation>
     </message>
     <message>
         <location line="-205"/>
         <source>Spline - Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline - Fixe</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+108"/>
         <source>Path:</source>
-        <translation type="unfinished">Chemin:</translation>
+        <translation>Chemin :</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributs</translation>
     </message>
     <message>
         <location line="+97"/>
         <source>Lineweight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur :</translation>
     </message>
 </context>
 <context>
@@ -1191,58 +1209,59 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+362"/>
         <source>Linetype:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne :</translation>
     </message>
     <message>
         <location line="+118"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur :</translation>
     </message>
     <message>
         <location line="-584"/>
         <source>Intersect - Curve and Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Intersection - Courbe et Axe</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+160"/>
         <source>Unique name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom unique</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Choose unique name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nom unique.</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Géométrie</translation>
     </message>
     <message>
         <location line="+191"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
 &lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Angle Calculation&lt;/b&gt;&lt;br&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an  angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Calcul d&apos;angles&lt;/b&gt;&lt;br&gt;Les angles sont spécifiés en degrés, i.e. un tour complet vaut 360°. Les angles sont comptés positivement dans le sens inverse des aiguilles d&apos;une montre. L&apos;angle 0° est situé à 3h.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributs</translation>
     </message>
     <message>
         <location line="+97"/>
         <source>Lineweight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur :</translation>
     </message>
     <message>
         <location line="-374"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -1285,32 +1304,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-101"/>
         <source>Point - On Arc</source>
-        <translation type="unfinished"></translation>
+        <translation>Point - Sur un arc</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Unique name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom unique</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Choose unique name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nom unique.</translation>
     </message>
     <message>
         <location line="+68"/>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Géométrie</translation>
     </message>
     <message>
         <location line="-93"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -1353,32 +1372,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-101"/>
         <source>Point - On Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Point - Sur une courbe</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Unique name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom unique</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Choose unique name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nom unique.</translation>
     </message>
     <message>
         <location line="+74"/>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Géométrie</translation>
     </message>
     <message>
         <location line="-99"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -1421,32 +1440,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-101"/>
         <source>Point - On Spline</source>
-        <translation type="unfinished"></translation>
+        <translation>Point - Sur une spline</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Unique name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom unique</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Choose unique name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nom unique.</translation>
     </message>
     <message>
         <location line="+68"/>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Géométrie</translation>
     </message>
     <message>
         <location line="-93"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -1454,22 +1473,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/app/seamly2d/dialogs/dialogdatetimeformats.ui" line="+14"/>
         <source>Label date time editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Format d&apos;heure et de date</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Format :</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Insert a format</source>
-        <translation type="unfinished"></translation>
+        <translation>Renseignez un format</translation>
     </message>
     <message>
         <location filename="../../src/app/seamly2d/dialogs/dialogdatetimeformats.cpp" line="+119"/>
         <source>&lt;empty&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;empty&gt;</translation>
     </message>
 </context>
 <context>
@@ -1595,52 +1614,52 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/libs/vtools/dialogs/tools/dialogellipticalarc.ui" line="-118"/>
         <source>Linetype:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne :</translation>
     </message>
     <message>
         <location line="-193"/>
         <source>Arc - Elliptical</source>
-        <translation type="unfinished"></translation>
+        <translation>Arc - Elliptique</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+126"/>
         <source>Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributs</translation>
     </message>
     <message>
         <location line="+97"/>
         <source>Lineweight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur :</translation>
     </message>
     <message>
         <location line="+107"/>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Géométrie</translation>
     </message>
     <message>
         <location line="+567"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;370&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;300&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;First Angle Calculation&lt;/span&gt;&lt;br/&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p align=&quot;right&quot;&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot; style=&quot;vertical-align: middle;&quot;/&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;370&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;300&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Calcul du premier angle&lt;/span&gt;&lt;br/&gt;Les angles sont spécifiés en degrés, i.e. un tour complet vaut 360°. Les angles sont comptés positivement dans le sens inverse des aiguilles d&apos;une montre. L&apos;angle 0° est situé à 3h..&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p align=&quot;right&quot;&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot; style=&quot;vertical-align: middle;&quot;/&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+191"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;370&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;300&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Second Angle Calculation&lt;/span&gt;&lt;br/&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p align=&quot;right&quot;&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot; style=&quot;vertical-align: middle;&quot;/&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;370&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;300&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Calcul du deuxième angle&lt;/span&gt;&lt;br/&gt;Les angles sont spécifiés en degrés, i.e. un tour complet vaut 360°. Les angles sont comptés positivement dans le sens inverse des aiguilles d&apos;une montre. L&apos;angle 0° est situé à 3h..&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p align=&quot;right&quot;&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot; style=&quot;vertical-align: middle;&quot;/&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+191"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;370&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;300&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Rotation Angle Calculation&lt;/span&gt;&lt;br/&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p align=&quot;right&quot;&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot; style=&quot;vertical-align: middle;&quot;/&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;370&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;300&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Calcul de l&apos;angle de rotation&lt;/span&gt;&lt;br/&gt;Les angles sont spécifiés en degrés, i.e. un tour complet vaut 360°. Les angles sont comptés positivement dans le sens inverse des aiguilles d&apos;une montre. L&apos;angle 0° est situé à 3h..&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p align=&quot;right&quot;&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot; style=&quot;vertical-align: middle;&quot;/&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="-1256"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -1696,58 +1715,59 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+521"/>
         <source>Linetype:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne :</translation>
     </message>
     <message>
         <location line="+118"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur :</translation>
     </message>
     <message>
         <location line="-743"/>
         <source>Point - Length and Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Point - Longueur et Angle</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Unique name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom unique</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Choose unique name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nom unique.</translation>
     </message>
     <message>
         <location line="+74"/>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Géométrie</translation>
     </message>
     <message>
         <location line="+406"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
 &lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Angle Calculation&lt;/b&gt;&lt;br&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an  angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Angle Calculation&lt;/b&gt;&lt;br&gt;Les angles sont spécifiés en degrés, i.e. un tour complet vaut 360°. Les angles sont comptés positivement dans le sens inverse des aiguilles d&apos;une montre. L&apos;angle 0° est situé à 3h.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributs</translation>
     </message>
     <message>
         <location line="+97"/>
         <source>Lineweight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur :</translation>
     </message>
     <message>
         <location line="-633"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -1818,57 +1838,57 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+166"/>
         <source>Linetype:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne :</translation>
     </message>
     <message>
         <location line="+118"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur :</translation>
     </message>
     <message>
         <location line="-382"/>
         <source>Point - Intersect Line and Perpendicular</source>
-        <translation type="unfinished"></translation>
+        <translation>Point - Intersection entre ligne et normale</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Unique name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom unique</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Choose unique name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nom unique.</translation>
     </message>
     <message>
         <location line="+69"/>
         <source>First point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Premier point:</translation>
     </message>
     <message>
         <location line="+44"/>
         <source>Second point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Second point:</translation>
     </message>
     <message>
         <location line="+43"/>
         <source>Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributs</translation>
     </message>
     <message>
         <location line="+97"/>
         <source>Lineweight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur :</translation>
     </message>
     <message>
         <location line="-278"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -1876,356 +1896,360 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/libs/vtools/dialogs/tools/piece/dialoginternalpath.ui" line="+26"/>
         <source>Internal Path Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Outil Chemin Interne</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Path</source>
-        <translation type="unfinished">Chemin</translation>
+        <translation>Chemin</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Unnamed path</source>
-        <translation type="unfinished">Chemin sans nom</translation>
+        <translation>Chemin sans nom</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Create name for your path</source>
-        <translation type="unfinished">Créer un nom pour votre chemin</translation>
+        <translation>Renseignez un nom pour le chemin</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Type:</source>
-        <translation type="unfinished">Type:</translation>
+        <translation>Type :</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Linetype:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne :</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Piece:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pièce :</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Move row to top of list</source>
-        <translation type="unfinished"></translation>
+        <translation>Déplacer en haut de la liste</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Move row up one row</source>
-        <translation type="unfinished"></translation>
+        <translation>Monter d&apos;une ligne</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Move row down one row</source>
-        <translation type="unfinished"></translation>
+        <translation>Descendre d&apos;une ligne</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Move row to bottom of list</source>
-        <translation type="unfinished"></translation>
+        <translation>Déplacer en bas de la liste</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>The path is a cut contour</source>
-        <translation type="unfinished"></translation>
+        <translation>Le chemin est un contour découpé</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cut on fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Chemin de découpe</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Staus:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Typo in the english translation</translatorcomment>
+        <translation>Status :</translation>
     </message>
     <message>
         <location line="+7"/>
         <location filename="../../src/libs/vtools/dialogs/tools/piece/dialoginternalpath.cpp" line="+1238"/>
         <source>Ready!</source>
-        <translation type="unfinished">Prêt!</translation>
+        <translation>Prêt !</translation>
     </message>
     <message>
         <location line="+32"/>
         <location filename="../../src/libs/vtools/dialogs/tools/piece/dialoginternalpath.cpp" line="-116"/>
         <source>Seam allowance</source>
-        <translation type="unfinished">Marge de couture</translation>
+        <translation>Marge de couture</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Width:</source>
-        <translation type="unfinished">Largeur :</translation>
+        <translation>Largeur :</translation>
     </message>
     <message>
         <location line="+23"/>
         <location line="+236"/>
         <location line="+199"/>
         <source>Formula wizard</source>
-        <translation type="unfinished">Assistant Formule</translation>
+        <translation>Assistant Formule</translation>
     </message>
     <message>
         <location line="-393"/>
         <location line="+236"/>
         <location line="+199"/>
         <source>Value</source>
-        <translation type="unfinished">Valeur</translation>
+        <translation>Valeur</translation>
     </message>
     <message>
         <location line="-409"/>
         <location line="+236"/>
         <location line="+199"/>
         <source>Calculation</source>
-        <translation type="unfinished">Calcul</translation>
+        <translation>Calcul</translation>
     </message>
     <message>
         <location line="-410"/>
         <location line="+236"/>
         <location line="+199"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Show full calculation in message box&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Zone de texte ?</translatorcomment>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Afficher le calcul complet dans la zone de texte&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="-410"/>
         <source>Nodes</source>
-        <translation type="unfinished">Nœuds</translation>
+        <translation>Nœuds</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Node:</source>
-        <translation type="unfinished">Nœud:</translation>
+        <translation>Nœud :</translation>
     </message>
     <message>
         <location line="+74"/>
         <source>Before:</source>
-        <translation type="unfinished">Avant:</translation>
+        <translation>Avant :</translation>
     </message>
     <message>
         <location line="+23"/>
         <location line="+199"/>
         <source>Return to default width</source>
-        <translation type="unfinished">Retourner à la largeur par défaut</translation>
+        <translation>Revenir à la largeur par défaut</translation>
     </message>
     <message>
         <location line="-196"/>
         <location line="+199"/>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Val. par défaut</translatorcomment>
+        <translation>Défaut</translation>
     </message>
     <message>
         <location line="-26"/>
         <source>After:</source>
-        <translation type="unfinished">Après:</translation>
+        <translation>Après :</translation>
     </message>
     <message>
         <location line="+156"/>
         <location line="+618"/>
         <source>Angle:</source>
-        <translation type="unfinished">Angle:</translation>
+        <translation>Angle :</translation>
     </message>
     <message>
         <location line="-572"/>
         <location filename="../../src/libs/vtools/dialogs/tools/piece/dialoginternalpath.cpp" line="+5"/>
         <source>Notches</source>
-        <translation type="unfinished">Repères de montage</translation>
+        <translation>Repères de montage</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Notch:</source>
-        <translation type="unfinished">Repère de montage :</translation>
+        <translation>Repère de montage :</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Type</source>
-        <translation type="unfinished">Type</translation>
+        <translation>Type</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Slit</source>
-        <translation type="unfinished"></translation>
+        <translation>Fente</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>T Notch</source>
-        <translation type="unfinished"></translation>
+        <translation>Repère en T</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>U Notch</source>
-        <translation type="unfinished"></translation>
+        <translation>Repère en U</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>V Internal</source>
-        <translation type="unfinished"></translation>
+        <translation>Repère en V externe</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>V External</source>
-        <translation type="unfinished"></translation>
+        <translation>Repère en V interne</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Castle</source>
-        <translation type="unfinished"></translation>
+        <translation>Créneau</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Losange</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Sub Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Sous-catégorie</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Straightforward</source>
-        <translation type="unfinished"></translation>
+        <translation>Simple</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Bisector</source>
-        <translation type="unfinished"></translation>
+        <translation>Bissectrice</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Select to designate the corner point as a notch</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner pour faire du point un repère de montage</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Intersection</source>
-        <translation type="unfinished"></translation>
+        <translation>Intersection</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Geomtery</source>
-        <translation type="unfinished"></translation>
+        <translation>Géométrie</translation>
     </message>
     <message>
         <location line="+64"/>
         <source>Reset notch angle to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Revenir à la valeur d&apos;angle par défaut.</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>Count:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Nombre ? Quantité ?</translatorcomment>
+        <translation>Répétitions :</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Reset notch with to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Revenir à la largeur par défaut.</translation>
     </message>
     <message>
         <location line="+94"/>
         <source>This option has effect only if the second notch on seam line is enabled in global preferences. The option helps disable the second notch for this notch only.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette option n&apos;a d&apos;effet que si le second repère de montage sur la ligne de couture est activé dans les préférences globales. L&apos;option permet de désactiver le second repère, pour ce repère uniquement.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Show second notch on seam line</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher un second repère de montage sur la ligne de couture</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Reset notch length to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Revenir à la longueur par défaut.</translation>
     </message>
     <message>
         <location line="+38"/>
         <source> Width:</source>
-        <translation type="unfinished"></translation>
+        <translation> Largeur :</translation>
     </message>
     <message>
         <location line="+108"/>
         <source>Length:</source>
-        <translation type="unfinished">Longueur:</translation>
+        <translation>Longueur:</translation>
     </message>
     <message>
         <location filename="../../src/libs/vtools/dialogs/tools/piece/dialoginternalpath.cpp" line="-956"/>
         <source>Select main path objects, Use &lt;b&gt;SHIFT&lt;/b&gt; to reverse curve direction, Press &lt;b&gt;ENTER&lt;/b&gt; to finish path creation </source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez les objets du chemin principal. Appuyez sur &lt;b&gt;MAJ&lt;/b&gt; pour inverser le sens de la courbe. Appuyez sur &lt;b&gt;ENTER&lt;/b&gt; pour terminer la création du chemin </translation>
     </message>
     <message>
         <location line="+96"/>
         <source>Reverse</source>
-        <translation type="unfinished">Inverser</translation>
+        <translation>Inverser</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Delete</source>
-        <translation type="unfinished">Supprimer</translation>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <location line="+344"/>
         <source>Current seam allowance</source>
-        <translation type="unfinished">Marge de couture actuelle</translation>
+        <translation>Marge de couture actuelle</translation>
     </message>
     <message>
         <location line="+47"/>
         <source>Edit seam allowance width</source>
-        <translation type="unfinished">Editer la largeur de la marge de couture</translation>
+        <translation>Editer la largeur de la marge de couture</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Edit seam allowance width before</source>
-        <translation type="unfinished">Editer la largeur de la marge de couture avant</translation>
+        <translation>Editer la précédente largeur de la marge de couture</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Edit seam allowance width after</source>
-        <translation type="unfinished">Editer la largeur de la marge de couture après</translation>
+        <translation>Editer la prochaine largeur de la marge de couture</translation>
     </message>
     <message>
         <location line="+157"/>
         <source>Internal path</source>
-        <translation type="unfinished">Chemin interne</translation>
+        <translation>Chemin interne</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Custom seam allowance</source>
-        <translation type="unfinished">Personnaliser la marge de couture</translation>
+        <translation>Marge de couture personnalisée</translation>
     </message>
     <message>
         <location line="+342"/>
         <source>You need more points!</source>
-        <translation type="unfinished">Vous avez besoin de plus de points!</translation>
+        <translation>Vous avez besoin de plus de points !</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>First point of &lt;b&gt;custom seam allowance&lt;/b&gt; cannot be equal to the last point!</source>
-        <translation type="unfinished">Le premier point de la &lt;b&gt;marge de couture personnalisée&lt;/b&gt; ne peut être identique au dernier!</translation>
+        <translation>Le premier point de la &lt;b&gt;marge de couture personnalisée&lt;/b&gt; ne peut être identique au dernier !</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>You have double points!</source>
-        <translation type="unfinished">Vous avez des points en double!</translation>
+        <translation>Vous avez des points en double !</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Each point in the &lt;b&gt;custom seam allowance&lt;/b&gt; path must be unique!</source>
-        <translation type="unfinished"></translation>
+        <translation>Chaque point de la &lt;b&gt;marge de couture personnalisée&lt;/b&gt; doit être unique !</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>List of details is empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>La liste de pièces est vide !</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Please, select a detail to insert into!</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez sélectionner une pièce !</translation>
     </message>
 </context>
 <context>
@@ -2249,12 +2273,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/app/seamly2d/dialogs/dialoglayoutprogress.ui" line="+19"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Finding best position for workpieces. Please, wait.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Recherche de la meilleure position pour les pièces. Veuillez patienter.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../src/app/seamly2d/dialogs/dialoglayoutprogress.cpp" line="+14"/>
         <source>One or more pattern pieces are bigger than the paper format you selected. Please select a bigger paper format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Certaines pièces sont plus grandes que le format de papier sélectionné. Veuillez sélectionner un autre format de papier.</translation>
     </message>
 </context>
 <context>
@@ -2277,43 +2301,43 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+90"/>
         <source>Linetype:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne :</translation>
     </message>
     <message>
         <location line="+118"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur :</translation>
     </message>
     <message>
         <location line="-341"/>
         <source>Line - Between Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne - Entre deux points</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+160"/>
         <source>Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributs</translation>
     </message>
     <message>
         <location line="+97"/>
         <source>Lineweight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur :</translation>
     </message>
     <message>
         <location line="-237"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
     <message>
         <location filename="../../src/libs/vtools/dialogs/tools/dialogline.cpp" line="-129"/>
         <location line="+87"/>
         <source>Line_</source>
-        <translation type="unfinished">Ligne_</translation>
+        <translation>Ligne_</translation>
     </message>
 </context>
 <context>
@@ -2358,27 +2382,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-298"/>
         <source>Point - Intersect Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Point - Intersection de Lignes</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+54"/>
         <source>Unique name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom unique</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Choose unique name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nom unique.</translation>
     </message>
     <message>
         <location line="-31"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -2441,68 +2465,69 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+394"/>
         <source>Linetype:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne :</translation>
     </message>
     <message>
         <location line="+118"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur :</translation>
     </message>
     <message>
         <location line="-619"/>
         <source>Intersect - Line and Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Intersection - Ligne et Axe</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>Unique name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom unique</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Choose unique name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nom unique.</translation>
     </message>
     <message>
         <location line="+78"/>
         <source>First point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Premier point:</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Second point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Deuxième point:</translation>
     </message>
     <message>
         <location line="+52"/>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Géométrie</translation>
     </message>
     <message>
         <location line="+173"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
 &lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Angle Calculation&lt;/b&gt;&lt;br&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an  angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Calcul d&apos;angles&lt;/b&gt;&lt;br&gt;Les angles sont spécifiés en degrés, i.e. un tour complet vaut 360°. Les angles sont comptés positivement dans le sens inverse des aiguilles d&apos;une montre. L&apos;angle 0° est situé à 3h.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributs</translation>
     </message>
     <message>
         <location line="+94"/>
         <source>Lineweight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur :</translation>
     </message>
     <message>
         <location line="-512"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -2515,17 +2540,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-68"/>
         <source>ME Database - Add known measurement</source>
-        <translation type="unfinished"></translation>
+        <translation>Base de données ME - Ajouter une mesure usuelle</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Find:</source>
-        <translation type="unfinished">Rechercher:</translation>
+        <translation>Rechercher :</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Search</source>
-        <translation type="unfinished">Rechercher</translation>
+        <translation>Rechercher</translation>
     </message>
 </context>
 <context>
@@ -2533,47 +2558,49 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/libs/vtools/dialogs/tools/dialogmirrorbyaxis.ui" line="+20"/>
         <source>Mirror by Axis</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>pas &quot;symétrie axiale&quot; pour ne pas créer d&apos;ambiguïté avec l&apos;autre symétrie, par rapport à une ligne, qui est également axiale en théorie</translatorcomment>
+        <translation>Symétrie par rapport à un axe</translation>
     </message>
     <message>
         <location line="+47"/>
         <source>Axis point:</source>
-        <translation type="unfinished">Point d&apos;axe :</translation>
+        <translatorcomment>Point sur l&apos;axe ?</translatorcomment>
+        <translation>Point :</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>Suffix:</source>
-        <translation type="unfinished"></translation>
+        <translation>Suffixe :</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>Axis type:</source>
-        <translation type="unfinished">Type d&apos;axe :</translation>
+        <translation>Type d&apos;axe :</translation>
     </message>
     <message>
         <location filename="../../src/libs/vtools/dialogs/tools/dialogmirrorbyaxis.cpp" line="+214"/>
         <source>Select axis rotation point</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un point sur l&apos;axe</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Select axis rotation point that is not part of the list of objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez sélectionner un point qui ne fait pas partie de la liste d&apos;objets à symétriser</translation>
     </message>
     <message>
         <location line="+141"/>
         <source>Vertical axis</source>
-        <translation type="unfinished">Axes verticaux</translation>
+        <translation>Axe vertical</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Horizontal axis</source>
-        <translation type="unfinished">Axes horizontaux</translation>
+        <translation>Axe horizontal</translation>
     </message>
     <message>
         <location filename="../../src/libs/vtools/dialogs/tools/dialogmirrorbyaxis.ui" line="-99"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
 </context>
 <context>
@@ -2581,47 +2608,47 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/libs/vtools/dialogs/tools/dialogmirrorbyline.ui" line="+20"/>
         <source>Mirror by Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Symétrie par rapport à une ligne</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>First line point:</source>
-        <translation type="unfinished">Point de la première ligne:</translation>
+        <translation>Premier point de la ligne :</translation>
     </message>
     <message>
         <location line="+44"/>
         <source>Second line point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Second point de la ligne :</translation>
     </message>
     <message>
         <location line="+44"/>
         <source>Suffix:</source>
-        <translation type="unfinished"></translation>
+        <translation>Suffixe :</translation>
     </message>
     <message>
         <location filename="../../src/libs/vtools/dialogs/tools/dialogmirrorbyline.cpp" line="+210"/>
         <source>Select first mirror line point</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisir le premier point de la ligne de symétrie</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Select first mirror line point that is not part of the list of objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez sélectionner un point qui ne fait pas partie de la liste d&apos;objets à symétriser</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Select second mirror line point</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisir le second point de la ligne de symétrie</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Select second mirror line point that is not part of the list of objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez sélectionner un point qui ne fait pas partie de la liste d&apos;objets à symétriser</translation>
     </message>
 </context>
 <context>
@@ -2673,27 +2700,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-499"/>
         <source>Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Déplacer</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+79"/>
         <source>Origin Point:</source>
-        <translation type="unfinished">Point d&apos;origine:</translation>
+        <translation>Point d&apos;origine :</translation>
     </message>
     <message>
         <location line="+55"/>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Géométrie</translation>
     </message>
     <message>
         <location line="+400"/>
         <source>Rotation:</source>
-        <translation type="unfinished">Rotation:</translation>
+        <translation>Rotation :</translation>
     </message>
     <message>
         <location filename="../../src/libs/vtools/dialogs/tools/dialogmove.cpp" line="-287"/>
@@ -2704,18 +2731,19 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-55"/>
         <source>Edit rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier l&apos;angle de rotation</translation>
     </message>
     <message>
         <location filename="../../src/libs/vtools/dialogs/tools/dialogmove.ui" line="-238"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
 &lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Angle Calculation&lt;/b&gt;&lt;br&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an  angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Calcul d&apos;angles&lt;/b&gt;&lt;br&gt;Les angles sont spécifiés en degrés, i.e. un tour complet vaut 360°. Les angles sont comptés positivement dans le sens inverse des aiguilles d&apos;une montre. L&apos;angle 0° est situé à 3h.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+337"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;370&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;300&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Rotation Angle Calculation&lt;/span&gt;&lt;br/&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p align=&quot;right&quot;&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot; style=&quot;vertical-align: middle;&quot;/&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;370&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;300&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Calcul d&apos;angle de rotation&lt;/span&gt;&lt;br/&gt;Les angles sont spécifiés en degrés, i.e. un tour complet vaut 360°. Les angles sont comptés positivement dans le sens inverse des aiguilles d&apos;une montre. L&apos;angle 0° est situé à 3h.&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p align=&quot;right&quot;&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot; style=&quot;vertical-align: middle;&quot;/&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2723,7 +2751,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/app/seamly2d/dialogs/dialognewpattern.ui" line="+52"/>
         <source>Units:</source>
-        <translation>Unités:</translation>
+        <translation>Unités :</translation>
     </message>
     <message>
         <location filename="../../src/app/seamly2d/dialogs/dialognewpattern.cpp" line="+142"/>
@@ -2753,12 +2781,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/app/seamly2d/dialogs/dialognewpattern.cpp" line="-1"/>
         <source>Millimeters</source>
-        <translation type="unfinished">Millimètres</translation>
+        <translation>Millimètres</translation>
     </message>
     <message>
         <location filename="../../src/app/seamly2d/dialogs/dialognewpattern.ui" line="+18"/>
         <source>Draft block name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du bloc :</translation>
     </message>
 </context>
 <context>
@@ -2811,62 +2839,62 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+439"/>
         <source>Linetype:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne :</translation>
     </message>
     <message>
         <location line="-56"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur :</translation>
     </message>
     <message>
         <location line="-552"/>
         <source>Point - On Perpendicular</source>
-        <translation type="unfinished"></translation>
+        <translation>Point - Sur une normale</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+60"/>
         <source>Unique name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom unique</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Choose unique name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nom unique.</translation>
     </message>
     <message>
         <location line="+124"/>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Géométrie</translation>
     </message>
     <message>
         <location line="+223"/>
         <source>Rotation:</source>
-        <translation type="unfinished">Rotation:</translation>
+        <translation>Rotation :</translation>
     </message>
     <message>
         <location line="+73"/>
         <source>Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributs</translation>
     </message>
     <message>
         <location line="+156"/>
         <source>Lineweight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur :</translation>
     </message>
     <message>
         <location line="-198"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;370&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;300&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Rotatation Angle&lt;/span&gt;&lt;br/&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an angle means counter-clockwise while a negative value means the clockwise direction. &lt;br/&gt;&lt;br/&gt;Rotation angle is added to the angle of the perpendicular.&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p align=&quot;right&quot;&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot;/&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;370&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;300&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Angle de rotation&lt;/span&gt;&lt;br/&gt;Les angles sont spécifiés en degrés, i.e. un tour complet vaut 360°. Les angles sont comptés positivement dans le sens inverse des aiguilles d&apos;une montre. &lt;br/&gt;&lt;br/&gt;L&apos;angle de rotation est ajouté à l&apos;angle de la normale.&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p align=&quot;right&quot;&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot;/&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="-409"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -3021,7 +3049,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-1126"/>
         <source>From multisize measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>À partir de mesures multitailles</translation>
     </message>
     <message>
         <location line="-169"/>
@@ -3031,53 +3059,53 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+144"/>
         <source>For technical notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Notes techniques</translation>
     </message>
     <message>
         <location line="+1022"/>
         <location line="+46"/>
         <source>Label data</source>
-        <translation type="unfinished"></translation>
+        <translation>Données d&apos;étiquettes</translation>
     </message>
     <message>
         <location line="-38"/>
         <source>Label template:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle d&apos;étiquette :</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Edit pattern label</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier l&apos;étiquette du patron</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Edit template</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier le modèle</translation>
     </message>
     <message>
         <location line="+134"/>
         <source>Date format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Format de date :</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Time format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Format d&apos;heure :</translation>
     </message>
     <message>
         <location filename="../../src/app/seamly2d/dialogs/dialogpatternproperties.cpp" line="+781"/>
         <source>Save label data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauvegarder les données d&apos;étiquettes.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Label data were changed. Do you want to save them before editing label template?</source>
-        <translation type="unfinished"></translation>
+        <translation>Les données d&apos;étiquettes ont été modifiées. Voulez-vous les sauvegarder avant d&apos;éditer le modèle d&apos;étiquette ?</translation>
     </message>
     <message>
         <location filename="../../src/app/seamly2d/dialogs/dialogpatternproperties.ui" line="-1351"/>
         <source>Pattern preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriétés du patron</translation>
     </message>
 </context>
 <context>
@@ -3105,27 +3133,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-198"/>
         <source>Point - Intersect Arc and Tangent</source>
-        <translation type="unfinished"></translation>
+        <translation>Point - Intersection entre Arc et Tangente</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+60"/>
         <source>Unique name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom unique</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Choose unique name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nom unique.</translation>
     </message>
     <message>
         <location line="-31"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -3178,42 +3206,42 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-113"/>
         <source>Point - Intersect Arc and Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Point - Intersection entre Arc et Ligne</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+60"/>
         <source>Unique name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom unique</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Choose unique name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nom unique.</translation>
     </message>
     <message>
         <location line="+81"/>
         <source>1st line point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Premier point de la ligne :</translation>
     </message>
     <message>
         <location line="+56"/>
         <source>2nd line point</source>
-        <translation type="unfinished"></translation>
+        <translation>Second point de la ligne</translation>
     </message>
     <message>
         <location line="+61"/>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Géométrie</translation>
     </message>
     <message>
         <location line="-229"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -3241,27 +3269,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-198"/>
         <source>Point - Intersect Arcs</source>
-        <translation type="unfinished"></translation>
+        <translation>Point - Intersection entre deux Arcs</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+54"/>
         <source>Unique name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom unique</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Choose unique name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nom unique.</translation>
     </message>
     <message>
         <location line="-25"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -3284,37 +3312,39 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/libs/vtools/dialogs/tools/dialogpointofintersectioncurves.ui" line="-166"/>
         <source>Point - Intersect Curves</source>
-        <translation type="unfinished"></translation>
+        <translation>Point - Intersection de Courbes</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>Unique name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom unique</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Choose unique name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nom unique.</translation>
     </message>
     <message>
         <location line="+128"/>
         <source>Vertical take:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>sûrement pas la meilleure traduction...</translatorcomment>
+        <translation>Prise verticale :</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>Horizontal take:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>sûrement pas la meilleure traduction...</translatorcomment>
+        <translation>Prise horizontale :</translation>
     </message>
     <message>
         <location line="-209"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -3327,22 +3357,24 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-61"/>
         <source>Application Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Préférences de l&apos;application</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>General</source>
-        <translation type="unfinished">Général</translation>
+        <translation>Général</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>File Paths</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>chemins de fichiers : trop long</translatorcomment>
+        <translation>Fichiers</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Graphismes ?</translatorcomment>
+        <translation>Graphiques</translation>
     </message>
 </context>
 <context>
@@ -3380,33 +3412,34 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/libs/vtools/dialogs/tools/dialogrotation.ui" line="-76"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Rotation pt:</source>
-        <translation type="unfinished"></translation>
+        <translation>Point de rotation :</translation>
     </message>
     <message>
         <location line="+93"/>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Géométrie</translation>
     </message>
     <message>
         <location filename="../../src/libs/vtools/dialogs/tools/dialogrotation.cpp" line="-127"/>
         <source>Select rotation point</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un point de rotation</translation>
     </message>
     <message>
         <location line="+66"/>
         <source>Select rotation point that is not part of the list of objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un point de rotation qui ne fait pas partie de la liste des objets</translation>
     </message>
     <message>
         <location filename="../../src/libs/vtools/dialogs/tools/dialogrotation.ui" line="+168"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
 &lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Angle Calculation&lt;/b&gt;&lt;br&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an  angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Calcul d&apos;angles&lt;/b&gt;&lt;br&gt;Les angles sont spécifiés en degrés, i.e. un tour complet vaut 360°. Les angles sont comptés positivement dans le sens inverse des aiguilles d&apos;une montre. L&apos;angle 0° est situé à 3h.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -3414,17 +3447,18 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/app/seamlyme/dialogs/dialogseamlymepreferences.ui" line="+26"/>
         <source>Preferences</source>
-        <translation type="unfinished">Préférences</translation>
+        <translation>Préférences</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Configuration</source>
-        <translation type="unfinished">Configuration</translation>
+        <translation>Configuration</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>File Paths</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>chemins de fichiers : trop long</translatorcomment>
+        <translation>Chemins</translation>
     </message>
 </context>
 <context>
@@ -3487,52 +3521,52 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+302"/>
         <source>Linetype:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne :</translation>
     </message>
     <message>
         <location line="+118"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur :</translation>
     </message>
     <message>
         <location line="-627"/>
         <source>Point - Length to Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Point - Sur Ligne à distance d&apos;un Point</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+54"/>
         <source>Unique name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom unique</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Choose unique name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nom unique.</translation>
     </message>
     <message>
         <location line="+174"/>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Géométrie</translation>
     </message>
     <message>
         <location line="+218"/>
         <source>Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributs</translation>
     </message>
     <message>
         <location line="+97"/>
         <source>Lineweight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur :</translation>
     </message>
     <message>
         <location line="-514"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -3550,37 +3584,37 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-115"/>
         <source>Base Point</source>
-        <translation type="unfinished">Point de base</translation>
+        <translation>Point de base</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+48"/>
         <source>Unique name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom unique</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Choose unique name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nom unique.</translation>
     </message>
     <message>
         <location line="+56"/>
         <source>X coordinate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Coordonnée X :</translation>
     </message>
     <message>
         <location line="+44"/>
         <source>Y coordinate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Coordonnée Y :</translation>
     </message>
     <message>
         <location line="-128"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -3704,32 +3738,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-972"/>
         <source>Linetype:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne :</translation>
     </message>
     <message>
         <location line="-243"/>
         <source>Curve - Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Courbe - Interactive</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+173"/>
         <source>Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributs</translation>
     </message>
     <message>
         <location line="+97"/>
         <source>Lineweight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur :</translation>
     </message>
     <message>
         <location line="+101"/>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Géométrie</translation>
     </message>
 </context>
 <context>
@@ -3858,42 +3892,42 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-990"/>
         <source>Linetype:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne :</translation>
     </message>
     <message>
         <location line="-230"/>
         <source>Spline - Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline - Interactive</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+114"/>
         <source>Path:</source>
-        <translation type="unfinished">Chemin:</translation>
+        <translation>Chemin :</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributs</translation>
     </message>
     <message>
         <location line="+97"/>
         <source>Lineweight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur :</translation>
     </message>
     <message>
         <location line="+113"/>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Géométrie</translation>
     </message>
     <message>
         <location filename="../../src/libs/vtools/dialogs/tools/dialogsplinepath.cpp" line="+1"/>
         <source>Result value</source>
-        <translation type="unfinished"></translation>
+        <translation>Résultat</translation>
     </message>
 </context>
 <context>
@@ -3962,47 +3996,47 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+326"/>
         <source>by length</source>
-        <translation>Par longueur</translation>
+        <translation>selon la longueur</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>by points intersetions</source>
-        <translation>Par points d&apos;intersections</translation>
+        <translation>selon l&apos;intersection des points</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>by first edge symmetry</source>
-        <translation type="unfinished"></translation>
+        <translation>symétrique au premier bord</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>by second edge symmetry</source>
-        <translation type="unfinished"></translation>
+        <translation>symétrique au second bord</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>by first edge right angle</source>
-        <translation type="unfinished"></translation>
+        <translation>à angle droit avec le premier bord</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>by second edge right angle</source>
-        <translation type="unfinished"></translation>
+        <translation>à angle droit avec le second bord</translation>
     </message>
     <message>
         <location line="+110"/>
         <source>Invalid result. Value is infinite or NaN. Please, check your calculations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Résultat non valide. La valeur est infinie ou NaN. Veuillez vérifier vos calculs.</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Value can&apos;t be less than 0</source>
-        <translation type="unfinished"></translation>
+        <translation>La valeur ne peut pas être inférieure à 0</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Result Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Résultat</translation>
     </message>
 </context>
 <context>
@@ -4035,37 +4069,37 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-211"/>
         <source>Point - Intersect Axis and Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Point - Intersection Axe et Triangle</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Unique name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom unique</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Choose unique name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nom unique.</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>1st axis point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Premier point de l&apos;axe :</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>2nd axis point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Second point de l&apos;axe :</translation>
     </message>
     <message>
         <location line="-82"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -4093,59 +4127,60 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/libs/vtools/dialogs/tools/dialogtruedarts.ui" line="+48"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location line="+123"/>
         <source>1st base point:</source>
-        <translation type="unfinished"></translation>
+        <translation>1er point de base :</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>2nd base point:</source>
-        <translation type="unfinished"></translation>
+        <translation>2nd point de base :</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>1st dart point:</source>
-        <translation type="unfinished"></translation>
+        <translation>1er point de la pince :</translation>
     </message>
     <message>
         <location line="+44"/>
         <source>2nd dart point:</source>
-        <translation type="unfinished"></translation>
+        <translation>2e point de la pince :</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>3rd dart point:</source>
-        <translation type="unfinished"></translation>
+        <translation>3e point de la pince :</translation>
     </message>
     <message>
         <location line="-345"/>
         <source>True Darts</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>vraie pince ne semble pas parfaitement convenir</translatorcomment>
+        <translation>Pince parfaite</translation>
     </message>
     <message>
         <location line="+79"/>
         <location line="+44"/>
         <source>Unique name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom unique</translation>
     </message>
     <message>
         <location line="-41"/>
         <location line="+44"/>
         <source>Choose unique name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nom unique.</translation>
     </message>
     <message>
         <location line="-69"/>
         <source>Point name 1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du point 1 :</translation>
     </message>
     <message>
         <location line="+44"/>
         <source>Point name 2:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du point 2 :</translation>
     </message>
 </context>
 <context>
@@ -4181,174 +4216,174 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/app/seamly2d/dialogs/dialogvariables.ui" line="+20"/>
         <source>Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Variables</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Filter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtre :</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Filter list by keyword</source>
-        <translation type="unfinished">Filtrer la liste par mot-clefs</translation>
+        <translation>Filtrer la liste par mot clé</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Custom variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Variables personnalisées</translation>
     </message>
     <message>
         <location line="+68"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>The calculated value</source>
-        <translation type="unfinished">Valeur calculée</translation>
+        <translation>Valeur calculée</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Formula</source>
-        <translation type="unfinished">Formule</translation>
+        <translation>Formule</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Move measurement up</source>
-        <translation type="unfinished">Déplacer la mesure vers le haut</translation>
+        <translation>Déplacer la mesure vers le haut</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Move measurement down</source>
-        <translation type="unfinished">Déplacer la mesure vers le bas</translation>
+        <translation>Déplacer la mesure vers le bas</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Formula wizard</source>
-        <translation type="unfinished">Assistant Formule</translation>
+        <translation>Assistant Formule</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Add custom variable</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter une variable personnalisée</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Remove custom variable</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer la variable personnalisée</translation>
     </message>
     <message>
         <location line="+27"/>
         <location line="+3"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Détails</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Unique variable name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de variable unique</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Calculated value:</source>
-        <translation type="unfinished">Valeur calculée:</translation>
+        <translation>Valeur calculée :</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Formula:</source>
-        <translation type="unfinished">Formule:</translation>
+        <translation>Formule :</translation>
     </message>
     <message>
         <location line="+33"/>
         <source>Calculation</source>
-        <translation type="unfinished">Calcul</translation>
+        <translation>Calcul</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Description:</source>
-        <translation type="unfinished">Description:</translation>
+        <translation>Description :</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>Refresh a pattern with all changes you made</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualiser le patron avec tous les changements effectués</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Refresh</source>
-        <translation type="unfinished">Actualiser</translation>
+        <translation>Actualiser</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Line lengths</source>
-        <translation type="unfinished"></translation>
+        <translation>Longueurs des lignes</translation>
     </message>
     <message>
         <location line="+28"/>
         <location line="+48"/>
         <source>Line</source>
-        <translation type="unfinished">Ligne</translation>
+        <translation>Ligne</translation>
     </message>
     <message>
         <location line="-43"/>
         <location line="+96"/>
         <location line="+96"/>
         <source>Length</source>
-        <translation type="unfinished">Longueur</translation>
+        <translation>Longueur</translation>
     </message>
     <message>
         <location line="-177"/>
         <source>Line angles</source>
-        <translation type="unfinished"></translation>
+        <translation>Angles des lignes</translation>
     </message>
     <message>
         <location line="+33"/>
         <location line="+96"/>
         <source>Angle</source>
-        <translation type="unfinished">Angle</translation>
+        <translation>Angle</translation>
     </message>
     <message>
         <location line="-81"/>
         <source>Curve lengths</source>
-        <translation type="unfinished"></translation>
+        <translation>Longueurs des courbes</translation>
     </message>
     <message>
         <location line="+28"/>
         <location line="+48"/>
         <location line="+48"/>
         <source>Curve</source>
-        <translation type="unfinished">Courbe</translation>
+        <translation>Courbe</translation>
     </message>
     <message>
         <location line="-76"/>
         <source>Curve angles</source>
-        <translation type="unfinished"></translation>
+        <translation>Angles des courbes</translation>
     </message>
     <message>
         <location line="+48"/>
         <source>Control point lengths</source>
-        <translation type="unfinished"></translation>
+        <translation>Longueur des points de contrôle</translation>
     </message>
     <message>
         <location line="+48"/>
         <source>Arc radiuses</source>
-        <translation type="unfinished"></translation>
+        <translation>Rayons des arcs</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Arc</source>
-        <translation type="unfinished">Arc</translation>
+        <translation>Arc</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Radius</source>
-        <translation type="unfinished">Rayon</translation>
+        <translation>Rayon</translation>
     </message>
     <message>
         <location filename="../../src/app/seamly2d/dialogs/dialogvariables.cpp" line="+394"/>
@@ -4356,39 +4391,39 @@ p, li { white-space: pre-wrap; }
         <location line="+11"/>
         <location line="+380"/>
         <source>Error</source>
-        <translation type="unfinished">Erreur</translation>
+        <translation>Erreur</translation>
     </message>
     <message>
         <location line="-415"/>
         <location line="+415"/>
         <source>Empty field.</source>
-        <translation type="unfinished">Champ vide.</translation>
+        <translation>Champ vide.</translation>
     </message>
     <message>
         <location line="-414"/>
         <source>Empty field</source>
-        <translation type="unfinished">Champ vide</translation>
+        <translation>Champ vide</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Invalid result. Value is infinite or NaN. Please, check your calculations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Résultat non valide. La valeur est infinie ou NaN. Veuillez vérifier vos calculs.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Value</source>
-        <translation type="unfinished">Valeur</translation>
+        <translation>Valeur</translation>
     </message>
     <message>
         <location line="+5"/>
         <location line="+1"/>
         <source>Parser error: %1</source>
-        <translation type="unfinished">Erreur d&apos;analyse : %1</translation>
+        <translation>Erreur de l&apos;analyseur syntaxique : %1</translation>
     </message>
     <message>
         <location line="+424"/>
         <source>Edit variable</source>
-        <translation type="unfinished"></translation>
+        <translation>Éditer la variable</translation>
     </message>
 </context>
 <context>
@@ -4396,17 +4431,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/libs/vtools/tools/drawTools/toolpoint/toolsinglepoint/toollinepoint/doubleline_point_tool.cpp" line="+220"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Length</source>
-        <translation type="unfinished">Longueur</translation>
+        <translation>Longueur</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Tool</source>
-        <translation type="unfinished">Outil</translation>
+        <translation>Outil</translation>
     </message>
 </context>
 <context>
@@ -4414,148 +4449,148 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/libs/vtools/dialogs/support/edit_formula_dialog.ui" line="+35"/>
         <source>Edit formula</source>
-        <translation type="unfinished">Modifier la formule</translation>
+        <translation>Éditer  la formule</translation>
     </message>
     <message>
         <location line="+115"/>
         <source>Measurements</source>
-        <translation type="unfinished">Mesures</translation>
+        <translation>Mesures</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Custom Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Variables personnalisées</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Line Lengths</source>
-        <translation type="unfinished"></translation>
+        <translation>Longueurs des lignes</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Line Angles</source>
-        <translation type="unfinished"></translation>
+        <translation>Angles des lignes</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Curve Lengths</source>
-        <translation type="unfinished"></translation>
+        <translation>Longueurs des courbes</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Curve Angles</source>
-        <translation type="unfinished"></translation>
+        <translation>Angles des courbes</translation>
     </message>
     <message>
         <location line="+8"/>
         <source> Control Point Lengths</source>
-        <translation type="unfinished"></translation>
+        <translation> Longueur des points de contrôle</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Arc Radii</source>
-        <translation type="unfinished"></translation>
+        <translation>Rayons des arcs</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Functions</source>
-        <translation type="unfinished">Fonction</translation>
+        <translation>Fonctions</translation>
     </message>
     <message>
         <location line="+93"/>
         <source>Formula:</source>
-        <translation type="unfinished">Formule:</translation>
+        <translation>Formule :</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Value</source>
-        <translation type="unfinished">Valeur</translation>
+        <translation>Valeur</translation>
     </message>
     <message>
         <location line="+48"/>
         <source>Calculation</source>
-        <translation type="unfinished">Calcul</translation>
+        <translation>Calcul</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Clear formula</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer la formule</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Reset to original formula</source>
-        <translation type="unfinished"></translation>
+        <translation>Revenir à la formule initiale</translation>
     </message>
     <message>
         <location line="+91"/>
         <source>Insert variable into formula</source>
-        <translation type="unfinished">Insérer une variable dans la formule</translation>
+        <translation>Insérer une variable dans la formule</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>Hides measurement variables that have no value</source>
-        <translation type="unfinished"></translation>
+        <translation>Cacher les variables de mesures qui n&apos;ont pas de valeur</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Hide empty measurements</source>
-        <translation type="unfinished">Masquer les mesures vides</translation>
+        <translation>Masquer les mesures vides</translation>
     </message>
     <message>
         <location line="+78"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Full name</source>
-        <translation type="unfinished">Nom complet</translation>
+        <translation>Nom complet</translation>
     </message>
     <message>
         <location line="+28"/>
         <location line="+16"/>
         <source>Filter variable list by keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrer la liste de variables par mot clé</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Filter list by keyword</source>
-        <translation type="unfinished">Filtrer la liste par mot-clefs</translation>
+        <translation>Filtrer la liste par mot clé</translation>
     </message>
     <message>
         <location filename="../../src/libs/vtools/dialogs/support/edit_formula_dialog.cpp" line="+218"/>
         <source>Measurement</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesures</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Custom Variable</source>
-        <translation type="unfinished"></translation>
+        <translation>Variables personnalisées</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Line length</source>
-        <translation type="unfinished">Longueur de ligne</translation>
+        <translation>Longueur de la ligne</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Curve length</source>
-        <translation type="unfinished">Longueur de courbe</translation>
+        <translation>Longueur de courbe</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Line Angle</source>
-        <translation type="unfinished">Angle de Ligne</translation>
+        <translation>Angle de la ligne</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Arc radius</source>
-        <translation type="unfinished">Rayon de l&apos;arc</translation>
+        <translation>Rayon de l&apos;arc</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Curve angle</source>
-        <translation type="unfinished">Angle de la courbe</translation>
+        <translation>Angle de la courbe</translation>
     </message>
 </context>
 <context>
@@ -4563,37 +4598,37 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/libs/vtools/dialogs/tools/editgroup_dialog.ui" line="+32"/>
         <source>Add Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un groupe</translation>
     </message>
     <message>
         <location line="+48"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
     <message>
         <location line="+44"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur :</translation>
     </message>
     <message>
         <location line="-16"/>
         <source>Unique pattern piece name</source>
-        <translation type="unfinished">Nom unique de pièce de patron</translation>
+        <translation>Nom unique pour la pièce</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Unique group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom unique pour le groupe</translation>
     </message>
     <message>
         <location line="+101"/>
         <source>Linetype:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne :</translation>
     </message>
     <message>
         <location line="-44"/>
         <source>Lineweight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur :</translation>
     </message>
 </context>
 <context>
@@ -4601,296 +4636,298 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/libs/vtools/dialogs/support/editlabeltemplate_dialog.ui" line="+17"/>
         <source>Edit label template</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier le modèle d&apos;étiquette</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Clear current and begin new label</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer l&apos;étiquette actuelle et en débuter une nouvelle</translation>
     </message>
     <message>
         <location line="+33"/>
         <source>Import from label template</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer à partir d&apos;un modèle d&apos;étiquette</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Export label as template</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter l&apos;étiquette en tant que modèle</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Bold</source>
         <comment>Font formatting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gras</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Italic</source>
         <comment>Font formatting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Italique</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Aligns with the left edge</source>
-        <translation type="unfinished"></translation>
+        <translation>Aligner sur le bord gauche</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Centers horizontally in the available space</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrer horizontalement dans l&apos;espace disponible</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Aligns with the right edge</source>
-        <translation type="unfinished"></translation>
+        <translation>Aligner sur le bord droit</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Additional font size. Use to make a line bigger.</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille de police additionnelle. Utile pour agrandir une ligne spécifique.</translation>
     </message>
     <message>
         <location line="+56"/>
         <source>Text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Texte :</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Line of text</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne de texte</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Insert placeholders</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>générique ?</translatorcomment>
+        <translation>Insérer un placeholder</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Insert...</source>
-        <translation type="unfinished"></translation>
+        <translation>Insérer...</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>prévisualisation ?</translatorcomment>
+        <translation>Prévisualisation</translation>
     </message>
     <message>
         <location filename="../../src/libs/vtools/dialogs/support/editlabeltemplate_dialog.cpp" line="+176"/>
         <source>&lt;empty&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;vide&gt;</translation>
     </message>
     <message>
         <location line="+120"/>
         <source>Create new template</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un nouveau modèle</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Creating new template will overwrite the current, do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>La création d&apos;un nouveau modèle va réécrire l&apos;étiquette actuelle, voulez-vous continuer ?</translation>
     </message>
     <message>
         <location line="+18"/>
         <location line="+70"/>
         <source>Label template</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle d&apos;étiquette</translation>
     </message>
     <message>
         <location line="-60"/>
         <source>Export label template</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter le modèle d&apos;étiquette</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>template</source>
-        <translation type="unfinished"></translation>
+        <translation>modèle</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Could not save file</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier n&apos;a pas pu être sauvegardé</translation>
     </message>
     <message>
         <location line="+15"/>
         <location line="+11"/>
         <source>Import template</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer un modèle</translation>
     </message>
     <message>
         <location line="-10"/>
         <source>Import template will overwrite the current, do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;importation d&apos;un modèle va réécrire l&apos;étiquette actuelle, voulez-vous continuer ?</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>File error.</source>
-        <translation type="unfinished">Erreur de fichier.</translation>
+        <translation>Erreur avec le fichier.</translation>
     </message>
     <message>
         <location line="+95"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Date</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Heure</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Pattern name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du patron</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Pattern number</source>
-        <translation type="unfinished"></translation>
+        <translation>Numéro du patron</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Company name or designer name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de l&apos;entreprise ou du créateur</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Customer name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du client</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Pattern extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Extension du patron</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Pattern file name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du fichier de patron</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Measurments file name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du fichier de mesures</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Size</source>
-        <translation type="unfinished">Taille</translation>
+        <translation>Taille</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Height</source>
-        <translation type="unfinished">Hauteur</translation>
+        <translation>Hauteur</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Measurments extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Extension du fichier de mesure</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Piece letter</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettre de la pièce</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Piece annotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Annotation de la pièce</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Piece orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientation de la pièce</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Piece rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotation de la pièce</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Piece tilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Inclinaison de la pièce</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Piece fold position</source>
-        <translation type="unfinished"></translation>
+        <translation>Position du pli de la pièce</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Piece name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de la pièce</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Quantity</source>
-        <translation type="unfinished"></translation>
+        <translation>Quantité</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Material: Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Matériaux : Tissu</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Fabric</source>
-        <translation type="unfinished">Tissu</translation>
+        <translation>Tissu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Material: Lining</source>
-        <translation type="unfinished"></translation>
+        <translation>Matériaux : Doublure</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Lining</source>
-        <translation type="unfinished">Lin</translation>
+        <translation>Doublure</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Material: Interfacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Matériaux : Entoilage</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Interfacing</source>
-        <translation type="unfinished">Interfaçage</translation>
+        <translation>Entoilage</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Material: Interlining</source>
-        <translation type="unfinished"></translation>
+        <translation>Matériaux : Entredoublure</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Interlining</source>
-        <translation type="unfinished">Interlignage</translation>
+        <translation>Entredoublure</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Word: Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Mot : Couper</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Cut</source>
-        <translation type="unfinished">Coupure</translation>
+        <translation>Couper</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Word: on fold</source>
-        <translation type="unfinished"></translation>
+        <translation>Mot : sur le pli</translation>
     </message>
     <message>
         <location line="+86"/>
         <source>on fold</source>
-        <translation type="unfinished"></translation>
+        <translation>sur le pli</translation>
     </message>
 </context>
 <context>
@@ -4898,12 +4935,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/libs/vwidgets/export_format_combobox.cpp" line="+204"/>
         <source>(flat) files</source>
-        <translation type="unfinished"></translation>
+        <translation>fichiers (plats)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>files</source>
-        <translation type="unfinished"></translation>
+        <translation>fichiers</translation>
     </message>
 </context>
 <context>
@@ -4911,163 +4948,164 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/app/seamly2d/dialogs/export_layout_dialog.ui" line="+40"/>
         <source>Export Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter le layout</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Binary form</source>
-        <translation type="unfinished"></translation>
+        <translation>Format binaire</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Text as paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter les textes comme des chemins</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>Path:</source>
-        <translation type="unfinished">Chemin:</translation>
+        <translation>Chemin :</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Destination folder</source>
-        <translation type="unfinished">Le dossier de destination</translation>
+        <translation>Dossier de destination</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Path to destination folder</source>
-        <translation type="unfinished">Emplacement du dossier de destination</translation>
+        <translation>Emplacement du dossier de destination</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Select path to destination folder</source>
-        <translation type="unfinished">Sélectionnez un emplacement pour le dossier de destination</translation>
+        <translation>Sélectionnez &apos;l&apos;emplacement du dossier de destination</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Browse...</source>
-        <translation type="unfinished">Parcourir...</translation>
+        <translation>Parcourir...</translation>
     </message>
     <message>
         <location line="+48"/>
         <source>File format:</source>
-        <translation type="unfinished">Format du fichier:</translation>
+        <translation>Format du fichier :</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>File name:</source>
-        <translation type="unfinished">Nom du fichier:</translation>
+        <translation>Nom du fichier :</translation>
     </message>
     <message>
         <location line="+22"/>
         <location line="+3"/>
         <source>File base name</source>
-        <translation type="unfinished">Nom du fichier de base</translation>
+        <translation>Nom de base du fichier</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Quality (0-100):</source>
-        <translation type="unfinished"></translation>
+        <translation>Qualité (0-100) :</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
     <message>
         <location line="+122"/>
         <source>+</source>
-        <translation type="unfinished"></translation>
+        <translation>+</translation>
     </message>
     <message>
         <location line="+158"/>
         <source>Margins</source>
-        <translation type="unfinished"></translation>
+        <translation>Marges</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Right:</source>
-        <translation type="unfinished">Droite:</translation>
+        <translation>Droite :</translation>
     </message>
     <message>
         <location line="+48"/>
         <source>Left:</source>
-        <translation type="unfinished">Gauche:</translation>
+        <translation>Gauche :</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Top:</source>
-        <translation type="unfinished">Haut:</translation>
+        <translation>Haut :</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Bottom:</source>
-        <translation type="unfinished">Bas:</translation>
+        <translation>Bas :</translation>
     </message>
     <message>
         <location line="+54"/>
         <source>Paper format</source>
-        <translation type="unfinished">Format du papier</translation>
+        <translation>Format du papier</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Templates: </source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>&quot;Modèle&quot; semble peu approprié...</translatorcomment>
+        <translation>Format : </translation>
     </message>
     <message>
         <location line="+38"/>
         <source>Orientation: </source>
-        <translation type="unfinished"></translation>
+        <translation>Orientation : </translation>
     </message>
     <message>
         <location filename="../../src/app/seamly2d/dialogs/export_layout_dialog.cpp" line="+89"/>
         <source>The base filename does not match a regular expression.</source>
-        <translation type="unfinished">Le nom du fichier de base ne correspond pas à une expression régulière.</translation>
+        <translation>Le nom du fichier de base ne correspond pas à une expression régulière.</translation>
     </message>
     <message>
         <location line="+65"/>
         <source>Select folder</source>
-        <translation type="unfinished">Sélectionner un dossier</translation>
+        <translation>Sélectionner un dossier</translation>
     </message>
     <message>
         <location line="+48"/>
         <source>Tried to use out of range format number.</source>
-        <translation type="unfinished">Nombre au delà de la plage de valeur.</translation>
+        <translation>Nombre au delà de la plage de valeur autorisée.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Selected not present format.</source>
-        <translation type="unfinished">Format sélectionné, absent.</translation>
+        <translation>Format sélectionné absent.</translation>
     </message>
     <message>
         <location line="+123"/>
         <source>The destination directory doesn&apos;t exist or is not readable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le dossier de destination n&apos;existe pas ou n&apos;est pas accessible.</translation>
     </message>
     <message>
         <location line="+108"/>
         <source>%1 already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 existe déjà.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1 files with basename %2 already exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 fichier(s) avec le nom de base %2 existe(nt) déjà.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Do you want to replace them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Voulez-vous les remplacer ?</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Confirm Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer l&apos;export</translation>
     </message>
     <message>
         <location filename="../../src/app/seamly2d/dialogs/export_layout_dialog.ui" line="-312"/>
         <source>Export files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichiers exportés :</translation>
     </message>
 </context>
 <context>
@@ -5093,35 +5131,40 @@ p, li { white-space: pre-wrap; }
         <source>Unable to open file
 %1
 for writing</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d&apos;ouvrir le fichier
+%1
+pour écriture</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>File download failed: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement du fichier échoué : %1.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Download has started, the installer will open once it&apos;s finished downloading</source>
-        <translation type="unfinished"></translation>
+        <translation>Le téléchargement a débuté, l&apos;installateur s&apos;ouvrira une fois le téléchargement terminé</translation>
     </message>
     <message>
         <location line="+88"/>
         <source>No new releases available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas de nouvelle version disponible.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>A new release %1 is available.
 Do you want to download it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Une nouvelle version %1 est disponible.
+Voulez-vous la télécharger ?</translation>
     </message>
     <message>
         <location line="-141"/>
         <source>Unable to get exclusive access to file 
 %1
 Possibly the file is already being downloaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d&apos;obtenir l&apos;accès exclusif au fichier
+%1
+Le fichier a peut-être déjà été téléchargé.</translation>
     </message>
 </context>
 <context>
@@ -5129,369 +5172,369 @@ Possibly the file is already being downloaded.</source>
     <message>
         <location filename="../../src/app/seamly2d/dialogs/groups_widget.ui" line="+27"/>
         <source>Group Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestionnaire de groupes</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Show All Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Montrer tous les groupes</translation>
     </message>
     <message>
         <location line="+23"/>
         <location line="+3"/>
         <source>Hide all groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Cacher tous les groupes</translation>
     </message>
     <message>
         <location line="+20"/>
         <location line="+3"/>
         <source>Lock all groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Verrouiller tous les groupes</translation>
     </message>
     <message>
         <location line="+20"/>
         <location line="+3"/>
         <source>Unlock all groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Déverrouiller tous les groupes</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Add a new group to the list</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un nouveau groupe à la liste</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Delete active group from the list</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer le groupe actif de la liste</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Edit group properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Editer les propriétés du groupe</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Groups</source>
-        <translation type="unfinished">Groupes</translation>
+        <translation>Groupes</translation>
     </message>
     <message>
         <location line="+82"/>
         <source>Group list</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste des groupes</translation>
     </message>
     <message>
         <location line="+76"/>
         <source>Group object list</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste des objets du groupe</translation>
     </message>
     <message>
         <location line="+3"/>
         <location filename="../../src/app/seamly2d/dialogs/groups_widget.cpp" line="+637"/>
         <source>Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Objets</translation>
     </message>
     <message>
         <location line="+147"/>
         <source>Double clicking zooms to object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Double-cliquer pour zoomer sur l&apos;objet.</translation>
     </message>
     <message>
         <location filename="../../src/app/seamly2d/dialogs/groups_widget.cpp" line="-280"/>
         <location line="+96"/>
         <source>Name Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nom existe déjà</translation>
     </message>
     <message>
         <location line="-92"/>
         <location line="+96"/>
         <source>The action can&apos;t be completed because the group name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;opération ne peut aboutir car le nom du groupe existe déjà.</translation>
     </message>
     <message>
         <location line="-23"/>
         <source>Edit Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Editer le groupe</translation>
     </message>
     <message>
         <location line="+94"/>
         <source>Delete</source>
-        <translation type="unfinished">Supprimer</translation>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <location line="+59"/>
         <source>Show which groups in the list are visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Montre quels groupes de la liste sont visibles</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Show which groups in the list are locked</source>
-        <translation type="unfinished"></translation>
+        <translation>Montre quels groupes de la liste sont verrouillés</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Show which groups contain objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Montre quels groupes contiennent des objets</translation>
     </message>
     <message>
         <location line="+140"/>
         <source>Unknown Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Objet inconnu</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>%1 - Base point</source>
-        <translation type="unfinished">%1 - Point de départ</translation>
+        <translation>%1 - Point de départ</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1 - Point Length and Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Point Longueur et Angle</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Line %1_%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne %1_%2</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>%1 - Point On Line</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Point sur une Ligne</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1 - Point Length to Line</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Point sur Ligne à distance d&apos;un Point</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1 - Point On Perpendicular</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Point sur une normale</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1 - Point On Bisector</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Point sur une Bissectrice</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1 - Point Intersect Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Point Intersection de Lignes</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>%1 - Curve Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Courbe interactive</translation>
     </message>
     <message>
         <location line="+0"/>
         <location line="+9"/>
         <source>Spl_</source>
-        <translation type="unfinished">Spl_</translation>
+        <translation>Spl_</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>%1 - Curve Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Courbe fixe</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>%1 - Arc Radius &amp; Angles</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Arc Rayon et Angles</translation>
     </message>
     <message>
         <location line="+0"/>
         <location line="+9"/>
         <source>Arc_</source>
-        <translation type="unfinished">Arc_</translation>
+        <translation>Arc_</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>%1 - Arc Radius &amp; Length</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Arc Rayon et Longueur</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>%1 - Spline Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Spline Interactive</translation>
     </message>
     <message>
         <location line="+0"/>
         <location line="+9"/>
         <source>SplPath_</source>
-        <translation type="unfinished"></translation>
+        <translation>SplPath_</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>%1 - Spline Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Spline Fixe</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>%1 - Point Intersect Arc &amp; Line</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Point Intersection Arc et Ligne</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1 - Point Intersect Line &amp; Perpendicular</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Point Intersection Ligne et Normale</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1 - Point Intersect Axis &amp; Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Point Intersection Axe et Triangle</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1 - Point Intersect XY</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Point Intersection XY</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>%1 - Point On Arc</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Point Sur un Arc</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>%1 - Point On Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Point sur une Courbe</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>%1 - Point On Spline</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Point sur une Spline</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>%1 - Point Intersect Line &amp; Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Point Intersection Ligne et Axe</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1 - Point Intersect Curve &amp; Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Point Intersection Courbe et Axe</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1 - Point Intersect Arcs</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Point Intersection Arcs</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1 - Point Intersect Circles</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Point Intersection Cercles</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1 - Point Intersect Curves</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Point Intersection Courbes</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1 - Point Intersect Circle &amp; Tangent</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Point Intersection Cercle &amp; Tangente</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1 - Point Intersect Arc &amp; Tangent</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Point Intersection Arc &amp; Tangente</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1 - True Dart %2_%3_%4</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Pince parfaite %2_%3_%4</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>%1 - Arc Elliptical</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Arc Elliptique</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>ElArc_</source>
-        <translation type="unfinished"></translation>
+        <translation>ElArc_</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>%1 - Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Rotation</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>%1 - Move</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Déplacer</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>%1 - Mirror by Line</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Symétrie par rapport à une ligne</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>%1 - Mirror by Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Symétrie par rapport à un axe</translation>
     </message>
     <message>
         <location line="+118"/>
         <source>Move Group Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Changer l&apos;objet de groupe</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Remove Group Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer l&apos;objet du groupe</translation>
     </message>
     <message>
         <location line="-646"/>
         <location line="+134"/>
         <location line="+22"/>
         <source>Group color</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur du groupe</translation>
     </message>
     <message>
         <location line="-16"/>
         <location line="+18"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du groupe</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location line="-114"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier</translation>
     </message>
     <message>
         <location line="+106"/>
         <source>Visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Visible</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Group is visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Le groupe est visible</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Locked</source>
-        <translation type="unfinished"></translation>
+        <translation>Vérouillé</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Group is locked</source>
-        <translation type="unfinished"></translation>
+        <translation>Le groupe est verrouillé</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Group has objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Le groupe contient des objets</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur</translation>
     </message>
 </context>
 <context>
@@ -5499,28 +5542,28 @@ Possibly the file is already being downloaded.</source>
     <message>
         <location filename="../../src/app/seamly2d/dialogs/history_dialog.ui" line="+98"/>
         <source>History</source>
-        <translation type="unfinished">Historique</translation>
+        <translation>Historique</translation>
     </message>
     <message>
         <location line="+67"/>
         <source>Find:</source>
-        <translation type="unfinished">Rechercher:</translation>
+        <translation>Rechercher :</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Search text</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechercher du texte</translation>
     </message>
     <message>
         <location line="+121"/>
         <source>Id</source>
-        <translation type="unfinished"></translation>
+        <translation>Id</translation>
     </message>
     <message>
         <location line="+20"/>
         <location filename="../../src/app/seamly2d/dialogs/history_dialog.cpp" line="+629"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="../../src/app/seamly2d/dialogs/history_dialog.cpp" line="-327"/>
@@ -5552,42 +5595,42 @@ Possibly the file is already being downloaded.</source>
         <location line="+6"/>
         <location line="+18"/>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1</translation>
     </message>
     <message>
         <location line="-250"/>
         <source>Base Point</source>
-        <translation type="unfinished">Point de base</translation>
+        <translation>Point de départ</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Line_%1_%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne %1_%2</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Line from %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne de %1 à %2</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Point On Line %1_%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Point sur la Ligne %1_%2</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Point Length to Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Point sur Ligne à distance d&apos;un Point</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Point On Perpendicular %1_%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Point sur une normale %1_%2</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Point On Bisector %1_%2_%3</source>
-        <translation type="unfinished"></translation>
+        <translation>Point sur une Bissectrice %1_%2_%3</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -5965,12 +6008,13 @@ Possibly the file is already being downloaded.</source>
     <message>
         <location filename="../../src/libs/vtools/tools/drawTools/toolpoint/toolsinglepoint/intersect_circletangent_tool.cpp" line="+160"/>
         <source>Intersect Circle and Tangent</source>
-        <translation type="unfinished"></translation>
+        <translation>Intersection Cercle et Tangente</translation>
     </message>
     <message>
         <location line="-6"/>
         <source>&lt;b&gt;&lt;big&gt;Can&apos;t find intersection point %1 of&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;big&gt;Circle and Tangent&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Using origin point as a place holder until pattern is corrected.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>placeholder ? texte fantome, marque substitutive ou autres peu usités en français</translatorcomment>
+        <translation>&lt;b&gt;&lt;big&gt;Impossible de trouver le point d&apos;intersection %1 du&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;big&gt;Cercle et de la Tangente&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Le point d&apos;origine est utilisé en placeholder tant que le patron n&apos;est pas corrigé.</translation>
     </message>
 </context>
 <context>
@@ -6094,7 +6138,7 @@ Possibly the file is already being downloaded.</source>
     <message>
         <location line="+5"/>
         <source>Point Intersect Circles</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Point Intersection de Cercles</translation>
     </message>
 </context>
 <context>
@@ -9335,32 +9379,32 @@ Press enter to temporarily add it to the list.</source>
     <message>
         <location line="+37"/>
         <source> XPos:</source>
-        <translation type="unfinished"></translation>
+        <translation> Xpos :</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>xpos</source>
-        <translation type="unfinished"></translation>
+        <translation>xpos</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>YPos:</source>
-        <translation type="unfinished"></translation>
+        <translation>YPos :</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>ypos</source>
-        <translation type="unfinished"></translation>
+        <translation>ypos</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Units:</source>
-        <translation type="unfinished">Unités:</translation>
+        <translation>Unités :</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>units</source>
-        <translation type="unfinished"></translation>
+        <translation>unités</translation>
     </message>
 </context>
 <context>
@@ -9381,7 +9425,7 @@ Press enter to temporarily add it to the list.</source>
     <message>
         <location filename="../../src/libs/vtools/undocommands/move_groupitem.cpp" line="+48"/>
         <source>Move group item</source>
-        <translation type="unfinished"></translation>
+        <translation>Déplacer l&apos;élément du groupe</translation>
     </message>
 </context>
 <context>
@@ -9397,7 +9441,7 @@ Press enter to temporarily add it to the list.</source>
     <message>
         <location filename="../../src/libs/vtools/undocommands/label/moveoperationlabel.cpp" line="+73"/>
         <source>move point label</source>
-        <translation type="unfinished">Déplace l&apos;étiquette de point</translation>
+        <translation>déplacer l&apos;étiquette du point</translation>
     </message>
 </context>
 <context>
@@ -9469,12 +9513,12 @@ Press enter to temporarily add it to the list.</source>
     <message>
         <location line="-38"/>
         <source>Multisize</source>
-        <translation type="unfinished"></translation>
+        <translation>Multitaille</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Millimeters</source>
-        <translation type="unfinished">Millimètres</translation>
+        <translation>Millimètres</translation>
     </message>
 </context>
 <context>
@@ -9482,87 +9526,87 @@ Press enter to temporarily add it to the list.</source>
     <message>
         <location filename="../../src/libs/vwidgets/page_format_combobox.cpp" line="+60"/>
         <source>A0</source>
-        <translation type="unfinished"></translation>
+        <translation>A0</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A1</source>
-        <translation type="unfinished"></translation>
+        <translation>A1</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A2</source>
-        <translation type="unfinished"></translation>
+        <translation>A2</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A3</source>
-        <translation type="unfinished"></translation>
+        <translation>A3</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A4</source>
-        <translation type="unfinished"></translation>
+        <translation>A4</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Letter</source>
-        <translation type="unfinished">Lettre</translation>
+        <translation>Lettre</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Legal</source>
-        <translation type="unfinished">Légal</translation>
+        <translation>Légal</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Tabloid</source>
-        <translation type="unfinished">Tabloïde</translation>
+        <translation>Tabloïde</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>ANSI C</source>
-        <translation type="unfinished"></translation>
+        <translation>ANSI C</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>ANSI D</source>
-        <translation type="unfinished"></translation>
+        <translation>ANSI D</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>ANSI E</source>
-        <translation type="unfinished"></translation>
+        <translation>ANSI E</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Roll 24in</source>
-        <translation type="unfinished">Roulleau 24po / 60.96cm</translation>
+        <translation>Rouleau 24po / 60.96cm</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Roll 30in</source>
-        <translation type="unfinished">Rouleau de 30po / 76.20cm</translation>
+        <translation>Rouleau 30po / 76.20cm</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Roll 36in</source>
-        <translation type="unfinished">Rouleau de 36po / 91.44cm</translation>
+        <translation>Rouleau 36po / 91.44cm</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Roll 42in</source>
-        <translation type="unfinished">Rouleau de 42po / 106.68cm</translation>
+        <translation>Rouleau 42po / 106.68cm</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Roll 44in</source>
-        <translation type="unfinished">Rouleau de 44poin / 111.76cm</translation>
+        <translation>Rouleau 44po / 111.76cm</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Custom</source>
-        <translation type="unfinished">Personnalisé</translation>
+        <translation>Personnalisé</translation>
     </message>
 </context>
 <context>
@@ -10672,7 +10716,7 @@ Press enter to temporarily add it to the list.</source>
     <message>
         <location filename="../../src/libs/vwidgets/pen_toolbar.cpp" line="+67"/>
         <source>Current line color</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur de ligne actuelle</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -16426,17 +16470,17 @@ load in SeamlyME as usual.
     <message>
         <location filename="../../src/libs/vtools/tools/drawTools/toolpoint/toolsinglepoint/toollinepoint/vtoolalongline.cpp" line="+210"/>
         <source>Length</source>
-        <translation type="unfinished">Longueur</translation>
+        <translation>Longueur</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Angle</source>
-        <translation type="unfinished">Angle</translation>
+        <translation>Angle</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
 </context>
 <context>
@@ -16444,27 +16488,27 @@ load in SeamlyME as usual.
     <message>
         <location filename="../../src/libs/vtools/tools/drawTools/toolcurve/vtoolarc.cpp" line="+457"/>
         <source>Start angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Angle de départ</translation>
     </message>
     <message>
         <location line="-5"/>
         <source>     Length</source>
-        <translation type="unfinished"></translation>
+        <translation>     Longueur</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>     Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>     Rayon</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>  End angle</source>
-        <translation type="unfinished"></translation>
+        <translation>  Angle d&apos;arrivée</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>      Label</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">      Label</translation>
     </message>
 </context>
 <context>
@@ -16472,37 +16516,37 @@ load in SeamlyME as usual.
     <message>
         <location filename="../../src/libs/vtools/tools/drawTools/toolcurve/vtoolarcwithlength.cpp" line="+415"/>
         <source>Start angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Angle de départ</translation>
     </message>
     <message>
         <location line="-5"/>
         <source>     Length</source>
-        <translation type="unfinished"></translation>
+        <translation>     Longueur</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>     Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>     Rayon</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>  End angle</source>
-        <translation type="unfinished"></translation>
+        <translation>  Angle d&apos;arrivée</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>      Name</source>
-        <translation type="unfinished"></translation>
+        <translation>      Nom</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>      Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>      Outil</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Arc - Radius and Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Arc - Rayon et Longueur</translation>
     </message>
 </context>
 <context>
@@ -16510,7 +16554,7 @@ load in SeamlyME as usual.
     <message>
         <location filename="../../src/libs/vtools/tools/drawTools/toolpoint/toolsinglepoint/vtoolbasepoint.cpp" line="+404"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
 </context>
 <context>
@@ -16523,7 +16567,7 @@ load in SeamlyME as usual.
     <message>
         <location line="+8"/>
         <source>Intersection Point of Curve &amp; Axis</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Point d&apos;intersection entre Courbe et Axe</translation>
     </message>
 </context>
 <context>
@@ -16531,27 +16575,27 @@ load in SeamlyME as usual.
     <message>
         <location filename="../../src/libs/vtools/tools/drawTools/toolpoint/toolsinglepoint/toolcut/vtoolcutarc.cpp" line="+290"/>
         <source>Arc</source>
-        <translation type="unfinished">Arc</translation>
+        <translation>Arc</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>length</source>
-        <translation type="unfinished"></translation>
+        <translation>longueur</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>start angle</source>
-        <translation type="unfinished"></translation>
+        <translation>angle de départ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>end angle</source>
-        <translation type="unfinished"></translation>
+        <translation>angle d&apos;arrivée</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>radius</source>
-        <translation type="unfinished"></translation>
+        <translation>rayon</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -16564,12 +16608,12 @@ load in SeamlyME as usual.
     <message>
         <location filename="../../src/libs/vtools/tools/drawTools/toolpoint/toolsinglepoint/toolcut/vtoolcutspline.cpp" line="+296"/>
         <source>Curve</source>
-        <translation type="unfinished">Courbe</translation>
+        <translation>Courbe</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>length</source>
-        <translation type="unfinished"></translation>
+        <translation>longueur</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -16583,12 +16627,12 @@ load in SeamlyME as usual.
     <message>
         <location filename="../../src/libs/vtools/tools/drawTools/toolpoint/toolsinglepoint/toolcut/vtoolcutsplinepath.cpp" line="+382"/>
         <source>Curve</source>
-        <translation type="unfinished">Courbe</translation>
+        <translation>Courbe</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>length</source>
-        <translation type="unfinished"></translation>
+        <translation>longueur</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -16602,7 +16646,7 @@ load in SeamlyME as usual.
     <message>
         <location filename="../../src/libs/vtools/tools/drawTools/toolpoint/tooldoublepoint/vtooldoublepoint.cpp" line="+456"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
 </context>
 <context>
@@ -16610,23 +16654,23 @@ load in SeamlyME as usual.
     <message>
         <location filename="../../src/libs/vtools/tools/drawTools/toolcurve/vtoolellipticalarc.cpp" line="+509"/>
         <source>Start angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Angle de départ</translation>
     </message>
     <message>
         <location line="-7"/>
         <source>     Length</source>
-        <translation type="unfinished"></translation>
+        <translation>     Longueur</translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+2"/>
         <source>    Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>     Rayon</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>  End angle</source>
-        <translation type="unfinished"></translation>
+        <translation>  Angle d&apos;arrivée</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -16639,17 +16683,17 @@ load in SeamlyME as usual.
     <message>
         <location filename="../../src/libs/vtools/tools/drawTools/toolpoint/toolsinglepoint/toollinepoint/vtoolheight.cpp" line="+347"/>
         <source>Length</source>
-        <translation type="unfinished">Longueur</translation>
+        <translation>Longueur</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Angle</source>
-        <translation type="unfinished">Angle</translation>
+        <translation>Angle</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
 </context>
 <context>
@@ -16657,12 +16701,12 @@ load in SeamlyME as usual.
     <message>
         <location filename="../../src/libs/vtools/tools/drawTools/vtoolline.cpp" line="+481"/>
         <source>Length</source>
-        <translation type="unfinished">Longueur</translation>
+        <translation>Longueur</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Angle</source>
-        <translation type="unfinished">Angle</translation>
+        <translation>Angle</translation>
     </message>
 </context>
 <context>
@@ -16670,7 +16714,7 @@ load in SeamlyME as usual.
     <message>
         <location filename="../../src/libs/vtools/tools/drawTools/toolpoint/toolsinglepoint/vtoollineintersect.cpp" line="+375"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
 </context>
 <context>
@@ -16678,17 +16722,17 @@ load in SeamlyME as usual.
     <message>
         <location filename="../../src/libs/vtools/tools/drawTools/toolpoint/toolsinglepoint/toollinepoint/vtoollineintersectaxis.cpp" line="+409"/>
         <source>Length</source>
-        <translation type="unfinished">Longueur</translation>
+        <translation>Longueur</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Angle</source>
-        <translation type="unfinished">Angle</translation>
+        <translation>Angle</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location line="-254"/>
@@ -16698,7 +16742,7 @@ load in SeamlyME as usual.
     <message>
         <location line="+6"/>
         <source>Intersect Line and Axis</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Intersection </translation>
     </message>
 </context>
 <context>
@@ -16706,17 +16750,17 @@ load in SeamlyME as usual.
     <message>
         <location filename="../../src/libs/vtools/tools/drawTools/toolpoint/toolsinglepoint/toollinepoint/vtoollinepoint.cpp" line="+196"/>
         <source>Length</source>
-        <translation type="unfinished">Longueur</translation>
+        <translation>Longueur</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Angle</source>
-        <translation type="unfinished">Angle</translation>
+        <translation>Angle</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
 </context>
 <context>
@@ -16724,7 +16768,7 @@ load in SeamlyME as usual.
     <message>
         <location filename="../../src/libs/vtools/tools/drawTools/operation/mirror/vtoolmirrorbyaxis.cpp" line="+278"/>
         <source>Origin point</source>
-        <translation type="unfinished"></translation>
+        <translation>Point d&apos;origine</translation>
     </message>
 </context>
 <context>
@@ -16750,22 +16794,22 @@ load in SeamlyME as usual.
     <message>
         <location line="+97"/>
         <source>Angle</source>
-        <translation type="unfinished">Angle</translation>
+        <translation>Angle</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Length</source>
-        <translation type="unfinished">Longueur</translation>
+        <translation>Longueur</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Rotation point</source>
-        <translation type="unfinished"></translation>
+        <translation>Point de rotation</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Rotation angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Angle de rotation</translation>
     </message>
 </context>
 <context>
@@ -16798,7 +16842,7 @@ load in SeamlyME as usual.
         <location line="+147"/>
         <location line="+195"/>
         <source>Length:</source>
-        <translation type="unfinished">Longueur:</translation>
+        <translation>Longueur :</translation>
     </message>
     <message>
         <location line="-564"/>
@@ -16807,7 +16851,7 @@ load in SeamlyME as usual.
         <location line="+20"/>
         <location line="+15"/>
         <source>Angle:</source>
-        <translation type="unfinished">Angle:</translation>
+        <translation>Angle :</translation>
     </message>
     <message>
         <location line="-546"/>
@@ -16823,7 +16867,7 @@ load in SeamlyME as usual.
         <location line="+55"/>
         <location line="+14"/>
         <source>First point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Premier point :</translation>
     </message>
     <message>
         <location line="-484"/>
@@ -16839,7 +16883,7 @@ load in SeamlyME as usual.
         <location line="+55"/>
         <location line="+14"/>
         <source>Second point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Deuxième point :</translation>
     </message>
     <message>
         <location line="-465"/>
@@ -16847,7 +16891,7 @@ load in SeamlyME as usual.
         <location line="+273"/>
         <location line="+272"/>
         <source>Center point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Point central :</translation>
     </message>
     <message>
         <location line="-564"/>
@@ -16858,20 +16902,20 @@ load in SeamlyME as usual.
         <location line="+302"/>
         <location line="+1"/>
         <source>Radius:</source>
-        <translation type="unfinished">Rayon:</translation>
+        <translation>Rayon :</translation>
     </message>
     <message>
         <location line="-567"/>
         <location line="+22"/>
         <location line="+546"/>
         <source>First angle:</source>
-        <translation type="unfinished"></translation>
+        <translation>Permier angle :</translation>
     </message>
     <message>
         <location line="-567"/>
         <location line="+568"/>
         <source>Second angle:</source>
-        <translation type="unfinished"></translation>
+        <translation>Deuxième angle :</translation>
     </message>
     <message>
         <location line="-608"/>
@@ -16892,79 +16936,79 @@ load in SeamlyME as usual.
         <location line="+22"/>
         <location line="+84"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur :</translation>
     </message>
     <message>
         <location line="-531"/>
         <location line="+282"/>
         <location line="+69"/>
         <source>Third point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Troisième point :</translation>
     </message>
     <message>
         <location line="-332"/>
         <source>Point 1 label:</source>
-        <translation type="unfinished"></translation>
+        <translation>Étiquette du point 1 :</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Point 2 label:</source>
-        <translation type="unfinished"></translation>
+        <translation>Étiquette du point 2 :</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>First base point:</source>
-        <translation type="unfinished">Premier point de base :</translation>
+        <translation>Premier point de base :</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Second base point:</source>
-        <translation type="unfinished">Second point de base :</translation>
+        <translation>Second point de base :</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>First dart point:</source>
-        <translation type="unfinished">Premier point de la pince :</translation>
+        <translation>Premier point de la pince :</translation>
     </message>
     <message>
         <location line="+14"/>
         <location line="+230"/>
         <source>Arc:</source>
-        <translation type="unfinished">Arc:</translation>
+        <translation>Arc :</translation>
     </message>
     <message>
         <location line="-215"/>
         <location line="+15"/>
         <location line="+374"/>
         <source>Curve:</source>
-        <translation type="unfinished">Courbe:</translation>
+        <translation>Courbe :</translation>
     </message>
     <message>
         <location line="-358"/>
         <location line="+410"/>
         <source>First line point:</source>
-        <translation type="unfinished">Point de la première ligne:</translation>
+        <translation>Premier point de la ligne :</translation>
     </message>
     <message>
         <location line="-409"/>
         <location line="+410"/>
         <source>Second line point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Second point de la ligne :</translation>
     </message>
     <message>
         <location line="-330"/>
         <source>Center of arc:</source>
-        <translation type="unfinished">Centre de l&apos;arc:</translation>
+        <translation>Centre de l&apos;arc :</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>First arc:</source>
-        <translation type="unfinished">Premier arc:</translation>
+        <translation>Premier arc :</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Second arc:</source>
-        <translation type="unfinished">Deuxième arc:</translation>
+        <translation>Deuxième arc :</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -16977,12 +17021,12 @@ load in SeamlyME as usual.
     <message>
         <location line="-34"/>
         <source>First curve:</source>
-        <translation type="unfinished">Première courbe:</translation>
+        <translation>Première courbe :</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Second curve:</source>
-        <translation type="unfinished">Seconde courbe:</translation>
+        <translation>Deuxième courbe :</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -16993,7 +17037,7 @@ load in SeamlyME as usual.
     <message>
         <location line="-13"/>
         <source>Circle radius:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rayon du cercle :</translation>
     </message>
     <message>
         <location line="-357"/>
@@ -17025,7 +17069,7 @@ load in SeamlyME as usual.
         <location line="+22"/>
         <location line="+82"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
     <message>
         <location line="-207"/>
@@ -17493,7 +17537,7 @@ load in SeamlyME as usual.
     <message>
         <location line="+7"/>
         <source>Intersect Arc and Tangent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Intersection</translation>
     </message>
 </context>
 <context>
@@ -17501,17 +17545,17 @@ load in SeamlyME as usual.
     <message>
         <location filename="../../src/libs/vtools/tools/drawTools/toolpoint/toolsinglepoint/vtoolpointofcontact.cpp" line="+412"/>
         <source>Length</source>
-        <translation type="unfinished">Longueur</translation>
+        <translation>Longueur</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Angle</source>
-        <translation type="unfinished">Angle</translation>
+        <translation>Angle</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
 </context>
 <context>
@@ -17545,12 +17589,12 @@ load in SeamlyME as usual.
     <message>
         <location filename="../../src/libs/vtools/tools/drawTools/operation/vtoolrotation.cpp" line="+395"/>
         <source>  Origin point</source>
-        <translation type="unfinished"></translation>
+        <translation>  Point d&apos;origine</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Rotation angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Angle de rotation</translation>
     </message>
 </context>
 <context>
@@ -17558,17 +17602,17 @@ load in SeamlyME as usual.
     <message>
         <location filename="../../src/libs/vtools/tools/drawTools/toolpoint/toolsinglepoint/toollinepoint/vtoolshoulderpoint.cpp" line="+404"/>
         <source>Length</source>
-        <translation type="unfinished">Longueur</translation>
+        <translation>Longueur</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Angle</source>
-        <translation type="unfinished">Angle</translation>
+        <translation>Angle</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
 </context>
 <context>
@@ -19254,12 +19298,12 @@ Usage: fmod(x; y)</comment>
     <message>
         <location line="-9"/>
         <source>Critical Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur critique</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Fatal Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur fatale</translation>
     </message>
 </context>
 <context>
@@ -19267,47 +19311,48 @@ Usage: fmod(x; y)</comment>
     <message>
         <location filename="../../src/app/seamly2d/core/application_2d.cpp" line="-252"/>
         <source>DEBUG:</source>
-        <translation>DEBUGAGE :</translation>
+        <translatorcomment>débogage peu usité...</translatorcomment>
+        <translation>DEBUG :</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>WARNING:</source>
-        <translation>AVERTISSEMENT:</translation>
+        <translation>AVERTISSEMENT :</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>CRITICAL:</source>
-        <translation>CRITIQUE:</translation>
+        <translation>CRITIQUE :</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>FATAL:</source>
-        <translation>FATAL:</translation>
+        <translation>FATAL :</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>INFO:</source>
-        <translation>INFO:</translation>
+        <translation>INFO :</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Warning</source>
-        <translation type="unfinished">Attention</translation>
+        <translation>Avertissement</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Critical Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur critique</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Fatal Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur fatale</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Information</source>
-        <translation type="unfinished">Information</translation>
+        <translation>Information</translation>
     </message>
 </context>
 </TS>
