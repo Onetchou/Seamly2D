@@ -240,7 +240,7 @@
     <message>
         <location line="+4"/>
         <source>Disable high dpi scaling. Call this option if has problem with scaling (by default scaling enabled). Alternatively you can use the %1 environment variable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Désactive le redimensionnement haute résolution. Activez cette option si vous avez un problème avec le redimensionnement (redimensionnement actif par défaut). Alternativement vous pouvez utiliser la varible d&apos;environnement %1.</translation>
     </message>
 </context>
 <context>
@@ -5635,40 +5635,40 @@ Le fichier a peut-être déjà été téléchargé.</translation>
     <message>
         <location line="+9"/>
         <source>Point Intersect Lines %1_%2 and %3_%4</source>
-        <translation type="unfinished"></translation>
+        <translation>Point Intersection Lignes %1_%2 et %3_%4</translation>
     </message>
     <message>
         <location line="+12"/>
         <location line="+10"/>
         <source>Spl_</source>
-        <translation type="unfinished">Spl_</translation>
+        <translation>Spl_</translation>
     </message>
     <message>
         <location line="-9"/>
         <source>Curve Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Courbe Interactive</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Curve Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Courbe Fixe</translation>
     </message>
     <message>
         <location line="+9"/>
         <location line="+10"/>
         <location line="+1"/>
         <source>Arc_</source>
-        <translation type="unfinished">Arc_</translation>
+        <translation>Arc_</translation>
     </message>
     <message>
         <location line="-10"/>
         <source>Arc Radius &amp; Angles</source>
-        <translation type="unfinished"></translation>
+        <translation>Arc Rayon et Angles</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Arc Radius &amp; Length %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Arc Rayon et Longueur %1</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -5679,12 +5679,12 @@ Le fichier a peut-être déjà été téléchargé.</translation>
     <message>
         <location line="-9"/>
         <source>Spline Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline Interactive</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Spline Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline Fixe</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -6412,7 +6412,7 @@ Apply settings anyway?</source>
     <message>
         <location line="-3363"/>
         <source>Tools for creating lines.</source>
-        <translation>Outil pour créer des lignes.</translation>
+        <translation>Outils pour créer des lignes.</translation>
     </message>
     <message>
         <location line="-1026"/>
@@ -6426,7 +6426,7 @@ Apply settings anyway?</source>
     <message>
         <location line="-2753"/>
         <source>Tools for creating curves.</source>
-        <translation>Outil pour créer des courbes.</translation>
+        <translation>Outils pour créer des courbes.</translation>
     </message>
     <message>
         <location line="-1119"/>
@@ -6455,7 +6455,7 @@ Apply settings anyway?</source>
     <message>
         <location line="+46"/>
         <source>&amp;Help</source>
-        <translation>Aid&amp;e</translation>
+        <translation>&amp;Aide</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -6502,7 +6502,7 @@ Apply settings anyway?</source>
     <message>
         <location line="+3"/>
         <source>&amp;Save</source>
-        <translation>&amp;Sauver</translation>
+        <translation>&amp;Enregistrer</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -6512,18 +6512,18 @@ Apply settings anyway?</source>
     <message>
         <location line="+18"/>
         <source>Save &amp;As...</source>
-        <translation>Enregistrer &amp;sous...</translation>
+        <translation>Enregistrer &amp;Sous...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Save not yet saved pattern</source>
-        <translation>Enregistrer le patron en cours</translation>
+        <translation type="unfinished">Enregistrer le patron en cours</translation>
     </message>
     <message>
         <location line="-2411"/>
         <location line="+2095"/>
         <source>Details</source>
-        <translation>Isolation</translation>
+        <translation>Détails</translation>
     </message>
     <message>
         <location line="+394"/>
