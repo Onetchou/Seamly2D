@@ -1,5 +1,16 @@
 var NAVTREEINDEX63 =
 {
+"df/d5e/classVToolSpline.html#a825ee0fbc53ef11cd2720a348d6ad256":[1,0,430,20],
+"df/d5e/classVToolSpline.html#a82dfc9bd0bf2dba94b2c2fdc062cf606":[1,0,430,18],
+"df/d5e/classVToolSpline.html#a882dafd5b9796d6b035e29b5e2a29d23":[1,0,430,4],
+"df/d5e/classVToolSpline.html#a8a265778da543f88cd786e0220cb3f0c":[1,0,430,0],
+"df/d5e/classVToolSpline.html#a94aef74949bd277298d9d7f7eef48a56":[1,0,430,24],
+"df/d5e/classVToolSpline.html#ab14494e72e4349b932da29df6f48eab6":[1,0,430,22],
+"df/d5e/classVToolSpline.html#ac31e56a994948d3540a917208d2fe3ad":[1,0,430,16],
+"df/d5e/classVToolSpline.html#ad951906ad505cc6f3efd00d7a77c9638":[1,0,430,21],
+"df/d5e/classVToolSpline.html#ae5aedb2d823cdce1901beaa31aba4863":[1,0,430,11],
+"df/d5e/classVToolSpline.html#af04c237b4a45e244f568df8860c891a7":[1,0,430,27],
+"df/d5e/dialogmirrorbyline_8cpp.html":[2,0,0,1,13,0,1,41],
 "df/d5e/dialogmirrorbyline_8cpp_source.html":[2,0,0,1,13,0,1,41],
 "df/d63/classNonScalingFillPathItem.html":[1,0,132],
 "df/d63/classNonScalingFillPathItem.html#a3fdd5e22d779342837bb2c2af3169edd":[1,0,132,0],
@@ -238,16 +249,5 @@ var NAVTREEINDEX63 =
 "df/dcf/toggle__piecelock_8cpp.html":[2,0,0,1,13,2,43],
 "df/dcf/toggle__piecelock_8cpp_source.html":[2,0,0,1,13,2,43],
 "df/dcf/vcurvepathitem_8cpp.html":[2,0,0,1,14,41],
-"df/dcf/vcurvepathitem_8cpp_source.html":[2,0,0,1,14,41],
-"df/dd0/vtoollinepoint_8h.html":[2,0,0,1,13,1,0,2,1,1,15],
-"df/dd0/vtoollinepoint_8h_source.html":[2,0,0,1,13,1,0,2,1,1,15],
-"df/dd2/vtoolrotation_8cpp.html":[2,0,0,1,13,1,0,0,5],
-"df/dd2/vtoolrotation_8cpp_source.html":[2,0,0,1,13,1,0,0,5],
-"df/dd5/dialogpointfromarcandtangent_8cpp.html":[2,0,0,1,13,0,1,47],
-"df/dd5/dialogpointfromarcandtangent_8cpp_source.html":[2,0,0,1,13,0,1,47],
-"df/dd9/classVGObjectData.html":[1,0,287],
-"df/dd9/classVGObjectData.html#a0291db5ccb16d6638d32fcfc057edd23":[1,0,287,2],
-"df/dd9/classVGObjectData.html#a24680895cf36c9add6157cf15ceb5e3e":[1,0,287,3],
-"df/dd9/classVGObjectData.html#a33c538ee38520512e6e6dc8b87d87642":[1,0,287,4],
-"df/dd9/classVGObjectData.html#a37458e57e5914914d2366147dec417c1":[1,0,287,0]
+"df/dcf/vcurvepathitem_8cpp_source.html":[2,0,0,1,14,41]
 };

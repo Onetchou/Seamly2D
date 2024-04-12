@@ -13,6 +13,8 @@ var classResizeHandlesItem_1_1HandleItem =
     [ "position", "d0/dc5/classResizeHandlesItem_1_1HandleItem.html#aa431c7af18fbb7a52eb26e779f5673e9", null ],
     [ "m_handlePosition", "d0/dc5/classResizeHandlesItem_1_1HandleItem.html#a3cd90c17e1e91afb1d02ec75008af500", null ],
     [ "m_isHovered", "d0/dc5/classResizeHandlesItem_1_1HandleItem.html#a6e56138ddd72166666af1eae98371b40", null ],
+    [ "m_maxDimension", "d0/dc5/classResizeHandlesItem_1_1HandleItem.html#ad0d71f1b6c02ccaa932f3292a14b2850", null ],
+    [ "m_minDimension", "d0/dc5/classResizeHandlesItem_1_1HandleItem.html#ab1086ad01563bf1d9e36dcc760be2ad0", null ],
     [ "m_parent", "d0/dc5/classResizeHandlesItem_1_1HandleItem.html#a990cb22781690204e8272a5088126e7a", null ],
     [ "m_scalingFactor", "d0/dc5/classResizeHandlesItem_1_1HandleItem.html#a288f4ba046b007f0f6ca2aaa71e0fee4", null ]
 ];

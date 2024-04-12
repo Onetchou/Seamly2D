@@ -1,5 +1,16 @@
 var NAVTREEINDEX52 =
 {
+"dc/df4/classVToolLineIntersectAxis.html#a588e5521dd4ca65cbe4d289f131446c8":[1,0,415,18],
+"dc/df4/classVToolLineIntersectAxis.html#a64d18c3adfb7eace6d26c20d4ee2b67d":[1,0,415,8],
+"dc/df4/classVToolLineIntersectAxis.html#a79d758f66f6039367d617e4a246ad52f":[1,0,415,25],
+"dc/df4/classVToolLineIntersectAxis.html#a7a58112e1f64b636084776c1daf108ee":[1,0,415,10],
+"dc/df4/classVToolLineIntersectAxis.html#a7ad742920618d5e4fb2ea9c633a8c2a7":[1,0,415,6],
+"dc/df4/classVToolLineIntersectAxis.html#a7cae249171e7350d8ddd96dd9525eeb3":[1,0,415,15],
+"dc/df4/classVToolLineIntersectAxis.html#a7e60b72de3655af891ab3d39876aad86":[1,0,415,9],
+"dc/df4/classVToolLineIntersectAxis.html#a86cade0ddf4cdedf45b90962336e3d22":[1,0,415,2],
+"dc/df4/classVToolLineIntersectAxis.html#a8e25217fe866a7a73f1d6dc40e59ec32":[1,0,415,22],
+"dc/df4/classVToolLineIntersectAxis.html#a960a12c009ce4d06406d4d119962fa35":[1,0,415,13],
+"dc/df4/classVToolLineIntersectAxis.html#a9965429f911476ff982eafbf8c09c423":[1,0,415,0],
 "dc/df4/classVToolLineIntersectAxis.html#aadc3a62c53dc9ed2655ff7e8c777b3e5":[1,0,415,14],
 "dc/df4/classVToolLineIntersectAxis.html#ab1c5e906c495237a181129d7da7f9f98":[1,0,415,23],
 "dc/df4/classVToolLineIntersectAxis.html#abef5635a1f0fb226f5656f74beb273da":[1,0,415,7],
@@ -238,16 +249,5 @@ var NAVTREEINDEX52 =
 "dd/d40/vpatternlabeldata_8cpp.html":[2,0,0,1,10,0,7],
 "dd/d40/vpatternlabeldata_8cpp_source.html":[2,0,0,1,10,0,7],
 "dd/d41/editgroup__dialog_8cpp.html":[2,0,0,1,13,0,1,71],
-"dd/d41/editgroup__dialog_8cpp_source.html":[2,0,0,1,13,0,1,71],
-"dd/d43/dialogundo_8cpp.html":[2,0,0,1,13,0,0,0],
-"dd/d43/dialogundo_8cpp_source.html":[2,0,0,1,13,0,0,0],
-"dd/d44/classVSeamlyMeSettings.html":[1,0,382],
-"dd/d44/classVSeamlyMeSettings.html#a1b0db54fc5ea619f3acf4a780856510d":[1,0,382,3],
-"dd/d44/classVSeamlyMeSettings.html#a245c88231494d1116da83f5b9cff7626":[1,0,382,2],
-"dd/d44/classVSeamlyMeSettings.html#a6e4a002fcf68ac4c626b571dde381af6":[1,0,382,1],
-"dd/d44/classVSeamlyMeSettings.html#aa1d386dd80f744094fb7629eab26f729":[1,0,382,0],
-"dd/d44/classVSeamlyMeSettings.html#ac41761dcaa0d8c320e862d519242eea7":[1,0,382,4],
-"dd/d44/classVSeamlyMeSettings.html#ae343c4e6fe201fcc0e547083a4f4c867":[1,0,382,5],
-"dd/d44/classVSeamlyMeSettings.html#aeed04fb411ebf2e446dedaf086193752":[1,0,382,6],
-"dd/d47/classTogglePieceInLayout.html":[1,0,185]
+"dd/d41/editgroup__dialog_8cpp_source.html":[2,0,0,1,13,0,1,71]
 };

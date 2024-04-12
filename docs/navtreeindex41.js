@@ -1,5 +1,16 @@
 var NAVTREEINDEX41 =
 {
+"da/d5b/classShowInfoDialog.html#a2637753f995ca3226288251e7f91bd87":[1,0,178,7],
+"da/d5b/classShowInfoDialog.html#a397af00cdc177bface445f7afbc95160":[1,0,178,8],
+"da/d5b/classShowInfoDialog.html#a40e6cf9ca71c7afa975aa7e911d1c272":[1,0,178,0],
+"da/d5b/classShowInfoDialog.html#a57ceec9bbd87290e7b7b058d80931705":[1,0,178,4],
+"da/d5b/classShowInfoDialog.html#a5acc920f383fb6fd6e8ea51e12c1ce2e":[1,0,178,2],
+"da/d5b/classShowInfoDialog.html#a62f6e42540272c743eb14f42a9044fce":[1,0,178,5],
+"da/d5b/classShowInfoDialog.html#a66997c5dc28fa1bfe9fcfae314a4f95b":[1,0,178,6],
+"da/d5b/classShowInfoDialog.html#a6a5807a3535feaf84a4e13604de398c0":[1,0,178,1],
+"da/d5b/classShowInfoDialog.html#abacaa3209f4cb20060fff97da0bdb1a1":[1,0,178,3],
+"da/d5b/pieceanchorpoint__visual_8cpp.html":[2,0,0,1,13,3,1,2],
+"da/d5b/pieceanchorpoint__visual_8cpp_source.html":[2,0,0,1,13,3,1,2],
 "da/d5c/deletepiece_8cpp.html":[2,0,0,1,13,2,15],
 "da/d5c/deletepiece_8cpp_source.html":[2,0,0,1,13,2,15],
 "da/d5d/classVMainGraphicsView.html":[1,0,351],
@@ -238,16 +249,5 @@ var NAVTREEINDEX41 =
 "da/d92/namespaceqmu.html#aa440557251cea678874b3780faf466f9":[0,0,19,38],
 "da/d92/namespaceqmu.html#aaaa159bd6c609241fbb10f26a9ec10bc":[0,0,19,53],
 "da/d92/namespaceqmu.html#aaaa159bd6c609241fbb10f26a9ec10bca12ebc411d83b4e54456404e7987e3e03":[0,0,19,53,1],
-"da/d92/namespaceqmu.html#aaaa159bd6c609241fbb10f26a9ec10bca45e93ce2c6838f817e8d5adf2f3b8dec":[0,0,19,53,0],
-"da/d92/namespaceqmu.html#aac0624d3c3e7d5bfae98cc2bea1e6b0f":[0,0,19,13],
-"da/d92/namespaceqmu.html#aad0613052be77fbc6bf6d126cfe56520":[0,0,19,43],
-"da/d92/namespaceqmu.html#ab18cd5836bb9de744b95b05da221563c":[0,0,19,51],
-"da/d92/namespaceqmu.html#ab18cd5836bb9de744b95b05da221563ca075fd5295bd303abfb0a1773face9acf":[0,0,19,51,2],
-"da/d92/namespaceqmu.html#ab18cd5836bb9de744b95b05da221563caafa6b844b56c8ab7384ae9c246feacef":[0,0,19,51,0],
-"da/d92/namespaceqmu.html#ab18cd5836bb9de744b95b05da221563caff04cec584520d3215d723aa85110fd5":[0,0,19,51,1],
-"da/d92/namespaceqmu.html#ab6be7139ba13b5ada17c9dd5fada1636":[0,0,19,27],
-"da/d92/namespaceqmu.html#ab6e0013f1a3b438a063fb13eb864f9e5":[0,0,19,21],
-"da/d92/namespaceqmu.html#abc6387b73ba0062e26abcc890597498c":[0,0,19,40],
-"da/d92/namespaceqmu.html#ac218393b9efe35e0d47f6a834dccab1b":[0,0,19,45],
-"da/d92/namespaceqmu.html#ac481fc7d79e5c9a0caf95fd0f6c1b15c":[0,0,19,42]
+"da/d92/namespaceqmu.html#aaaa159bd6c609241fbb10f26a9ec10bca45e93ce2c6838f817e8d5adf2f3b8dec":[0,0,19,53,0]
 };

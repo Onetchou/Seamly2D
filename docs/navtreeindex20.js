@@ -1,5 +1,13 @@
 var NAVTREEINDEX20 =
 {
+"d4/dc9/classPiecesWidget.html#ae28e12fbf8b4df4072ceea995983f116":[1,0,142,5],
+"d4/dcc/dialogaboutseamlyme_8h.html":[2,0,0,0,1,0,2],
+"d4/dcc/dialogaboutseamlyme_8h_source.html":[2,0,0,0,1,0,2],
+"d4/dd5/classUnionTool.html":[1,0,217],
+"d4/dd5/classUnionTool.html#a173b25dbec77f41cffeed72b5e7dfa80":[1,0,217,19],
+"d4/dd5/classUnionTool.html#a26e1c89bc80ccc45a9d70f792978046c":[1,0,217,10],
+"d4/dd5/classUnionTool.html#a28a89a7098e192b808cbca98a2eec7ce":[1,0,217,9],
+"d4/dd5/classUnionTool.html#a2945710454ca0d66a408ef1e6d9e2090":[1,0,217,13],
 "d4/dd5/classUnionTool.html#a2dc807b02c33b34615e3cfdc49fd0693":[1,0,217,8],
 "d4/dd5/classUnionTool.html#a2eb9cc5e86fc8661e282c018d144e65f":[1,0,217,6],
 "d4/dd5/classUnionTool.html#a30254639af8a40138fde5f34708bce3a":[1,0,217,16],
@@ -241,13 +249,5 @@ var NAVTREEINDEX20 =
 "d5/d2c/vpatternconverter_8cpp.html#a4415a8e385c864e9b667bf27f68a3da8":[2,0,0,1,1,1,14,89],
 "d5/d2c/vpatternconverter_8cpp.html#a463f5b85362ce8da242e73f4b9e121a6":[2,0,0,1,1,1,14,63],
 "d5/d2c/vpatternconverter_8cpp.html#a474cb9d165e1d71d30960793bf65308b":[2,0,0,1,1,1,14,86],
-"d5/d2c/vpatternconverter_8cpp.html#a4b021a3106a48a61d6f60428d6dcbdc7":[2,0,0,1,1,1,14,121],
-"d5/d2c/vpatternconverter_8cpp.html#a4d4f2b6e1c909cf6b8057a7c80a81d82":[2,0,0,1,1,1,14,97],
-"d5/d2c/vpatternconverter_8cpp.html#a54fe152bbc3cd611a85369a0f1ed6d61":[2,0,0,1,1,1,14,87],
-"d5/d2c/vpatternconverter_8cpp.html#a5a1b87230fad705598e7602d45bac99f":[2,0,0,1,1,1,14,133],
-"d5/d2c/vpatternconverter_8cpp.html#a5d808cbc688ec6f143a960252810a0bd":[2,0,0,1,1,1,14,41],
-"d5/d2c/vpatternconverter_8cpp.html#a5f62ca279390b5a5633fc72b41e67cb8":[2,0,0,1,1,1,14,3],
-"d5/d2c/vpatternconverter_8cpp.html#a60db00632912eb8406a31b9a6eaa5c8d":[2,0,0,1,1,1,14,81],
-"d5/d2c/vpatternconverter_8cpp.html#a650ab35b0fc121fd242824a8611b237a":[2,0,0,1,1,1,14,122],
-"d5/d2c/vpatternconverter_8cpp.html#a662ef74b5ac4a31a9af85929560cfe5e":[2,0,0,1,1,1,14,80]
+"d5/d2c/vpatternconverter_8cpp.html#a4b021a3106a48a61d6f60428d6dcbdc7":[2,0,0,1,1,1,14,121]
 };

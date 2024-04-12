@@ -1,5 +1,16 @@
 var NAVTREEINDEX61 =
 {
+"de/db1/classMoveSpline.html#ac76eabb216c3bacedfbb0bc72b346975":[1,0,126,11],
+"de/db1/classMoveSpline.html#ad1c1cbcb24f9355190cf47ac850300e1":[1,0,126,8],
+"de/db1/classMoveSpline.html#aea1ac7a3eaaa85b993fb97cbf342f4f3":[1,0,126,6],
+"de/db1/classMoveSpline.html#afe90ed2254d0517847b573c6bd3e408e":[1,0,126,3],
+"de/db2/classVNodeEllipticalArc.html":[1,0,355],
+"de/db2/classVNodeEllipticalArc.html#a06bbd343247203e39e53339be6f88e29":[1,0,355,5],
+"de/db2/classVNodeEllipticalArc.html#a0e98e2c47e6a4bf62896336ad4bbcfd7":[1,0,355,1],
+"de/db2/classVNodeEllipticalArc.html#a1f64fd63885ebfa6ed70233dcd0a2c7f":[1,0,355,8],
+"de/db2/classVNodeEllipticalArc.html#a72c194fed4239ee331d2bc804d705e70":[1,0,355,3],
+"de/db2/classVNodeEllipticalArc.html#aa431979d0e99367af25b1e8928b88ca2":[1,0,355,6],
+"de/db2/classVNodeEllipticalArc.html#aa43da250f1c02f940dbd33468abd03de":[1,0,355,4],
 "de/db2/classVNodeEllipticalArc.html#abf238b6aa868130e3f1ff31849da0bd2":[1,0,355,0],
 "de/db2/classVNodeEllipticalArc.html#ac55aaa0aa319cbcba6c9e984a366d41b":[1,0,355,7],
 "de/db2/classVNodeEllipticalArc.html#ae012d341de5b97c28c649d48192117d0":[1,0,355,9],
@@ -238,16 +249,5 @@ var NAVTREEINDEX61 =
 "df/d02/classVPE_1_1VBoolProperty.html#a2062d983db2055ddcd1da9061d0bc365":[1,0,2,2,5],
 "df/d02/classVPE_1_1VBoolProperty.html#a2570ead346d6cc6ce4cb5fb39d8fce84":[1,0,2,2,1],
 "df/d02/classVPE_1_1VBoolProperty.html#a49ed2213df114c4febf1abea4d4e006d":[1,0,2,2,2],
-"df/d02/classVPE_1_1VBoolProperty.html#a568c75aa31f6397c3c4aba37dbc0ccd4":[1,0,2,2,4],
-"df/d02/classVPE_1_1VBoolProperty.html#a650fb54db76bfa86f7d964448dc65be5":[1,0,2,2,6],
-"df/d02/classVPE_1_1VBoolProperty.html#a7678cd03b526355c7ccf68300e23f5b6":[1,0,2,2,7],
-"df/d02/classVPE_1_1VBoolProperty.html#aa8a1522574c47f3ac5687948c471b66a":[1,0,2,2,0],
-"df/d02/classVPE_1_1VBoolProperty.html#ad0b60ae5bfa07e42d9f9ba428aba2312":[1,0,2,2,3],
-"df/d02/classVPE_1_1VBoolProperty.html#ad774968bc111f6af36671b72102f9e2a":[1,0,2,2,8],
-"df/d03/classVSplinePoint.html":[1,0,390],
-"df/d03/classVSplinePoint.html#a03c217f2f3d234b9f3df11fea30949d7":[1,0,390,10],
-"df/d03/classVSplinePoint.html#a3560854a9ae356d319ed1f92260f6459":[1,0,390,15],
-"df/d03/classVSplinePoint.html#a3745d1ad26f31bda6787a998d999292a":[1,0,390,11],
-"df/d03/classVSplinePoint.html#a3ce7a7a0909c26d346d095fbb6d139dc":[1,0,390,1],
-"df/d03/classVSplinePoint.html#a3dd80f1b2d282944519f8b3128963e80":[1,0,390,21]
+"df/d02/classVPE_1_1VBoolProperty.html#a568c75aa31f6397c3c4aba37dbc0ccd4":[1,0,2,2,4]
 };

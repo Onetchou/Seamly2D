@@ -1,5 +1,16 @@
 var NAVTREEINDEX43 =
 {
+"da/df3/vscenepoint_8h_source.html":[2,0,0,1,14,56],
+"da/df4/dialognormal_8cpp.html":[2,0,0,1,13,0,1,45],
+"da/df4/dialognormal_8cpp_source.html":[2,0,0,1,13,0,1,45],
+"da/df9/classMoveSPoint.html":[1,0,128],
+"da/df9/classMoveSPoint.html#a0366f67dfabc86d550e66305ebff7ac1":[1,0,128,7],
+"da/df9/classMoveSPoint.html#a16378c392090fda9efd14e80a6ad1bf2":[1,0,128,13],
+"da/df9/classMoveSPoint.html#a2e398b7e9410308e2de80a63af292971":[1,0,128,12],
+"da/df9/classMoveSPoint.html#a4d4de9a2f7572fc1c890f888a97bb64f":[1,0,128,3],
+"da/df9/classMoveSPoint.html#a6bc20f86e8501442e41eb3af570df5ca":[1,0,128,14],
+"da/df9/classMoveSPoint.html#a89a5d871ef10b513e2d436786e2ca094":[1,0,128,6],
+"da/df9/classMoveSPoint.html#a8a3a046f8e0886b2a22633b7ff359754":[1,0,128,9],
 "da/df9/classMoveSPoint.html#a9220d8f2379da13417c945fd1ae1ed51":[1,0,128,0],
 "da/df9/classMoveSPoint.html#a955aa785e049fc8ef265e6339e682aa5":[1,0,128,1],
 "da/df9/classMoveSPoint.html#aa56d0126fe164286e4261097340828f9":[1,0,128,5],
@@ -238,16 +249,5 @@ var NAVTREEINDEX43 =
 "db/d29/vpropertydelegate_8cpp_source.html":[2,0,0,1,11,11],
 "db/d30/vlinecolorproperty_8h.html":[2,0,0,1,11,0,24],
 "db/d30/vlinecolorproperty_8h_source.html":[2,0,0,1,11,0,24],
-"db/d32/classLayoutSettingsDialog.html":[1,0,106],
-"db/d32/classLayoutSettingsDialog.html#a0091e6a31c014df6bd4bcf00423ac7a9":[1,0,106,19],
-"db/d32/classLayoutSettingsDialog.html#a021bfee729c109afd00c2261ffa8fca6":[1,0,106,31],
-"db/d32/classLayoutSettingsDialog.html#a0257342d3e5e771f46cff736e8cf4d8d":[1,0,106,50],
-"db/d32/classLayoutSettingsDialog.html#a03acf3f62d4d53bfa2be58274b68baac":[1,0,106,67],
-"db/d32/classLayoutSettingsDialog.html#a0608780fb8dae0577f75d4921609fcde":[1,0,106,51],
-"db/d32/classLayoutSettingsDialog.html#a0b45e09f070e6f0c27b04c4e75ea302b":[1,0,106,55],
-"db/d32/classLayoutSettingsDialog.html#a11f0cdaf173944fca34d86f03eb163be":[1,0,106,10],
-"db/d32/classLayoutSettingsDialog.html#a125e713bc8ccb917aab27f9d8e25fcea":[1,0,106,60],
-"db/d32/classLayoutSettingsDialog.html#a18d79e94e4aa92d679522e50d65140ed":[1,0,106,73],
-"db/d32/classLayoutSettingsDialog.html#a1a7352230259cc27a0032d260fef021c":[1,0,106,15],
-"db/d32/classLayoutSettingsDialog.html#a1ea73d1c0ae04b238b5b902f484c00cb":[1,0,106,16]
+"db/d32/classLayoutSettingsDialog.html":[1,0,106]
 };

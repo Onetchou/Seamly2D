@@ -320,7 +320,6 @@ var hierarchy =
       [ "VLineEdit", "d7/d0f/classVLineEdit.html", null ]
     ] ],
     [ "QList< T >", "d1/d4a/classQList.html", null ],
-    [ "QList< ImageItem * >", "d1/d4a/classQList.html", null ],
     [ "QList< QCommandLineOption * >", "d1/d4a/classQList.html", null ],
     [ "QList< QGraphicsItem * >", "d1/d4a/classQList.html", null ],
     [ "QList< QGraphicsScene * >", "d1/d4a/classQList.html", null ],

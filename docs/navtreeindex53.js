@@ -1,5 +1,16 @@
 var NAVTREEINDEX53 =
 {
+"dd/d43/dialogundo_8cpp.html":[2,0,0,1,13,0,0,0],
+"dd/d43/dialogundo_8cpp_source.html":[2,0,0,1,13,0,0,0],
+"dd/d44/classVSeamlyMeSettings.html":[1,0,382],
+"dd/d44/classVSeamlyMeSettings.html#a1b0db54fc5ea619f3acf4a780856510d":[1,0,382,3],
+"dd/d44/classVSeamlyMeSettings.html#a245c88231494d1116da83f5b9cff7626":[1,0,382,2],
+"dd/d44/classVSeamlyMeSettings.html#a6e4a002fcf68ac4c626b571dde381af6":[1,0,382,1],
+"dd/d44/classVSeamlyMeSettings.html#aa1d386dd80f744094fb7629eab26f729":[1,0,382,0],
+"dd/d44/classVSeamlyMeSettings.html#ac41761dcaa0d8c320e862d519242eea7":[1,0,382,4],
+"dd/d44/classVSeamlyMeSettings.html#ae343c4e6fe201fcc0e547083a4f4c867":[1,0,382,5],
+"dd/d44/classVSeamlyMeSettings.html#aeed04fb411ebf2e446dedaf086193752":[1,0,382,6],
+"dd/d47/classTogglePieceInLayout.html":[1,0,185],
 "dd/d47/classTogglePieceInLayout.html#a0bfad8c8d0daa8a966c0561fcc20cdf8":[1,0,185,0],
 "dd/d47/classTogglePieceInLayout.html#a3b48c940393d2c2b684595c2a2775ed8":[1,0,185,1],
 "dd/d47/classTogglePieceInLayout.html#a490dfb36e7252d99e5dd84b55259e822":[1,0,185,7],
@@ -238,16 +249,5 @@ var NAVTREEINDEX53 =
 "dd/db0/namespaceQT__WARNING__POP.html#a4ae7c3935926cc7368e77120e031e369":[0,0,20,6],
 "dd/db0/namespaceQT__WARNING__POP.html#a4cd01162be10b9883de62bd8b8563c19":[0,0,20,24],
 "dd/db0/namespaceQT__WARNING__POP.html#a4d92301e6d64e2f90c125187f579e8b7":[0,0,20,20],
-"dd/db0/namespaceQT__WARNING__POP.html#a517f1b59f7e127ce69a3f634c2b73ea9":[0,0,20,12],
-"dd/db0/namespaceQT__WARNING__POP.html#a532e873910f7322e9a2fde0a3be192f2":[0,0,20,38],
-"dd/db0/namespaceQT__WARNING__POP.html#a5736c077b3b3069a8f171feceae4310f":[0,0,20,50],
-"dd/db0/namespaceQT__WARNING__POP.html#a58b3398307008a2c928b7e661c94f589":[0,0,20,1],
-"dd/db0/namespaceQT__WARNING__POP.html#a58c67fd6a58b88e42e9aa9293e0735b4":[0,0,20,25],
-"dd/db0/namespaceQT__WARNING__POP.html#a5e53269ce0fbdc7aecdb3469f0ecd7c6":[0,0,20,36],
-"dd/db0/namespaceQT__WARNING__POP.html#a80b2e5367bdfa51e9ee82c7b62a64422":[0,0,20,31],
-"dd/db0/namespaceQT__WARNING__POP.html#a87a98d38cedbf08597b6e3efb022e94d":[0,0,20,48],
-"dd/db0/namespaceQT__WARNING__POP.html#a8ca9f21c16c63ed731d315af5c94d663":[0,0,20,10],
-"dd/db0/namespaceQT__WARNING__POP.html#a9f7b64e1a31d79685e4b194477e2e2ab":[0,0,20,41],
-"dd/db0/namespaceQT__WARNING__POP.html#aa883943a9bc374c576acee6f64627ce4":[0,0,20,30],
-"dd/db0/namespaceQT__WARNING__POP.html#aacdd97dcd47d330168bd05b0d945561c":[0,0,20,18]
+"dd/db0/namespaceQT__WARNING__POP.html#a517f1b59f7e127ce69a3f634c2b73ea9":[0,0,20,12]
 };

@@ -1,5 +1,13 @@
 var NAVTREEINDEX17 =
 {
+"d4/d80/classVSettings.html#ac54f0c4e714d5c53d62d5dbe02262067":[1,0,383,19],
+"d4/d80/classVSettings.html#ac663df86b69eeda15a16cad91c805e1f":[1,0,383,34],
+"d4/d80/classVSettings.html#acd7b5ad70243ce426a4539a33d44c971":[1,0,383,33],
+"d4/d80/classVSettings.html#ad0a99c6039e95ba7150750a27408c407":[1,0,383,3],
+"d4/d80/classVSettings.html#ad12f3c7536c141666150e2bbaff864ba":[1,0,383,80],
+"d4/d80/classVSettings.html#ad184640997d050e48651f7c46b7a497f":[1,0,383,51],
+"d4/d80/classVSettings.html#ad52cfd25717e5fb3c1a6e15b438853a9":[1,0,383,7],
+"d4/d80/classVSettings.html#ad7e04546f4d2d0aeb7059347b0aabef0":[1,0,383,72],
 "d4/d80/classVSettings.html#ad9d2041e87273e36a85f46425399a6d0":[1,0,383,59],
 "d4/d80/classVSettings.html#adc1bb7f92b283c1764dc92718367d6c7":[1,0,383,44],
 "d4/d80/classVSettings.html#adc2d4780e77e98491557f52763557ecb":[1,0,383,73],
@@ -241,13 +249,5 @@ var NAVTREEINDEX17 =
 "d4/da4/def_8h.html#a1f9b518e0e2d2c25a541f09e2e49a9d8ae74058cae3b52decee0b258a0b595bc7":[2,0,0,1,8,6,18,34],
 "d4/da4/def_8h.html#a1f9b518e0e2d2c25a541f09e2e49a9d8af34d534adfb78a9e6432be4621a93eec":[2,0,0,1,8,6,18,7],
 "d4/da4/def_8h.html#a22f0193379e93ae0b16e61759d4ca1c2":[2,0,0,1,8,6,110],
-"d4/da4/def_8h.html#a233fac81cd5ef9e110485858585f855e":[2,0,0,1,8,6,98],
-"d4/da4/def_8h.html#a26ba9ec448f8196b66b001e67c0a9617":[2,0,0,1,8,6,121],
-"d4/da4/def_8h.html#a2cd5bde5ec66f27f34b8844839fe6da2":[2,0,0,1,8,6,45],
-"d4/da4/def_8h.html#a2dda73e54262018b6c65e5dee11fe34d":[2,0,0,1,8,6,70],
-"d4/da4/def_8h.html#a2e41946b3bd4c4deca854519c30dff61":[2,0,0,1,8,6,105],
-"d4/da4/def_8h.html#a2fedf9fccccc9531756a26b2128252e2":[2,0,0,1,8,6,26],
-"d4/da4/def_8h.html#a2fedf9fccccc9531756a26b2128252e2a14a082df2cdd2b16b3b2e4cfc3098a13":[2,0,0,1,8,6,26,4],
-"d4/da4/def_8h.html#a2fedf9fccccc9531756a26b2128252e2a588b049dfcaba2e26bb2315b1db7654b":[2,0,0,1,8,6,26,5],
-"d4/da4/def_8h.html#a2fedf9fccccc9531756a26b2128252e2a74eff2b5500a999e5f43d6a698baa88d":[2,0,0,1,8,6,26,3]
+"d4/da4/def_8h.html#a233fac81cd5ef9e110485858585f855e":[2,0,0,1,8,6,98]
 };

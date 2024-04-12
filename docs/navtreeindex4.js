@@ -1,5 +1,12 @@
 var NAVTREEINDEX4 =
 {
+"d0/df9/classVLabelTemplate.html#a1bc0f95191f2073a1f3a0fece30cde66":[1,0,333,6],
+"d0/df9/classVLabelTemplate.html#a5ff2c5a15d9ccb44da122b3b523f8f25":[1,0,333,1],
+"d0/df9/classVLabelTemplate.html#a83815e946fb8099d12b62197ece0a07f":[1,0,333,3],
+"d0/df9/classVLabelTemplate.html#a9646f2bfbfe26d97b4fb23fd80b67000":[1,0,333,4],
+"d0/df9/classVLabelTemplate.html#ac87cd0304dd48e76bfcaeb97f76496a2":[1,0,333,0],
+"d0/dfa/layoutsettings__dialog_8cpp.html":[2,0,0,0,0,1,28],
+"d0/dfa/layoutsettings__dialog_8cpp_source.html":[2,0,0,0,0,1,28],
 "d0/dfa/test_2Seamly2DTest_2stable_8h.html":[2,0,0,2,2,2],
 "d0/dfa/test_2Seamly2DTest_2stable_8h_source.html":[2,0,0,2,2,2],
 "d0/dfd/tst__measurementregexp_8h.html":[2,0,0,2,3,8],
@@ -242,12 +249,5 @@ var NAVTREEINDEX4 =
 "d1/d66/vcurveclength_8h_source.html":[2,0,0,1,10,1,9],
 "d1/d6b/classVSimplePoint.html":[1,0,385],
 "d1/d6b/classVSimplePoint.html#a02de2714c6fb4f580475ca9b8ffec8ed":[1,0,385,28],
-"d1/d6b/classVSimplePoint.html#a03d41a9a17e327ef93fc8c714a7c222c":[1,0,385,6],
-"d1/d6b/classVSimplePoint.html#a0a7503edf7d42c8081711b77e9fb93a1":[1,0,385,5],
-"d1/d6b/classVSimplePoint.html#a10ec9d73ea7aab57310c217cfa794ec3":[1,0,385,12],
-"d1/d6b/classVSimplePoint.html#a13ed5faa56d9ad2236cae01908069958":[1,0,385,0],
-"d1/d6b/classVSimplePoint.html#a186e8ce0f381199c2c6bc70a0a9e5788":[1,0,385,16],
-"d1/d6b/classVSimplePoint.html#a24643a2ce0d32fc2725efd5aaa12a463":[1,0,385,21],
-"d1/d6b/classVSimplePoint.html#a281858c78501558e212f062e227ef5e2":[1,0,385,23],
-"d1/d6b/classVSimplePoint.html#a3aef51ef767f82ac0a9fc150a4c1b3d2":[1,0,385,17]
+"d1/d6b/classVSimplePoint.html#a03d41a9a17e327ef93fc8c714a7c222c":[1,0,385,6]
 };

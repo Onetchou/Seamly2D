@@ -1,5 +1,16 @@
 var NAVTREEINDEX44 =
 {
+"db/d32/classLayoutSettingsDialog.html#a0091e6a31c014df6bd4bcf00423ac7a9":[1,0,106,19],
+"db/d32/classLayoutSettingsDialog.html#a021bfee729c109afd00c2261ffa8fca6":[1,0,106,31],
+"db/d32/classLayoutSettingsDialog.html#a0257342d3e5e771f46cff736e8cf4d8d":[1,0,106,50],
+"db/d32/classLayoutSettingsDialog.html#a03acf3f62d4d53bfa2be58274b68baac":[1,0,106,67],
+"db/d32/classLayoutSettingsDialog.html#a0608780fb8dae0577f75d4921609fcde":[1,0,106,51],
+"db/d32/classLayoutSettingsDialog.html#a0b45e09f070e6f0c27b04c4e75ea302b":[1,0,106,55],
+"db/d32/classLayoutSettingsDialog.html#a11f0cdaf173944fca34d86f03eb163be":[1,0,106,10],
+"db/d32/classLayoutSettingsDialog.html#a125e713bc8ccb917aab27f9d8e25fcea":[1,0,106,60],
+"db/d32/classLayoutSettingsDialog.html#a18d79e94e4aa92d679522e50d65140ed":[1,0,106,73],
+"db/d32/classLayoutSettingsDialog.html#a1a7352230259cc27a0032d260fef021c":[1,0,106,15],
+"db/d32/classLayoutSettingsDialog.html#a1ea73d1c0ae04b238b5b902f484c00cb":[1,0,106,16],
 "db/d32/classLayoutSettingsDialog.html#a1ff3421fe8885e97875f2c38f569512f":[1,0,106,20],
 "db/d32/classLayoutSettingsDialog.html#a21f6833a3698ed30720995732ab3a768":[1,0,106,6],
 "db/d32/classLayoutSettingsDialog.html#a2917380077510d19e7a1f70108102e03":[1,0,106,12],
@@ -238,16 +249,5 @@ var NAVTREEINDEX44 =
 "db/d5b/moveoperationlabel_8cpp.html":[2,0,0,1,13,2,0,6],
 "db/d5b/moveoperationlabel_8cpp_source.html":[2,0,0,1,13,2,0,6],
 "db/d5c/groups__widget_8cpp.html":[2,0,0,0,0,1,24],
-"db/d5c/groups__widget_8cpp_source.html":[2,0,0,0,0,1,24],
-"db/d5c/vposition_8h.html":[2,0,0,1,7,27],
-"db/d5c/vposition_8h_source.html":[2,0,0,1,7,27],
-"db/d5e/classVLabelTemplateConverter.html":[1,0,334],
-"db/d5e/classVLabelTemplateConverter.html#a18eb784ff2e132effce0f371a8174f7a":[1,0,334,0],
-"db/d5e/classVLabelTemplateConverter.html#a285d5d6a9eca622f081d148b6d1d64fd":[1,0,334,12],
-"db/d5e/classVLabelTemplateConverter.html#a33d2b7d93fb5800a1f015c844e76db0d":[1,0,334,9],
-"db/d5e/classVLabelTemplateConverter.html#a45daf66de25620518ea3e7a178f01681":[1,0,334,14],
-"db/d5e/classVLabelTemplateConverter.html#a4cfdb685dc1462cd71d3b6bafea669c9":[1,0,334,13],
-"db/d5e/classVLabelTemplateConverter.html#a56af71fea4b6da43a07f05c5a11da9f6":[1,0,334,11],
-"db/d5e/classVLabelTemplateConverter.html#a6811955dd347b427cccd028a340a2b4e":[1,0,334,5],
-"db/d5e/classVLabelTemplateConverter.html#a737cee95bfc5aa58a6654e56feee8463":[1,0,334,6]
+"db/d5c/groups__widget_8cpp_source.html":[2,0,0,0,0,1,24]
 };

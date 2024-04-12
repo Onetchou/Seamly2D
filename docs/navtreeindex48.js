@@ -1,5 +1,16 @@
 var NAVTREEINDEX48 =
 {
+"dc/d10/classDialogCurveIntersectAxis.html#a353ab9c9c41a48013e08c3679aa150ab":[1,0,40,5],
+"dc/d10/classDialogCurveIntersectAxis.html#a3659f6dea879cb7cacbbbf1ddead8d98":[1,0,40,20],
+"dc/d10/classDialogCurveIntersectAxis.html#a3a2d3408758d14250545491fc5b0d73b":[1,0,40,23],
+"dc/d10/classDialogCurveIntersectAxis.html#a3efaac448e9e89f1a77b719a1d10f1da":[1,0,40,12],
+"dc/d10/classDialogCurveIntersectAxis.html#a546104926c24c6970361db184a22e409":[1,0,40,25],
+"dc/d10/classDialogCurveIntersectAxis.html#a5767126ba78b4ff7a029f07dde26168c":[1,0,40,1],
+"dc/d10/classDialogCurveIntersectAxis.html#a5c96e46e6a64a7e058275670bb396b59":[1,0,40,15],
+"dc/d10/classDialogCurveIntersectAxis.html#a5dd49ec269057162289f2899d4a8a279":[1,0,40,6],
+"dc/d10/classDialogCurveIntersectAxis.html#a61350a83aecd481537cb0be3fe4171d0":[1,0,40,0],
+"dc/d10/classDialogCurveIntersectAxis.html#a628466d0981824f0c3f9bb46dbdeae80":[1,0,40,2],
+"dc/d10/classDialogCurveIntersectAxis.html#a6482a4e53b7c9d750f38f5fa0ef99a12":[1,0,40,17],
 "dc/d10/classDialogCurveIntersectAxis.html#a68662ae9dd0fe65757de7c5c6c39c443":[1,0,40,10],
 "dc/d10/classDialogCurveIntersectAxis.html#a71aceb708fb707df0e2ded9b7505c9ed":[1,0,40,3],
 "dc/d10/classDialogCurveIntersectAxis.html#a8119e364c4aebb857f572e741c222d25":[1,0,40,22],
@@ -238,16 +249,5 @@ var NAVTREEINDEX48 =
 "dc/d3e/classVCommandLine.html#ae9ad6d8619fb7d02f335df04eb305107":[1,0,248,19],
 "dc/d3e/classVCommandLine.html#af6fad6ad5512d4987d84f919abda02b7":[1,0,248,11],
 "dc/d3e/classVCommandLine.html#af746401c6b89282e67236613905a445e":[1,0,248,14],
-"dc/d3e/classVCommandLine.html#af81799ac36c307795352e9591799e1a2":[1,0,248,30],
-"dc/d3e/classVCommandLine.html#aff33c109c48cbbff27aa5a16b59c0ccd":[1,0,248,17],
-"dc/d3e/classVCommandLine.html#aff8e996c237959cef20f5253a1641129":[1,0,248,27],
-"dc/d3e/classqmu_1_1QmuTranslation.html":[1,0,0,12],
-"dc/d3e/classqmu_1_1QmuTranslation.html#a1484053905dc3cce66f5a62dce4796c5":[1,0,0,12,3],
-"dc/d3e/classqmu_1_1QmuTranslation.html#a1f0c9b4f6363d83a4a5a2a0b14f9be29":[1,0,0,12,13],
-"dc/d3e/classqmu_1_1QmuTranslation.html#a249bd624b51a7aac4848477077f59da8":[1,0,0,12,11],
-"dc/d3e/classqmu_1_1QmuTranslation.html#a44ec3ccf684c50c896046888bd0ca2cd":[1,0,0,12,10],
-"dc/d3e/classqmu_1_1QmuTranslation.html#a5311cdf123766cb3c792cf58a3d69e8e":[1,0,0,12,6],
-"dc/d3e/classqmu_1_1QmuTranslation.html#a77958aa66d3d0b910eb394cc1055112d":[1,0,0,12,2],
-"dc/d3e/classqmu_1_1QmuTranslation.html#a7e6dfa6a39f6cf8a359dc186f4754b8b":[1,0,0,12,7],
-"dc/d3e/classqmu_1_1QmuTranslation.html#a8ce969a06062aaa59b78470dc43e5af9":[1,0,0,12,0]
+"dc/d3e/classVCommandLine.html#af81799ac36c307795352e9591799e1a2":[1,0,248,30]
 };

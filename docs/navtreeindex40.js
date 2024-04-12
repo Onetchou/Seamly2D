@@ -1,5 +1,16 @@
 var NAVTREEINDEX40 =
 {
+"da/d19/classGraphicsViewZoom.html#a45331485fe252680fa466c53c7952b9d":[1,0,90,12],
+"da/d19/classGraphicsViewZoom.html#a4c1dab8498956f9495434b1102e05474":[1,0,90,31],
+"da/d19/classGraphicsViewZoom.html#a5206ed21975321765916b316c5d2da4d":[1,0,90,22],
+"da/d19/classGraphicsViewZoom.html#a552851f1b2e1eae67aa69fee26833ff7":[1,0,90,2],
+"da/d19/classGraphicsViewZoom.html#a6bc415e761839327d976b36f0ce66b1d":[1,0,90,16],
+"da/d19/classGraphicsViewZoom.html#a797129d490eb20ddc0538bf8450600a4":[1,0,90,15],
+"da/d19/classGraphicsViewZoom.html#a8479bba051ef04be054efcfa22b8702c":[1,0,90,5],
+"da/d19/classGraphicsViewZoom.html#a8cceee86f3a8a3653c525399d9cfee85":[1,0,90,10],
+"da/d19/classGraphicsViewZoom.html#a8d6481efaca890c1ef7a172f4b2d6b4d":[1,0,90,9],
+"da/d19/classGraphicsViewZoom.html#a9409dbb2720f8f1a17d1807e40048777":[1,0,90,19],
+"da/d19/classGraphicsViewZoom.html#aa9e336b8a44d5e87fdd39423d165c66a":[1,0,90,24],
 "da/d19/classGraphicsViewZoom.html#aacbf4221713be6032c1f2036a910be38":[1,0,90,30],
 "da/d19/classGraphicsViewZoom.html#ab14ea54555d5d608bb209dabb525748e":[1,0,90,11],
 "da/d19/classGraphicsViewZoom.html#ab44d25f42d7907724e88135becb33301":[1,0,90,17],
@@ -238,16 +249,5 @@ var NAVTREEINDEX40 =
 "da/d59/classqmu_1_1Test_1_1QmuParserTester.html#aff2822768ab9ca09a99effdd7901d60d":[1,0,0,0,0,6],
 "da/d59/qmuparser_8cpp.html":[2,0,0,1,2,4],
 "da/d59/qmuparser_8cpp_source.html":[2,0,0,1,2,4],
-"da/d5b/classShowInfoDialog.html":[1,0,178],
-"da/d5b/classShowInfoDialog.html#a2637753f995ca3226288251e7f91bd87":[1,0,178,7],
-"da/d5b/classShowInfoDialog.html#a397af00cdc177bface445f7afbc95160":[1,0,178,8],
-"da/d5b/classShowInfoDialog.html#a40e6cf9ca71c7afa975aa7e911d1c272":[1,0,178,0],
-"da/d5b/classShowInfoDialog.html#a57ceec9bbd87290e7b7b058d80931705":[1,0,178,4],
-"da/d5b/classShowInfoDialog.html#a5acc920f383fb6fd6e8ea51e12c1ce2e":[1,0,178,2],
-"da/d5b/classShowInfoDialog.html#a62f6e42540272c743eb14f42a9044fce":[1,0,178,5],
-"da/d5b/classShowInfoDialog.html#a66997c5dc28fa1bfe9fcfae314a4f95b":[1,0,178,6],
-"da/d5b/classShowInfoDialog.html#a6a5807a3535feaf84a4e13604de398c0":[1,0,178,1],
-"da/d5b/classShowInfoDialog.html#abacaa3209f4cb20060fff97da0bdb1a1":[1,0,178,3],
-"da/d5b/pieceanchorpoint__visual_8cpp.html":[2,0,0,1,13,3,1,2],
-"da/d5b/pieceanchorpoint__visual_8cpp_source.html":[2,0,0,1,13,3,1,2]
+"da/d5b/classShowInfoDialog.html":[1,0,178]
 };

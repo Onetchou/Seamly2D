@@ -14,6 +14,7 @@ var classVAbstractPattern =
     [ "ChangedCursor", "d8/dba/classVAbstractPattern.html#a393acaa1e7a66877b639260638c2766f", null ],
     [ "CheckLayout", "d8/dba/classVAbstractPattern.html#a8276410ca024ac045a12e51e8e39503e", null ],
     [ "CheckTagExists", "d8/dba/classVAbstractPattern.html#ade35a3300e35543c955f163d1dcd521b", null ],
+    [ "clearBackgroundImageMap", "d8/dba/classVAbstractPattern.html#a8f3e379ccea6495df3b8e46c2faf310f", null ],
     [ "ClearMainWindow", "d8/dba/classVAbstractPattern.html#a7e4838c9005f310757392ac20cfc0c53", null ],
     [ "ClearScene", "d8/dba/classVAbstractPattern.html#abc72813c6ad43b99d7c614c80e5b5b4e", null ],
     [ "CreateEmptyFile", "d8/dba/classVAbstractPattern.html#aa4d1f7ce6efd34666ec9dfd453bbef57", null ],

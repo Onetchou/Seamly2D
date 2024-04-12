@@ -1,5 +1,16 @@
 var NAVTREEINDEX64 =
 {
+"df/dd0/vtoollinepoint_8h.html":[2,0,0,1,13,1,0,2,1,1,15],
+"df/dd0/vtoollinepoint_8h_source.html":[2,0,0,1,13,1,0,2,1,1,15],
+"df/dd2/vtoolrotation_8cpp.html":[2,0,0,1,13,1,0,0,5],
+"df/dd2/vtoolrotation_8cpp_source.html":[2,0,0,1,13,1,0,0,5],
+"df/dd5/dialogpointfromarcandtangent_8cpp.html":[2,0,0,1,13,0,1,47],
+"df/dd5/dialogpointfromarcandtangent_8cpp_source.html":[2,0,0,1,13,0,1,47],
+"df/dd9/classVGObjectData.html":[1,0,287],
+"df/dd9/classVGObjectData.html#a0291db5ccb16d6638d32fcfc057edd23":[1,0,287,2],
+"df/dd9/classVGObjectData.html#a24680895cf36c9add6157cf15ceb5e3e":[1,0,287,3],
+"df/dd9/classVGObjectData.html#a33c538ee38520512e6e6dc8b87d87642":[1,0,287,4],
+"df/dd9/classVGObjectData.html#a37458e57e5914914d2366147dec417c1":[1,0,287,0],
 "df/dd9/classVGObjectData.html#a489148bf1e32826f784b5a1e86e59b5a":[1,0,287,7],
 "df/dd9/classVGObjectData.html#a61e94925edad5ffd55fa0335326e4656":[1,0,287,5],
 "df/dd9/classVGObjectData.html#a9b24a84173e004aadf7db1f618e9343c":[1,0,287,9],
@@ -238,16 +249,5 @@ var NAVTREEINDEX64 =
 "dir_089e271760586872816ceb2d9372fbe0.html":[2,0,0,1,11,0],
 "dir_0b43e84fad29eea21cbcad91e99d52fe.html":[2,0,0,1,2],
 "dir_0ca6ab6f29ec27907e8ee4f6aad54e41.html":[2,0,0,1,13,1,1],
-"dir_104fb0595f71eee01dbf4ca6fcbac89d.html":[2,0,0,1,4],
-"dir_120ed4da3e3217b1e7fc0b4f48568e79.html":[2,0,0,2],
-"dir_1bc804e466bfb66c622b898f0fb4e170.html":[2,0,0,1,13,0,1,0],
-"dir_1d882400a7f2321a7261e09e0d9b202d.html":[2,0,0,1,13,0,1],
-"dir_223cdb8d508b79a19c2b95144d044f4d.html":[2,0,0,1,10],
-"dir_24aba5d426d350688647464bdd8b2102.html":[2,0,0,1,13,3],
-"dir_2b72c780aff1d917ac24730dd5b0a4f9.html":[2,0,0,1,0],
-"dir_32a5fa251366cb688c6c63d2ec2cfdfb.html":[2,0,0,1,13],
-"dir_3391c9b572ec71162c91f706b45a44a5.html":[2,0,0,1,13,1,0,2,1,0],
-"dir_350828bfd43e89306c9dbf5500f4c503.html":[2,0,0,2,2],
-"dir_354d20b0c67e02df61fe14ff77a24737.html":[2,0,0,1,13,1,0,0,0],
-"dir_3ca4be1edb5cabe1332bbec92b525c91.html":[2,0,0,1,10,1]
+"dir_104fb0595f71eee01dbf4ca6fcbac89d.html":[2,0,0,1,4]
 };

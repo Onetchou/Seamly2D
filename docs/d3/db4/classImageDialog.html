@@ -131,8 +131,8 @@ Signals</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ab9e5db33fba5f4563a15c376d912a6fc"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db4/classImageDialog.html#ab9e5db33fba5f4563a15c376d912a6fc">ImageDialog</a> (<a class="el" href="../../d3/df8/structDraftImage.html">DraftImage</a> image)</td></tr>
-<tr class="separator:ab9e5db33fba5f4563a15c376d912a6fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aebb6e846c376ed713d2d63c860f68d98"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db4/classImageDialog.html#aebb6e846c376ed713d2d63c860f68d98">ImageDialog</a> (<a class="el" href="../../d3/df8/structDraftImage.html">DraftImage</a> image, qreal minDimension, qreal maxDimension)</td></tr>
+<tr class="separator:aebb6e846c376ed713d2d63c860f68d98"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a851b2388c9108c67018c100f1697ba43"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db4/classImageDialog.html#a851b2388c9108c67018c100f1697ba43">~ImageDialog</a> ()</td></tr>
 <tr class="separator:a851b2388c9108c67018c100f1697ba43"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af27a8dce08c1a9c955f3f2c0649d0895"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/df8/structDraftImage.html">DraftImage</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db4/classImageDialog.html#af27a8dce08c1a9c955f3f2c0649d0895">getImage</a> () const</td></tr>
@@ -210,10 +210,10 @@ Private Slots</h2></td></tr>
 <tr class="separator:adf6f025dd69791ad20909052e6cc492a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aeb489693a42c80fb23f5e564ace142d4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db4/classImageDialog.html#aeb489693a42c80fb23f5e564ace142d4">yPosChanged</a> (qreal value)</td></tr>
 <tr class="separator:aeb489693a42c80fb23f5e564ace142d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2ff089975f8eec72be667a196b095ca0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db4/classImageDialog.html#a2ff089975f8eec72be667a196b095ca0">widthChanged</a> (qreal value)</td></tr>
-<tr class="separator:a2ff089975f8eec72be667a196b095ca0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a113d2b2b5e811c339917bb872aea5ab5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db4/classImageDialog.html#a113d2b2b5e811c339917bb872aea5ab5">heightChanged</a> (qreal value)</td></tr>
-<tr class="separator:a113d2b2b5e811c339917bb872aea5ab5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a208895766f0168acbda14b66b9eb7b1c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db4/classImageDialog.html#a208895766f0168acbda14b66b9eb7b1c">widthChanged</a> (qreal width)</td></tr>
+<tr class="separator:a208895766f0168acbda14b66b9eb7b1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abf3d2c0d9b2a23b8914f7fad654fbd9f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db4/classImageDialog.html#abf3d2c0d9b2a23b8914f7fad654fbd9f">heightChanged</a> (qreal height)</td></tr>
+<tr class="separator:abf3d2c0d9b2a23b8914f7fad654fbd9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a65619b9ef189eb9cecd1f076576f22db"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db4/classImageDialog.html#a65619b9ef189eb9cecd1f076576f22db">xScaleChanged</a> (qreal value)</td></tr>
 <tr class="separator:a65619b9ef189eb9cecd1f076576f22db"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aed62de26b43ed033d3f52008f8b2c1fc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db4/classImageDialog.html#aed62de26b43ed033d3f52008f8b2c1fc">yScaleChanged</a> (qreal value)</td></tr>
@@ -249,14 +249,16 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a4523c7abec3d2c77d6cf9bee32e833ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7ddedc14f008172fdbc9fddcf61f8d76"><td class="memItemLeft" align="right" valign="top">qreal&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db4/classImageDialog.html#a7ddedc14f008172fdbc9fddcf61f8d76">m_pixmapHeight</a></td></tr>
 <tr class="separator:a7ddedc14f008172fdbc9fddcf61f8d76"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af69bd2f036c70decedb2b8da65813d72"><td class="memItemLeft" align="right" valign="top">qreal&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db4/classImageDialog.html#af69bd2f036c70decedb2b8da65813d72">m_minScale</a></td></tr>
-<tr class="separator:af69bd2f036c70decedb2b8da65813d72"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a03150d6da783d686222e79ebaf56cfa1"><td class="memItemLeft" align="right" valign="top">qreal&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db4/classImageDialog.html#a03150d6da783d686222e79ebaf56cfa1">m_maxScale</a></td></tr>
-<tr class="separator:a03150d6da783d686222e79ebaf56cfa1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abcfaf2fd96998fd6142b881dd5299d73"><td class="memItemLeft" align="right" valign="top">qreal&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db4/classImageDialog.html#abcfaf2fd96998fd6142b881dd5299d73">m_maxDimension</a></td></tr>
+<tr class="separator:abcfaf2fd96998fd6142b881dd5299d73"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae302cec60c09156b5a86523f6696271e"><td class="memItemLeft" align="right" valign="top">qreal&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db4/classImageDialog.html#ae302cec60c09156b5a86523f6696271e">m_minDimension</a></td></tr>
 <tr class="separator:ae302cec60c09156b5a86523f6696271e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa8abd83efe9509ed72dfdfa2773dd159"><td class="memItemLeft" align="right" valign="top">qreal&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db4/classImageDialog.html#aa8abd83efe9509ed72dfdfa2773dd159">m_minOpacity</a></td></tr>
 <tr class="separator:aa8abd83efe9509ed72dfdfa2773dd159"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6b1ce85a3bb6db255b2a5565684838ea"><td class="memItemLeft" align="right" valign="top">qreal&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db4/classImageDialog.html#a6b1ce85a3bb6db255b2a5565684838ea">m_xScale</a></td></tr>
+<tr class="separator:a6b1ce85a3bb6db255b2a5565684838ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a876661ab43ded9d015903fe3dbba5028"><td class="memItemLeft" align="right" valign="top">qreal&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db4/classImageDialog.html#a876661ab43ded9d015903fe3dbba5028">m_yScale</a></td></tr>
+<tr class="separator:a876661ab43ded9d015903fe3dbba5028"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5e7ff248255bae6daf354f1a5872743d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db4/classImageDialog.html#a5e7ff248255bae6daf354f1a5872743d">m_flagName</a></td></tr>
 <tr class="separator:a5e7ff248255bae6daf354f1a5872743d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -264,8 +266,8 @@ Private Attributes</h2></td></tr>
 <div class="textblock">
 <p class="definition">Definition at line <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00048">48</a> of file <a class="el" href="../../dd/dfa/image__dialog_8h_source.html">image_dialog.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ab9e5db33fba5f4563a15c376d912a6fc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab9e5db33fba5f4563a15c376d912a6fc">&#9670;&nbsp;</a></span>ImageDialog()</h2>
+<a id="aebb6e846c376ed713d2d63c860f68d98"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aebb6e846c376ed713d2d63c860f68d98">&#9670;&nbsp;</a></span>ImageDialog()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -277,8 +279,24 @@ Private Attributes</h2></td></tr>
           <td class="memname">ImageDialog::ImageDialog </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="../../d3/df8/structDraftImage.html">DraftImage</a>&#160;</td>
-          <td class="paramname"><em>image</em></td><td>)</td>
+          <td class="paramname"><em>image</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">qreal&#160;</td>
+          <td class="paramname"><em>minDimension</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">qreal&#160;</td>
+          <td class="paramname"><em>maxDimension</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -290,7 +308,7 @@ Private Attributes</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">65</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00741">dialogApply()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00530">heightChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00599">lockAspectChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00588">lockChanged()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00139">m_maxScale</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00140">m_minDimension</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00138">m_minScale</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00137">m_pixmapHeight</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00136">m_pixmapWidth</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00420">nameChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00680">opacityChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00660">rotationChanged()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00625">unitsChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00145">updateImage()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00610">updateSpinboxesRanges()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00693">updateUnits()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00669">visibilityChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00506">widthChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00474">xPosChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00554">xScaleChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00490">yPosChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00571">yScaleChanged()</a>.</p>
+<p class="reference">References <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00818">dialogApply()</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00192">DraftImage::height</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00530">heightChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00659">lockAspectChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00648">lockChanged()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00137">m_pixmapHeight</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00136">m_pixmapWidth</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00404">nameChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00757">opacityChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00737">rotationChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00305">setXScale()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00320">setYScale()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00704">unitsChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00131">updateImage()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00770">updateUnits()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00746">visibilityChanged()</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00191">DraftImage::width</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00490">widthChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00458">xPosChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00570">xScaleChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00474">yPosChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00609">yScaleChanged()</a>.</p>
 
 </div>
 </div>
@@ -317,7 +335,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00128">128</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00114">114</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
 <p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>.</p>
 
@@ -347,7 +365,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00468">468</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00452">452</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
 </div>
 </div>
@@ -375,7 +393,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../df/d1e/image__item_8cpp_source.html#l00292">ImageItem::contextMenuEvent()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00741">dialogApply()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../df/d1e/image__item_8cpp_source.html#l00287">ImageItem::contextMenuEvent()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00818">dialogApply()</a>.</p>
 
 </div>
 </div>
@@ -403,9 +421,9 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00741">741</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00818">818</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d3/db4/classImageDialog.html#a8646e9c889936aa92241038969d601e9">applyClicked()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00145">updateImage()</a>.</p>
+<p class="reference">References <a class="el" href="../../d3/db4/classImageDialog.html#a8646e9c889936aa92241038969d601e9">applyClicked()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00131">updateImage()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>.</p>
 
@@ -426,11 +444,11 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00186">186</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00165">165</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00188">DraftImage::locked</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>.</p>
+<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00186">DraftImage::locked</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00588">lockChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00145">updateImage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00648">lockChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00131">updateImage()</a>.</p>
 
 </div>
 </div>
@@ -449,9 +467,9 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00294">294</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00276">276</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00194">DraftImage::height</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>.</p>
+<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00192">DraftImage::height</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>.</p>
 
 </div>
 </div>
@@ -470,11 +488,11 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00134">134</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00120">120</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
 <p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../df/d1e/image__item_8cpp_source.html#l00292">ImageItem::contextMenuEvent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../df/d1e/image__item_8cpp_source.html#l00287">ImageItem::contextMenuEvent()</a>.</p>
 
 </div>
 </div>
@@ -493,9 +511,9 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00203">203</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00182">182</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00185">DraftImage::name</a>.</p>
+<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00183">DraftImage::name</a>.</p>
 
 </div>
 </div>
@@ -514,9 +532,9 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00405">405</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00389">389</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00201">DraftImage::opacity</a>.</p>
+<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00199">DraftImage::opacity</a>.</p>
 
 </div>
 </div>
@@ -535,9 +553,9 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00216">216</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00195">195</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00189">DraftImage::origin</a>.</p>
+<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00187">DraftImage::origin</a>.</p>
 
 </div>
 </div>
@@ -556,9 +574,9 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00375">375</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00359">359</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00199">DraftImage::rotation</a>.</p>
+<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00197">DraftImage::rotation</a>.</p>
 
 </div>
 </div>
@@ -577,9 +595,9 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00272">272</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00251">251</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00193">DraftImage::width</a>.</p>
+<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00191">DraftImage::width</a>.</p>
 
 </div>
 </div>
@@ -598,9 +616,9 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00228">228</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00207">207</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00191">DraftImage::xPos</a>.</p>
+<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00189">DraftImage::xPos</a>.</p>
 
 </div>
 </div>
@@ -619,9 +637,9 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00316">316</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00300">300</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00195">DraftImage::xScale</a>.</p>
+<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00141">m_xScale</a>.</p>
 
 </div>
 </div>
@@ -640,9 +658,9 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00250">250</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00229">229</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00192">DraftImage::yPos</a>.</p>
+<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00190">DraftImage::yPos</a>.</p>
 
 </div>
 </div>
@@ -661,14 +679,14 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00330">330</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00314">314</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00196">DraftImage::yScale</a>.</p>
+<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00142">m_yScale</a>.</p>
 
 </div>
 </div>
-<a id="a113d2b2b5e811c339917bb872aea5ab5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a113d2b2b5e811c339917bb872aea5ab5">&#9670;&nbsp;</a></span>heightChanged</h2>
+<a id="abf3d2c0d9b2a23b8914f7fad654fbd9f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abf3d2c0d9b2a23b8914f7fad654fbd9f">&#9670;&nbsp;</a></span>heightChanged</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -680,7 +698,7 @@ Private Attributes</h2></td></tr>
           <td class="memname">void ImageDialog::heightChanged </td>
           <td>(</td>
           <td class="paramtype">qreal&#160;</td>
-          <td class="paramname"><em>value</em></td><td>)</td>
+          <td class="paramname"><em>height</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -693,7 +711,7 @@ Private Attributes</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00530">530</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00197">DraftImage::aspectLocked</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00194">DraftImage::height</a>, <a class="el" href="../../d3/db4/classImageDialog.html#ab064adeffabb3ef7219179d9645f255a">imageUpdated()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00137">m_pixmapHeight</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00136">m_pixmapWidth</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889ad7e2c9feaded425c8f73763ccf7397a2">Px</a>, <a class="el" href="../../d9/d02/vapplication_8h_source.html#l00067">qApp</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00278">setWidth()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00321">setXScale()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00336">setYScale()</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00198">DraftImage::units</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00193">DraftImage::width</a>.</p>
+<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00195">DraftImage::aspectLocked</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00192">DraftImage::height</a>, <a class="el" href="../../d3/db4/classImageDialog.html#ab064adeffabb3ef7219179d9645f255a">imageUpdated()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00138">m_maxDimension</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00139">m_minDimension</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00137">m_pixmapHeight</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00136">m_pixmapWidth</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889ad7e2c9feaded425c8f73763ccf7397a2">Px</a>, <a class="el" href="../../d9/d02/vapplication_8h_source.html#l00067">qApp</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00282">setHeight()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00257">setWidth()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00305">setXScale()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00320">setYScale()</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00196">DraftImage::units</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00191">DraftImage::width</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>.</p>
 
@@ -723,7 +741,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00530">heightChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00680">opacityChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00459">originChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00660">rotationChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00625">unitsChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00669">visibilityChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00506">widthChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00474">xPosChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00554">xScaleChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00490">yPosChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00571">yScaleChanged()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00530">heightChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00757">opacityChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00443">originChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00737">rotationChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00704">unitsChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00746">visibilityChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00490">widthChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00458">xPosChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00570">xScaleChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00474">yPosChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00609">yScaleChanged()</a>.</p>
 
 </div>
 </div>
@@ -742,9 +760,9 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00345">345</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00329">329</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00197">DraftImage::aspectLocked</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>.</p>
+<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00195">DraftImage::aspectLocked</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>.</p>
 
 </div>
 </div>
@@ -763,9 +781,9 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00360">360</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00344">344</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00188">DraftImage::locked</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>.</p>
+<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00186">DraftImage::locked</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>.</p>
 
 </div>
 </div>
@@ -784,9 +802,9 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00390">390</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00374">374</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00200">DraftImage::visible</a>.</p>
+<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00198">DraftImage::visible</a>.</p>
 
 </div>
 </div>
@@ -814,9 +832,9 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00599">599</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00659">659</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00197">DraftImage::aspectLocked</a>, <a class="el" href="../../d3/db4/classImageDialog.html#a3a96faaa720c8c2eddb79d263a6e3427">lockAspectClicked()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>.</p>
+<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00195">DraftImage::aspectLocked</a>, <a class="el" href="../../d3/db4/classImageDialog.html#a3a96faaa720c8c2eddb79d263a6e3427">lockAspectClicked()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>.</p>
 
@@ -846,7 +864,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00599">lockAspectChanged()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00659">lockAspectChanged()</a>.</p>
 
 </div>
 </div>
@@ -874,9 +892,9 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00588">588</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00648">648</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00186">enableWidgets()</a>, <a class="el" href="../../d3/db4/classImageDialog.html#ad601b53e3f6fbd6022d13ce48872d623">lockClicked()</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00188">DraftImage::locked</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>.</p>
+<p class="reference">References <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00165">enableWidgets()</a>, <a class="el" href="../../d3/db4/classImageDialog.html#ad601b53e3f6fbd6022d13ce48872d623">lockClicked()</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00186">DraftImage::locked</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>.</p>
 
@@ -906,7 +924,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00588">lockChanged()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00648">lockChanged()</a>.</p>
 
 </div>
 </div>
@@ -934,9 +952,9 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00420">420</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00404">404</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d6/d46/vcontainer_8cpp_source.html#l00585">VContainer::IsUnique()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00185">DraftImage::name</a>, <a class="el" href="../../df/d51/qmudef_8cpp_source.html#l00281">NameRegExp()</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00406">SCASSERT</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00209">setName()</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>.</p>
+<p class="reference">References <a class="el" href="../../d6/d46/vcontainer_8cpp_source.html#l00585">VContainer::IsUnique()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00183">DraftImage::name</a>, <a class="el" href="../../df/d51/qmudef_8cpp_source.html#l00281">NameRegExp()</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00404">SCASSERT</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00188">setName()</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>.</p>
 
@@ -966,9 +984,9 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00680">680</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00757">757</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d3/db4/classImageDialog.html#ab064adeffabb3ef7219179d9645f255a">imageUpdated()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00141">m_minOpacity</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00201">DraftImage::opacity</a>.</p>
+<p class="reference">References <a class="el" href="../../d3/db4/classImageDialog.html#ab064adeffabb3ef7219179d9645f255a">imageUpdated()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00140">m_minOpacity</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00199">DraftImage::opacity</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>.</p>
 
@@ -998,7 +1016,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00459">459</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00443">443</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
 <p class="reference">References <a class="el" href="../../d3/db4/classImageDialog.html#ab064adeffabb3ef7219179d9645f255a">imageUpdated()</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>.</p>
 
@@ -1028,9 +1046,9 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00660">660</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00737">737</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d3/db4/classImageDialog.html#ab064adeffabb3ef7219179d9645f255a">imageUpdated()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00199">DraftImage::rotation</a>.</p>
+<p class="reference">References <a class="el" href="../../d3/db4/classImageDialog.html#ab064adeffabb3ef7219179d9645f255a">imageUpdated()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00197">DraftImage::rotation</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>.</p>
 
@@ -1052,11 +1070,11 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00351">351</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00335">335</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00197">DraftImage::aspectLocked</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>.</p>
+<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00195">DraftImage::aspectLocked</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00145">updateImage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00131">updateImage()</a>.</p>
 
 </div>
 </div>
@@ -1084,11 +1102,11 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00732">732</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00809">809</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
 <p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00693">updateUnits()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00770">updateUnits()</a>.</p>
 
 </div>
 </div>
@@ -1108,11 +1126,11 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00300">300</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00282">282</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00194">DraftImage::height</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889ad7e2c9feaded425c8f73763ccf7397a2">Px</a>, <a class="el" href="../../d9/d02/vapplication_8h_source.html#l00067">qApp</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00198">DraftImage::units</a>.</p>
+<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00192">DraftImage::height</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889ad7e2c9feaded425c8f73763ccf7397a2">Px</a>, <a class="el" href="../../d9/d02/vapplication_8h_source.html#l00067">qApp</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00196">DraftImage::units</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00145">updateImage()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00506">widthChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00554">xScaleChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00571">yScaleChanged()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00530">heightChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00131">updateImage()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00490">widthChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00570">xScaleChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00609">yScaleChanged()</a>.</p>
 
 </div>
 </div>
@@ -1132,9 +1150,9 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00139">139</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00125">125</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00145">updateImage()</a>.</p>
+<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00131">updateImage()</a>.</p>
 
 </div>
 </div>
@@ -1154,9 +1172,9 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00366">366</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00350">350</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00188">DraftImage::locked</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>.</p>
+<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00186">DraftImage::locked</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>.</p>
 
 </div>
 </div>
@@ -1176,11 +1194,11 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00209">209</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00188">188</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00185">DraftImage::name</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>.</p>
+<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00183">DraftImage::name</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00420">nameChanged()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00404">nameChanged()</a>.</p>
 
 </div>
 </div>
@@ -1200,11 +1218,11 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00411">411</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00395">395</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00201">DraftImage::opacity</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>.</p>
+<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00199">DraftImage::opacity</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00145">updateImage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00131">updateImage()</a>.</p>
 
 </div>
 </div>
@@ -1224,7 +1242,7 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00222">222</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00201">201</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
 </div>
 </div>
@@ -1244,11 +1262,11 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00381">381</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00365">365</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00199">DraftImage::rotation</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>.</p>
+<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00197">DraftImage::rotation</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00145">updateImage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00131">updateImage()</a>.</p>
 
 </div>
 </div>
@@ -1276,11 +1294,11 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00724">724</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00801">801</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
 <p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00693">updateUnits()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00770">updateUnits()</a>.</p>
 
 </div>
 </div>
@@ -1300,11 +1318,11 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00396">396</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00380">380</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00200">DraftImage::visible</a>.</p>
+<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00198">DraftImage::visible</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00145">updateImage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00131">updateImage()</a>.</p>
 
 </div>
 </div>
@@ -1324,11 +1342,11 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00278">278</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00257">257</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889ad7e2c9feaded425c8f73763ccf7397a2">Px</a>, <a class="el" href="../../d9/d02/vapplication_8h_source.html#l00067">qApp</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00198">DraftImage::units</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00193">DraftImage::width</a>.</p>
+<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889ad7e2c9feaded425c8f73763ccf7397a2">Px</a>, <a class="el" href="../../d9/d02/vapplication_8h_source.html#l00067">qApp</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00196">DraftImage::units</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00191">DraftImage::width</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00530">heightChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00145">updateImage()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00554">xScaleChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00571">yScaleChanged()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00530">heightChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00131">updateImage()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00490">widthChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00570">xScaleChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00609">yScaleChanged()</a>.</p>
 
 </div>
 </div>
@@ -1348,11 +1366,11 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00234">234</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00213">213</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889ad7e2c9feaded425c8f73763ccf7397a2">Px</a>, <a class="el" href="../../d9/d02/vapplication_8h_source.html#l00067">qApp</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00198">DraftImage::units</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00191">DraftImage::xPos</a>.</p>
+<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889ad7e2c9feaded425c8f73763ccf7397a2">Px</a>, <a class="el" href="../../d9/d02/vapplication_8h_source.html#l00067">qApp</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00196">DraftImage::units</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00189">DraftImage::xPos</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00145">updateImage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00131">updateImage()</a>.</p>
 
 </div>
 </div>
@@ -1372,11 +1390,11 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00321">321</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00305">305</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00195">DraftImage::xScale</a>.</p>
+<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00141">m_xScale</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00530">heightChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00145">updateImage()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00506">widthChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00571">yScaleChanged()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00530">heightChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00490">widthChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00570">xScaleChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00609">yScaleChanged()</a>.</p>
 
 </div>
 </div>
@@ -1396,11 +1414,11 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00256">256</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00235">235</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889ad7e2c9feaded425c8f73763ccf7397a2">Px</a>, <a class="el" href="../../d9/d02/vapplication_8h_source.html#l00067">qApp</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00198">DraftImage::units</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00192">DraftImage::yPos</a>.</p>
+<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889ad7e2c9feaded425c8f73763ccf7397a2">Px</a>, <a class="el" href="../../d9/d02/vapplication_8h_source.html#l00067">qApp</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00196">DraftImage::units</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00190">DraftImage::yPos</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00145">updateImage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00131">updateImage()</a>.</p>
 
 </div>
 </div>
@@ -1420,11 +1438,11 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00336">336</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00320">320</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00196">DraftImage::yScale</a>.</p>
+<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00142">m_yScale</a>, and <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00530">heightChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00145">updateImage()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00506">widthChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00554">xScaleChanged()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00530">heightChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00490">widthChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00570">xScaleChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00609">yScaleChanged()</a>.</p>
 
 </div>
 </div>
@@ -1451,9 +1469,9 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00625">625</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00704">704</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00194">DraftImage::height</a>, <a class="el" href="../../d3/db4/classImageDialog.html#ab064adeffabb3ef7219179d9645f255a">imageUpdated()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889ad7e2c9feaded425c8f73763ccf7397a2">Px</a>, <a class="el" href="../../d9/d02/vapplication_8h_source.html#l00067">qApp</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00198">DraftImage::units</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00610">updateSpinboxesRanges()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00693">updateUnits()</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00193">DraftImage::width</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00191">DraftImage::xPos</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00192">DraftImage::yPos</a>.</p>
+<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00192">DraftImage::height</a>, <a class="el" href="../../d3/db4/classImageDialog.html#ab064adeffabb3ef7219179d9645f255a">imageUpdated()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889ad7e2c9feaded425c8f73763ccf7397a2">Px</a>, <a class="el" href="../../d9/d02/vapplication_8h_source.html#l00067">qApp</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00196">DraftImage::units</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00770">updateUnits()</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00191">DraftImage::width</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00189">DraftImage::xPos</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00190">DraftImage::yPos</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>.</p>
 
@@ -1474,11 +1492,11 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00145">145</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00131">131</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00190">DraftImage::anchor</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00197">DraftImage::aspectLocked</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00186">enableWidgets()</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00186">DraftImage::filename</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00194">DraftImage::height</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00184">DraftImage::id</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00188">DraftImage::locked</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00139">m_maxScale</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00138">m_minScale</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00185">DraftImage::name</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00201">DraftImage::opacity</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00202">DraftImage::order</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00199">DraftImage::rotation</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00351">setAspectLocked()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00300">setHeight()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00411">setOpacity()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00381">setRotation()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00396">setVisibility()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00278">setWidth()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00234">setXPos()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00321">setXScale()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00256">setYPos()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00336">setYScale()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00198">DraftImage::units</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00200">DraftImage::visible</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00193">DraftImage::width</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00191">DraftImage::xPos</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00195">DraftImage::xScale</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00192">DraftImage::yPos</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00196">DraftImage::yScale</a>.</p>
+<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00188">DraftImage::anchor</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00195">DraftImage::aspectLocked</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00165">enableWidgets()</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00184">DraftImage::filename</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00192">DraftImage::height</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00182">DraftImage::id</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00186">DraftImage::locked</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00183">DraftImage::name</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00199">DraftImage::opacity</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00200">DraftImage::order</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00197">DraftImage::rotation</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00335">setAspectLocked()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00282">setHeight()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00395">setOpacity()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00365">setRotation()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00380">setVisibility()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00257">setWidth()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00213">setXPos()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00235">setYPos()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00196">DraftImage::units</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00198">DraftImage::visible</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00191">DraftImage::width</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00189">DraftImage::xPos</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00190">DraftImage::yPos</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00741">dialogApply()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00139">setImage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00818">dialogApply()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00125">setImage()</a>.</p>
 
 </div>
 </div>
@@ -1505,11 +1523,9 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00610">610</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00670">670</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00140">m_minDimension</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889ad7e2c9feaded425c8f73763ccf7397a2">Px</a>, <a class="el" href="../../d9/d02/vapplication_8h_source.html#l00067">qApp</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00198">DraftImage::units</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00625">unitsChanged()</a>.</p>
+<p class="reference">References <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00138">m_maxDimension</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00139">m_minDimension</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00137">m_pixmapHeight</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00136">m_pixmapWidth</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889ad7e2c9feaded425c8f73763ccf7397a2">Px</a>, <a class="el" href="../../d9/d02/vapplication_8h_source.html#l00067">qApp</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00196">DraftImage::units</a>.</p>
 
 </div>
 </div>
@@ -1536,11 +1552,11 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00693">693</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00770">770</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889a4d42fd7ad795178d64613eba2a2aa9ad">Cm</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889abee12d309ba5730e1e121733b7b67956">Inch</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889a07f07b623b4a00b57dc150ff2e59cb92">Mm</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889ad7e2c9feaded425c8f73763ccf7397a2">Px</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00732">setDecimals()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00724">setSuffix()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00198">DraftImage::units</a>.</p>
+<p class="reference">References <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889a4d42fd7ad795178d64613eba2a2aa9ad">Cm</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889abee12d309ba5730e1e121733b7b67956">Inch</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889a07f07b623b4a00b57dc150ff2e59cb92">Mm</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889ad7e2c9feaded425c8f73763ccf7397a2">Px</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00809">setDecimals()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00801">setSuffix()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00196">DraftImage::units</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00625">unitsChanged()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00704">unitsChanged()</a>.</p>
 
 </div>
 </div>
@@ -1568,16 +1584,16 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00669">669</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00746">746</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d3/db4/classImageDialog.html#ab064adeffabb3ef7219179d9645f255a">imageUpdated()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00200">DraftImage::visible</a>.</p>
+<p class="reference">References <a class="el" href="../../d3/db4/classImageDialog.html#ab064adeffabb3ef7219179d9645f255a">imageUpdated()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">ui</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00198">DraftImage::visible</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>.</p>
 
 </div>
 </div>
-<a id="a2ff089975f8eec72be667a196b095ca0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2ff089975f8eec72be667a196b095ca0">&#9670;&nbsp;</a></span>widthChanged</h2>
+<a id="a208895766f0168acbda14b66b9eb7b1c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a208895766f0168acbda14b66b9eb7b1c">&#9670;&nbsp;</a></span>widthChanged</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1589,7 +1605,7 @@ Private Attributes</h2></td></tr>
           <td class="memname">void ImageDialog::widthChanged </td>
           <td>(</td>
           <td class="paramtype">qreal&#160;</td>
-          <td class="paramname"><em>value</em></td><td>)</td>
+          <td class="paramname"><em>width</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -1600,9 +1616,9 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00506">506</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00490">490</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00197">DraftImage::aspectLocked</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00194">DraftImage::height</a>, <a class="el" href="../../d3/db4/classImageDialog.html#ab064adeffabb3ef7219179d9645f255a">imageUpdated()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00137">m_pixmapHeight</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00136">m_pixmapWidth</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889ad7e2c9feaded425c8f73763ccf7397a2">Px</a>, <a class="el" href="../../d9/d02/vapplication_8h_source.html#l00067">qApp</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00300">setHeight()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00321">setXScale()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00336">setYScale()</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00198">DraftImage::units</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00193">DraftImage::width</a>.</p>
+<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00195">DraftImage::aspectLocked</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00192">DraftImage::height</a>, <a class="el" href="../../d3/db4/classImageDialog.html#ab064adeffabb3ef7219179d9645f255a">imageUpdated()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00138">m_maxDimension</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00139">m_minDimension</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00137">m_pixmapHeight</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00136">m_pixmapWidth</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889ad7e2c9feaded425c8f73763ccf7397a2">Px</a>, <a class="el" href="../../d9/d02/vapplication_8h_source.html#l00067">qApp</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00282">setHeight()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00257">setWidth()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00305">setXScale()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00320">setYScale()</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00196">DraftImage::units</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00191">DraftImage::width</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>.</p>
 
@@ -1632,9 +1648,9 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00474">474</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00458">458</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d3/db4/classImageDialog.html#ab064adeffabb3ef7219179d9645f255a">imageUpdated()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889ad7e2c9feaded425c8f73763ccf7397a2">Px</a>, <a class="el" href="../../d9/d02/vapplication_8h_source.html#l00067">qApp</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00198">DraftImage::units</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00191">DraftImage::xPos</a>.</p>
+<p class="reference">References <a class="el" href="../../d3/db4/classImageDialog.html#ab064adeffabb3ef7219179d9645f255a">imageUpdated()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889ad7e2c9feaded425c8f73763ccf7397a2">Px</a>, <a class="el" href="../../d9/d02/vapplication_8h_source.html#l00067">qApp</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00196">DraftImage::units</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00189">DraftImage::xPos</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>.</p>
 
@@ -1664,9 +1680,9 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00554">554</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00570">570</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00197">DraftImage::aspectLocked</a>, <a class="el" href="../../d3/db4/classImageDialog.html#ab064adeffabb3ef7219179d9645f255a">imageUpdated()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00137">m_pixmapHeight</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00136">m_pixmapWidth</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00300">setHeight()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00278">setWidth()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00336">setYScale()</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00195">DraftImage::xScale</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00196">DraftImage::yScale</a>.</p>
+<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00195">DraftImage::aspectLocked</a>, <a class="el" href="../../d3/db4/classImageDialog.html#ab064adeffabb3ef7219179d9645f255a">imageUpdated()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00138">m_maxDimension</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00139">m_minDimension</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00137">m_pixmapHeight</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00136">m_pixmapWidth</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00141">m_xScale</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00142">m_yScale</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00282">setHeight()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00257">setWidth()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00305">setXScale()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00320">setYScale()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>.</p>
 
@@ -1696,9 +1712,9 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00490">490</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00474">474</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d3/db4/classImageDialog.html#ab064adeffabb3ef7219179d9645f255a">imageUpdated()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889ad7e2c9feaded425c8f73763ccf7397a2">Px</a>, <a class="el" href="../../d9/d02/vapplication_8h_source.html#l00067">qApp</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00198">DraftImage::units</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00192">DraftImage::yPos</a>.</p>
+<p class="reference">References <a class="el" href="../../d3/db4/classImageDialog.html#ab064adeffabb3ef7219179d9645f255a">imageUpdated()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889ad7e2c9feaded425c8f73763ccf7397a2">Px</a>, <a class="el" href="../../d9/d02/vapplication_8h_source.html#l00067">qApp</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00196">DraftImage::units</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00190">DraftImage::yPos</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>.</p>
 
@@ -1728,9 +1744,9 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00571">571</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00609">609</a> of file <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html">image_dialog.cpp</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00197">DraftImage::aspectLocked</a>, <a class="el" href="../../d3/db4/classImageDialog.html#ab064adeffabb3ef7219179d9645f255a">imageUpdated()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00137">m_pixmapHeight</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00136">m_pixmapWidth</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00300">setHeight()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00278">setWidth()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00321">setXScale()</a>, <a class="el" href="../../d4/da4/def_8h_source.html#l00195">DraftImage::xScale</a>, and <a class="el" href="../../d4/da4/def_8h_source.html#l00196">DraftImage::yScale</a>.</p>
+<p class="reference">References <a class="el" href="../../d4/da4/def_8h_source.html#l00195">DraftImage::aspectLocked</a>, <a class="el" href="../../d3/db4/classImageDialog.html#ab064adeffabb3ef7219179d9645f255a">imageUpdated()</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">m_image</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00138">m_maxDimension</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00139">m_minDimension</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00137">m_pixmapHeight</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00136">m_pixmapWidth</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00141">m_xScale</a>, <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00142">m_yScale</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00282">setHeight()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00257">setWidth()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00305">setXScale()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00320">setYScale()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>.</p>
 
@@ -1757,7 +1773,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00142">142</a> of file <a class="el" href="../../dd/dfa/image__dialog_8h_source.html">image_dialog.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00143">143</a> of file <a class="el" href="../../dd/dfa/image__dialog_8h_source.html">image_dialog.h</a>.</p>
 
 </div>
 </div>
@@ -1783,12 +1799,12 @@ Private Attributes</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00135">135</a> of file <a class="el" href="../../dd/dfa/image__dialog_8h_source.html">image_dialog.h</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00741">dialogApply()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00186">enableWidgets()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00294">getHeight()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00134">getImage()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00203">getName()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00405">getOpacity()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00216">getOriginPoint()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00375">getRotation()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00272">getWidth()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00228">getXPos()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00316">getXScale()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00250">getYPos()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00330">getYScale()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00530">heightChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00345">isAspectLocked()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00360">isLocked()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00390">isVisible()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00599">lockAspectChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00588">lockChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00420">nameChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00680">opacityChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00459">originChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00660">rotationChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00351">setAspectLocked()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00300">setHeight()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00139">setImage()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00366">setLocked()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00209">setName()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00411">setOpacity()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00381">setRotation()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00396">setVisibility()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00278">setWidth()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00234">setXPos()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00321">setXScale()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00256">setYPos()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00336">setYScale()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00625">unitsChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00145">updateImage()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00610">updateSpinboxesRanges()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00693">updateUnits()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00669">visibilityChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00506">widthChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00474">xPosChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00554">xScaleChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00490">yPosChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00571">yScaleChanged()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00818">dialogApply()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00165">enableWidgets()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00276">getHeight()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00120">getImage()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00182">getName()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00389">getOpacity()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00195">getOriginPoint()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00359">getRotation()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00251">getWidth()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00207">getXPos()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00229">getYPos()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00530">heightChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00329">isAspectLocked()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00344">isLocked()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00374">isVisible()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00659">lockAspectChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00648">lockChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00404">nameChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00757">opacityChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00443">originChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00737">rotationChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00335">setAspectLocked()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00282">setHeight()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00125">setImage()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00350">setLocked()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00188">setName()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00395">setOpacity()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00365">setRotation()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00380">setVisibility()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00257">setWidth()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00213">setXPos()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00235">setYPos()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00704">unitsChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00131">updateImage()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00670">updateSpinboxesRanges()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00770">updateUnits()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00746">visibilityChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00490">widthChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00458">xPosChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00570">xScaleChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00474">yPosChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00609">yScaleChanged()</a>.</p>
 
 </div>
 </div>
-<a id="a03150d6da783d686222e79ebaf56cfa1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a03150d6da783d686222e79ebaf56cfa1">&#9670;&nbsp;</a></span>m_maxScale</h2>
+<a id="abcfaf2fd96998fd6142b881dd5299d73"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abcfaf2fd96998fd6142b881dd5299d73">&#9670;&nbsp;</a></span>m_maxDimension</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1797,7 +1813,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">qreal ImageDialog::m_maxScale</td>
+          <td class="memname">qreal ImageDialog::m_maxDimension</td>
         </tr>
       </table>
   </td>
@@ -1807,9 +1823,9 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00139">139</a> of file <a class="el" href="../../dd/dfa/image__dialog_8h_source.html">image_dialog.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00138">138</a> of file <a class="el" href="../../dd/dfa/image__dialog_8h_source.html">image_dialog.h</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00145">updateImage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00530">heightChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00670">updateSpinboxesRanges()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00490">widthChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00570">xScaleChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00609">yScaleChanged()</a>.</p>
 
 </div>
 </div>
@@ -1833,9 +1849,9 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00140">140</a> of file <a class="el" href="../../dd/dfa/image__dialog_8h_source.html">image_dialog.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00139">139</a> of file <a class="el" href="../../dd/dfa/image__dialog_8h_source.html">image_dialog.h</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00610">updateSpinboxesRanges()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00530">heightChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00670">updateSpinboxesRanges()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00490">widthChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00570">xScaleChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00609">yScaleChanged()</a>.</p>
 
 </div>
 </div>
@@ -1859,35 +1875,9 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00141">141</a> of file <a class="el" href="../../dd/dfa/image__dialog_8h_source.html">image_dialog.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00140">140</a> of file <a class="el" href="../../dd/dfa/image__dialog_8h_source.html">image_dialog.h</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00680">opacityChanged()</a>.</p>
-
-</div>
-</div>
-<a id="af69bd2f036c70decedb2b8da65813d72"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af69bd2f036c70decedb2b8da65813d72">&#9670;&nbsp;</a></span>m_minScale</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">qreal ImageDialog::m_minScale</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00138">138</a> of file <a class="el" href="../../dd/dfa/image__dialog_8h_source.html">image_dialog.h</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00145">updateImage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00757">opacityChanged()</a>.</p>
 
 </div>
 </div>
@@ -1913,7 +1903,7 @@ Private Attributes</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00137">137</a> of file <a class="el" href="../../dd/dfa/image__dialog_8h_source.html">image_dialog.h</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00530">heightChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00506">widthChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00554">xScaleChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00571">yScaleChanged()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00530">heightChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00670">updateSpinboxesRanges()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00490">widthChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00570">xScaleChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00609">yScaleChanged()</a>.</p>
 
 </div>
 </div>
@@ -1939,7 +1929,59 @@ Private Attributes</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00136">136</a> of file <a class="el" href="../../dd/dfa/image__dialog_8h_source.html">image_dialog.h</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00530">heightChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00506">widthChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00554">xScaleChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00571">yScaleChanged()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00530">heightChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00670">updateSpinboxesRanges()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00490">widthChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00570">xScaleChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00609">yScaleChanged()</a>.</p>
+
+</div>
+</div>
+<a id="a6b1ce85a3bb6db255b2a5565684838ea"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6b1ce85a3bb6db255b2a5565684838ea">&#9670;&nbsp;</a></span>m_xScale</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">qreal ImageDialog::m_xScale</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00141">141</a> of file <a class="el" href="../../dd/dfa/image__dialog_8h_source.html">image_dialog.h</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00300">getXScale()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00305">setXScale()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00570">xScaleChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00609">yScaleChanged()</a>.</p>
+
+</div>
+</div>
+<a id="a876661ab43ded9d015903fe3dbba5028"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a876661ab43ded9d015903fe3dbba5028">&#9670;&nbsp;</a></span>m_yScale</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">qreal ImageDialog::m_yScale</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00142">142</a> of file <a class="el" href="../../dd/dfa/image__dialog_8h_source.html">image_dialog.h</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00314">getYScale()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00320">setYScale()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00570">xScaleChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00609">yScaleChanged()</a>.</p>
 
 </div>
 </div>
@@ -1965,7 +2007,7 @@ Private Attributes</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="../../dd/dfa/image__dialog_8h_source.html#l00134">134</a> of file <a class="el" href="../../dd/dfa/image__dialog_8h_source.html">image_dialog.h</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00741">dialogApply()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00186">enableWidgets()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00599">lockAspectChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00588">lockChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00420">nameChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00351">setAspectLocked()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00732">setDecimals()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00300">setHeight()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00366">setLocked()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00209">setName()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00411">setOpacity()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00381">setRotation()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00724">setSuffix()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00396">setVisibility()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00278">setWidth()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00234">setXPos()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00321">setXScale()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00256">setYPos()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00336">setYScale()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00625">unitsChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00145">updateImage()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00610">updateSpinboxesRanges()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00693">updateUnits()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00669">visibilityChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00128">~ImageDialog()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00818">dialogApply()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00165">enableWidgets()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00065">ImageDialog()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00659">lockAspectChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00648">lockChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00404">nameChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00335">setAspectLocked()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00809">setDecimals()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00282">setHeight()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00350">setLocked()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00188">setName()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00395">setOpacity()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00365">setRotation()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00801">setSuffix()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00380">setVisibility()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00257">setWidth()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00213">setXPos()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00305">setXScale()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00235">setYPos()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00320">setYScale()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00704">unitsChanged()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00131">updateImage()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00670">updateSpinboxesRanges()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00770">updateUnits()</a>, <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00746">visibilityChanged()</a>, and <a class="el" href="../../d2/d47/image__dialog_8cpp_source.html#l00114">~ImageDialog()</a>.</p>
 
 </div>
 </div>
