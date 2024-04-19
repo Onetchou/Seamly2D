@@ -136,7 +136,6 @@ var namespaces_dup =
       [ "settingGraphicsViewZoomRBPositiveColor", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#a0dfede5003a30a9408c3063eb66a92b4", null ],
       [ "settingGraphicsViewZoomSpeedFactor", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#a26cf87afb2f980c1ec7cd2fd63e9f02d", null ],
       [ "settingImagesPath", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#a13498b0f2dc5512d31e522096d1484ad", null ],
-      [ "settingIncrementsDialogSize", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#ad87078c497f9ce2af67cf71afa612e72", null ],
       [ "settingLabelDateFormat", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#a9960810b30624736af9c63c4ea1bdb78", null ],
       [ "settingLabelTimeFormat", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#a400d4d80c42541aab7c2d1572ae4339e", null ],
       [ "settingLabelUserDateFormats", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#a55a4ea7793a79bc584e55669b40e6d7c", null ],
@@ -164,7 +163,8 @@ var namespaces_dup =
       [ "settingShowPatternLabels", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#a20c760cc67cf66c34b84d18821c46cbe", null ],
       [ "settingShowPieceLabels", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#ae878122ddcaae25fa2369875ccac14b6", null ],
       [ "settingShowSeamAllowances", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#aead542985bef57407eb367a8c7c0da1f", null ],
-      [ "settingToolSeamAllowanceDialogSize", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#a91bf7a4d63951d137db9cb09112c61d2", null ]
+      [ "settingToolSeamAllowanceDialogSize", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#a91bf7a4d63951d137db9cb09112c61d2", null ],
+      [ "settingVariablesDialogSize", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#a724bd4de8bb4e50cd42068755d13f6fe", null ]
     ] ],
     [ "anonymous_namespace{vdomdocument.cpp}", "d6/db9/namespaceanonymous__namespace_02vdomdocument_8cpp_03.html", [
       [ "SaveNodeCanonically", "d6/db9/namespaceanonymous__namespace_02vdomdocument_8cpp_03.html#a48dca2f0db8a0c3d00d69eff6118f8bf", null ]
@@ -213,7 +213,7 @@ var namespaces_dup =
       [ "settingCommunityUseProxy", "db/dea/namespaceanonymous__namespace_02vsettings_8cpp_03.html#ad655dd425fbbf6ff0c0bbbe874279b99", null ],
       [ "settingCommunityUsername", "db/dea/namespaceanonymous__namespace_02vsettings_8cpp_03.html#aea961388dcc49ca23884f52790f2654d", null ],
       [ "settingCommunityUserPassword", "db/dea/namespaceanonymous__namespace_02vsettings_8cpp_03.html#a4d6ed1da0617224523a7edd32fe36da7", null ],
-      [ "settingConfigurationLabelLanguage", "db/dea/namespaceanonymous__namespace_02vsettings_8cpp_03.html#adcf6bb57ca9b6d812c5af211d4c8ca85", null ],
+      [ "settingConfigurationPointLanguage", "db/dea/namespaceanonymous__namespace_02vsettings_8cpp_03.html#a47b3d658d44fe95a9ceb63a870f83fdb", null ],
       [ "settingFields", "db/dea/namespaceanonymous__namespace_02vsettings_8cpp_03.html#a782ecb55f386a2d3f6de561a1802731d", null ],
       [ "settingIgnoreFields", "db/dea/namespaceanonymous__namespace_02vsettings_8cpp_03.html#a60f6ad3fe10e8dba6695e143c957034e", null ],
       [ "settingLayoutAutoCrop", "db/dea/namespaceanonymous__namespace_02vsettings_8cpp_03.html#a29b6fb0b013cf25159991ac9fe897136", null ],
