@@ -247,7 +247,7 @@ var NAVTREEINDEX65 =
 "df/d01/classdx__ifaceBlock.html#af5a38899b82901f43d6db5b98f74ba9b":[1,0,84,1],
 "df/d01/tst__vabstractpiece_8cpp.html":[2,0,0,2,2,15],
 "df/d01/tst__vabstractpiece_8cpp_source.html":[2,0,0,2,2,15],
-"df/d02/classVPE_1_1VBoolProperty.html":[1,0,2,8],
 "df/d02/classVPE_1_1VBoolProperty.html":[0,0,23,8],
-"df/d02/classVPE_1_1VBoolProperty.html#a2062d983db2055ddcd1da9061d0bc365":[1,0,2,8,5]
+"df/d02/classVPE_1_1VBoolProperty.html":[1,0,2,8],
+"df/d02/classVPE_1_1VBoolProperty.html#a2062d983db2055ddcd1da9061d0bc365":[0,0,23,8,5]
 };
