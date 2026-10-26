@@ -1,15 +1,15 @@
 var searchData=
 [
-  ['path_0',['path',['../d5/d9d/vgeometrydef_8h.html#a6bf870a878c696639c3936fa7e9729b9aac70412e939d72a9234cdebb1af5867b',1,'Path:&#160;vgeometrydef.h'],['../d4/da4/def_8h.html#a474a10f771dff4181411f5ff47029582aac70412e939d72a9234cdebb1af5867b',1,'Path:&#160;def.h']]],
+  ['path_0',['Path',['../d5/d9d/vgeometrydef_8h.html#a6bf870a878c696639c3936fa7e9729b9aac70412e939d72a9234cdebb1af5867b',1,'Path:&#160;vgeometrydef.h'],['../d4/da4/def_8h.html#a474a10f771dff4181411f5ff47029582aac70412e939d72a9234cdebb1af5867b',1,'Path:&#160;def.h']]],
   ['paths_1',['Paths',['../d4/da0/pattern__piece__dialog_8h.html#a99e233a1cb0213a420b931b50195e09ea32189647ba7c06ffc2acfdc182a7877c',1,'pattern_piece_dialog.h']]],
   ['pdf_2',['PDF',['../d4/da4/def_8h.html#a1f9b518e0e2d2c25a541f09e2e49a9d8abcd1b68617759b1dfcff0403a6b5a8d1',1,'def.h']]],
   ['pdftiled_3',['PDFTiled',['../d4/da4/def_8h.html#a1f9b518e0e2d2c25a541f09e2e49a9d8a168165f5664e9d78af0fe3e875266e57',1,'def.h']]],
-  ['piece_4',['piece',['../d4/da4/def_8h.html#a74373d9b05edd25d6786a07d0130a2afaa5d512bf83495b68d0ffa20f79804dfc',1,'Piece:&#160;def.h'],['../d4/da4/def_8h.html#ab8460ab56e3e92e57d3ed3b717492395aa5d512bf83495b68d0ffa20f79804dfc',1,'Piece:&#160;def.h']]],
+  ['piece_4',['Piece',['../d4/da4/def_8h.html#a74373d9b05edd25d6786a07d0130a2afaa5d512bf83495b68d0ffa20f79804dfc',1,'Piece:&#160;def.h'],['../d4/da4/def_8h.html#ab8460ab56e3e92e57d3ed3b717492395aa5d512bf83495b68d0ffa20f79804dfc',1,'Piece:&#160;def.h']]],
   ['pieceanchors_5',['PieceAnchors',['../d4/da4/def_8h.html#a474a10f771dff4181411f5ff47029582abfeac4d2a4b06a560f03220010fc967f',1,'def.h']]],
   ['pieceitem_6',['PieceItem',['../d4/da4/def_8h.html#a474a10f771dff4181411f5ff47029582ac45acdcc79d5c8e03f527849ff7b2d80',1,'def.h']]],
   ['piecepath_7',['PiecePath',['../d4/da4/def_8h.html#a88e60e344acff17e2af5630c0aa28c2caafa48855cdf79f137f8838837376ef35',1,'def.h']]],
   ['png_8',['PNG',['../d4/da4/def_8h.html#a1f9b518e0e2d2c25a541f09e2e49a9d8a55505ba281b015ec31f03ccb151b2a34',1,'def.h']]],
-  ['point_9',['point',['../d5/d9d/vgeometrydef_8h.html#a6bf870a878c696639c3936fa7e9729b9a2a3cd5946cfd317eb99c3d32e35e2d4c',1,'Point:&#160;vgeometrydef.h'],['../d4/da4/def_8h.html#a74373d9b05edd25d6786a07d0130a2afa2a3cd5946cfd317eb99c3d32e35e2d4c',1,'Point:&#160;def.h']]],
+  ['point_9',['Point',['../d5/d9d/vgeometrydef_8h.html#a6bf870a878c696639c3936fa7e9729b9a2a3cd5946cfd317eb99c3d32e35e2d4c',1,'Point:&#160;vgeometrydef.h'],['../d4/da4/def_8h.html#a74373d9b05edd25d6786a07d0130a2afa2a3cd5946cfd317eb99c3d32e35e2d4c',1,'Point:&#160;def.h']]],
   ['pointfromarcandtangent_10',['PointFromArcAndTangent',['../d4/da4/def_8h.html#ab8460ab56e3e92e57d3ed3b717492395ab626c14540deb5069485b8f47f524f3a',1,'def.h']]],
   ['pointfromcircleandtangent_11',['PointFromCircleAndTangent',['../d4/da4/def_8h.html#ab8460ab56e3e92e57d3ed3b717492395a2da30dffe7df7e1be826dd75de422143',1,'def.h']]],
   ['pointofcontact_12',['PointOfContact',['../d4/da4/def_8h.html#ab8460ab56e3e92e57d3ed3b717492395aa693360c628143b6f7eb6662d47d4444',1,'def.h']]],

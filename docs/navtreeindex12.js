@@ -1,13 +1,5 @@
 var NAVTREEINDEX12 =
 {
-"d3/d92/classVisToolPointOfContact.html#a4131983c9bec0d19c9fc9b33c005e308":[1,0,323,14],
-"d3/d92/classVisToolPointOfContact.html#a6262f21f537f4df8c044ed78a83b7605":[1,0,323,2],
-"d3/d92/classVisToolPointOfContact.html#a8685b07687f472b63e13ca4392a2ff0a":[1,0,323,4],
-"d3/d92/classVisToolPointOfContact.html#a87cb0021f0c851e905cf0517cd77fb88":[1,0,323,9],
-"d3/d92/classVisToolPointOfContact.html#aa68fb344b4450cb35467befcf105c068":[1,0,323,10],
-"d3/d92/classVisToolPointOfContact.html#aa7f077b7ef12268bef90bd079365b7a5":[1,0,323,0],
-"d3/d92/classVisToolPointOfContact.html#ab62bc0d04703f0a59941416b451ee4ea":[1,0,323,8],
-"d3/d92/classVisToolPointOfContact.html#ac2d3731e979b3f7241220dc69ed251d4":[1,0,323,1],
 "d3/d92/classVisToolPointOfContact.html#ac51af5f5b7f3f6ed8de89192ee7f0d42":[1,0,323,6],
 "d3/d92/classVisToolPointOfContact.html#adb83ec46ea8fa96af576dc3f16de4439":[1,0,323,12],
 "d3/d92/classVisToolPointOfContact.html#ae1d78aa0ab00ecd8f68b23f29cba9585":[1,0,323,7],
@@ -249,5 +241,13 @@ var NAVTREEINDEX12 =
 "d3/da7/classEditGroupDialog.html#a234ffcd47fbbe7bcacdb986671fc419d":[1,0,87,26],
 "d3/da7/classEditGroupDialog.html#a24f7462f5f6e5e3ed575096109427b62":[1,0,87,23],
 "d3/da7/classEditGroupDialog.html#a2a4490a11729bc8f4176f374612f33f6":[1,0,87,16],
-"d3/da7/classEditGroupDialog.html#a450949a4ca63aa7dffdc47f5ec72ec59":[1,0,87,14]
+"d3/da7/classEditGroupDialog.html#a450949a4ca63aa7dffdc47f5ec72ec59":[1,0,87,14],
+"d3/da7/classEditGroupDialog.html#a477df69a22595702c2dc461e5274ed66":[1,0,87,6],
+"d3/da7/classEditGroupDialog.html#a49446282313f7bce3b21f9f6a6d2eab7":[1,0,87,3],
+"d3/da7/classEditGroupDialog.html#a620bc7d553b0a9674c389b9ced15b4bf":[1,0,87,24],
+"d3/da7/classEditGroupDialog.html#a7980ed3b5e4045ed87cdb66c580c5ede":[1,0,87,9],
+"d3/da7/classEditGroupDialog.html#a8037c9b2748d8a32a45512fad748bff2":[1,0,87,25],
+"d3/da7/classEditGroupDialog.html#a8194c32ec2cff14a167822e43b87fb6c":[1,0,87,13],
+"d3/da7/classEditGroupDialog.html#a83a8d4aca51a8dd69e8c10b573ae7c38":[1,0,87,17],
+"d3/da7/classEditGroupDialog.html#a936686511245a69d890430308674df96":[1,0,87,11]
 };

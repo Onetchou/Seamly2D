@@ -1,6 +1,5 @@
 var NAVTREEINDEX7 =
 {
-"d1/dd5/classDialogShoulderPoint.html#a4d16743c1ad7fd99eacaca0b2a2e0a57":[1,0,71,18],
 "d1/dd5/classDialogShoulderPoint.html#a4fa5df047d48c331ca675a1575bef7fd":[1,0,71,2],
 "d1/dd5/classDialogShoulderPoint.html#a5a09d9aef0dac9b75170296006a8c603":[1,0,71,21],
 "d1/dd5/classDialogShoulderPoint.html#a5eabd60ac2f225a302831b93ce9953bf":[1,0,71,10],
@@ -249,5 +248,6 @@ var NAVTREEINDEX7 =
 "d2/d31/classVToolAlongLine.html#add5ff3d1679ed16ad02211a56d2c467b":[1,0,396,4],
 "d2/d31/classVToolAlongLine.html#ae6aa7b68b891c31182e064db55fd16e1":[1,0,396,11],
 "d2/d31/classVToolAlongLine.html#af9c00da1e0331329a842b16c0cac8591":[1,0,396,12],
-"d2/d31/vmaingraphicsview_8cpp.html":[2,0,0,1,14,51]
+"d2/d31/vmaingraphicsview_8cpp.html":[2,0,0,1,14,51],
+"d2/d31/vmaingraphicsview_8cpp.html#a1767d5be861f1feaaf6fc0d9fedf50e9":[2,0,0,1,14,51,0]
 };

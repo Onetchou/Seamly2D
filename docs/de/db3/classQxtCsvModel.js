@@ -42,5 +42,5 @@ var classQxtCsvModel =
     [ "toCSV", "de/db3/classQxtCsvModel.html#abdcd428f50feaaacd0b7bb839d9e2480", null ],
     [ "toCSV", "de/db3/classQxtCsvModel.html#ada0b7779f9d81a6ff2fa7b6040f20116", null ],
     [ "QxtCsvModelPrivate", "de/db3/classQxtCsvModel.html#a94a044cf8c96dae06bb1223a536a5b6a", null ],
-    [ "qxt_d", "de/db3/classQxtCsvModel.html#afb83773f74144ca39a656b5abfd5ff6d", null ]
+    [ "qxt_d", "de/db3/classQxtCsvModel.html#adaa29c529e9e67dbcb661ef0d22d7e57", null ]
 ];

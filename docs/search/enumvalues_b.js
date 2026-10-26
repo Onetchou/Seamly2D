@@ -2,7 +2,7 @@ var searchData=
 [
   ['male_0',['Male',['../dc/db7/measurements_8h.html#abb136f27b5f33acb9b852daeb0f04c01a63889cfb9d3cbe05d1bd2be5cc9953fd',1,'measurements.h']]],
   ['mantissa_1',['Mantissa',['../df/d51/qmudef_8cpp.html#a5d74787dedbc4e11c1ab15bf487e61f8a08a60d7f2229646a3e0950e80bd84aa4',1,'qmudef.cpp']]],
-  ['maxrecentfiles_2',['maxrecentfiles',['../d8/d61/classTMainWindow.html#a0f3e7779c722d05108da4e56bcd6d478a93e479ed8d33820bb57a4cdff04ed8b5',1,'TMainWindow::MaxRecentFiles'],['../d6/d1a/classMainWindow.html#a0ee5fdf298d8f30b5e29418348ecaacfacffff941ca3da9119f465d531db6dc86',1,'MainWindow::MaxRecentFiles']]],
+  ['maxrecentfiles_2',['MaxRecentFiles',['../d6/d1a/classMainWindow.html#a778eab972768c4547ffad807b93bd6d1acffff941ca3da9119f465d531db6dc86',1,'MainWindow::MaxRecentFiles'],['../d8/d61/classTMainWindow.html#aea5611f6f1152a04582caebab454b869a93e479ed8d33820bb57a4cdff04ed8b5',1,'TMainWindow::MaxRecentFiles']]],
   ['measurement_3',['Measurement',['../d4/da4/def_8h.html#a76d9a90fa899857cf4616065998e6178a911842b19d8b2f9bbed8cfe909d52975',1,'def.h']]],
   ['measurements_4',['Measurements',['../d7/d4c/edit__formula__dialog_8h.html#a81e56be3c50376239982abe0269ec928ab44c82b6e10f9887c1e9b19455ec1ed5',1,'edit_formula_dialog.h']]],
   ['metric_5',['Metric',['../d7/de8/dxfdef_8h.html#a3dd1db4b7a6f61c5d2004d1580acec27a216ab40cda5c7c00ff42a4efb1827d89',1,'dxfdef.h']]],
@@ -13,7 +13,7 @@ var searchData=
   ['mm_10',['Mm',['../d4/da4/def_8h.html#aa5a23406ae0e7d969b980e50c4e94889a07f07b623b4a00b57dc150ff2e59cb92',1,'def.h']]],
   ['mmove_11',['mMove',['../da/d7d/classVPieceItem.html#a3e439ca880d8bddb9cff29d04dbc5367a757f06476280dad47461b119ac321c4f',1,'VPieceItem']]],
   ['mnormal_12',['mNormal',['../da/d7d/classVPieceItem.html#a3e439ca880d8bddb9cff29d04dbc5367a11f20da2639e7311025205a795fb5077',1,'VPieceItem']]],
-  ['modeling_13',['modeling',['../d5/d9d/vgeometrydef_8h.html#a85a66cf8eff1eceb62457cf1931ddf1aa36ca8b27f92026a233b4a2f81dc92397',1,'Modeling:&#160;vgeometrydef.h'],['../d4/da4/def_8h.html#a136551301e3a6163c0233081fe424653a36ca8b27f92026a233b4a2f81dc92397',1,'Modeling:&#160;def.h']]],
+  ['modeling_13',['Modeling',['../d5/d9d/vgeometrydef_8h.html#a85a66cf8eff1eceb62457cf1931ddf1aa36ca8b27f92026a233b4a2f81dc92397',1,'Modeling:&#160;vgeometrydef.h'],['../d4/da4/def_8h.html#a136551301e3a6163c0233081fe424653a36ca8b27f92026a233b4a2f81dc92397',1,'Modeling:&#160;def.h']]],
   ['move_14',['Move',['../d4/da4/def_8h.html#ab8460ab56e3e92e57d3ed3b717492395a6bc362dbf494c61ea117fe3c71ca48a5',1,'def.h']]],
   ['movedoublelabel_15',['MoveDoubleLabel',['../d6/dbe/vundocommand_8h.html#aeb42a5e0c886f3719edb15c410d148e6a0065b32ebc01feeebdc4113120ef8d93',1,'vundocommand.h']]],
   ['movelabel_16',['MoveLabel',['../d6/dbe/vundocommand_8h.html#aeb42a5e0c886f3719edb15c410d148e6a102c66ce362e36345ff6ee05da5073a9',1,'vundocommand.h']]],

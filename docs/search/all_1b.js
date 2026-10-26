@@ -75,7 +75,7 @@ var searchData=
   ['_7edx_5fifaceblock_72',['~dx_ifaceBlock',['../df/d01/classdx__ifaceBlock.html#a081e8dadf993efca3a11305eb287867d',1,'dx_ifaceBlock']]],
   ['_7edx_5fifaceimg_73',['~dx_ifaceImg',['../d9/d70/classdx__ifaceImg.html#afccc5dd99b35c6e2cb97b47cd6118b30',1,'dx_ifaceImg']]],
   ['_7eeditformuladialog_74',['~EditFormulaDialog',['../d1/d7d/classEditFormulaDialog.html#a80531d6b3c0f570c34808659dfc870fb',1,'EditFormulaDialog']]],
-  ['_7eeditgroupdialog_75',['~editgroupdialog',['../d3/da7/classEditGroupDialog.html#af954856845a17c8231650fef1cb5fa1a',1,'EditGroupDialog::~EditGroupDialog()'],['../d3/da7/classEditGroupDialog.html#a49446282313f7bce3b21f9f6a6d2eab7',1,'EditGroupDialog::~EditGroupDialog()']]],
+  ['_7eeditgroupdialog_75',['~EditGroupDialog',['../d3/da7/classEditGroupDialog.html#af954856845a17c8231650fef1cb5fa1a',1,'EditGroupDialog::~EditGroupDialog()'],['../d3/da7/classEditGroupDialog.html#a49446282313f7bce3b21f9f6a6d2eab7',1,'EditGroupDialog::~EditGroupDialog()']]],
   ['_7eeditlabeltemplatedialog_76',['~EditLabelTemplateDialog',['../d7/df1/classEditLabelTemplateDialog.html#a61e5d22a5496c080c9210ae9731bec39',1,'EditLabelTemplateDialog']]],
   ['_7eexportformatcombobox_77',['~ExportFormatCombobox',['../d4/d06/classExportFormatCombobox.html#ac6cd2a509b05d723a0d7250f4c76bd43',1,'ExportFormatCombobox']]],
   ['_7eexportlayoutdialog_78',['~ExportLayoutDialog',['../de/dbd/classExportLayoutDialog.html#ad750b12f032ee99f3f0b1db737938669',1,'ExportLayoutDialog']]],

@@ -4,7 +4,7 @@ var searchData=
   ['backgroundimageitem_1',['BackgroundImageItem',['../d4/da4/def_8h.html#a474a10f771dff4181411f5ff47029582a5e4c52a381051e4be77a647b0ad77068',1,'def.h']]],
   ['backslashescape_2',['BackslashEscape',['../de/db3/classQxtCsvModel.html#a81cf512c562674f89d187746052e6a31a18cc2ddfc57fb9d42bceaac1c013e2a4',1,'QxtCsvModel']]],
   ['basepoint_3',['BasePoint',['../d4/da4/def_8h.html#ab8460ab56e3e92e57d3ed3b717492395a794fdf7ea22e73af20feb0e3aecdc010',1,'def.h']]],
-  ['bisector_4',['bisector',['../d4/da4/def_8h.html#a5b666b3acf56b84f9f3fadeef9d571b4a4e3c3e18ebb64f7aaaa75ea75475ecf8',1,'Bisector:&#160;def.h'],['../d4/da4/def_8h.html#ab8460ab56e3e92e57d3ed3b717492395a4e3c3e18ebb64f7aaaa75ea75475ecf8',1,'Bisector:&#160;def.h']]],
+  ['bisector_4',['Bisector',['../d4/da4/def_8h.html#a5b666b3acf56b84f9f3fadeef9d571b4a4e3c3e18ebb64f7aaaa75ea75475ecf8',1,'Bisector:&#160;def.h'],['../d4/da4/def_8h.html#ab8460ab56e3e92e57d3ed3b717492395a4e3c3e18ebb64f7aaaa75ea75475ecf8',1,'Bisector:&#160;def.h']]],
   ['bmp_5',['BMP',['../d4/da4/def_8h.html#a1f9b518e0e2d2c25a541f09e2e49a9d8aa5d5ca1447586e23dc011f8c0cc0a6db',1,'def.h']]],
   ['bothquotes_6',['BothQuotes',['../de/db3/classQxtCsvModel.html#a81cf512c562674f89d187746052e6a31a59a0c0d62846b0919701fe89c8abfdbf',1,'QxtCsvModel']]],
   ['bottom_7',['Bottom',['../d4/da4/def_8h.html#ac8554770a804b795ffbfc2b15287a008a2ad9d63b69c4a10a5cc9cad923133bc4',1,'def.h']]],

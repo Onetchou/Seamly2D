@@ -5,6 +5,6 @@ var searchData=
   ['qttranslator_2',['qtTranslator',['../db/dda/classVAbstractApplication.html#a788c21e17e61da37d8640b8b528c144d',1,'VAbstractApplication']]],
   ['qtxmltranslator_3',['qtxmlTranslator',['../db/dda/classVAbstractApplication.html#a8284d973270795306e00c450aaca6700',1,'VAbstractApplication']]],
   ['quotemode_4',['quoteMode',['../d6/dde/classQxtCsvModelPrivate.html#a585b2a9d48670b177c51242c2ac18add',1,'QxtCsvModelPrivate']]],
-  ['qxt_5fd_5',['qxt_d',['../de/db3/classQxtCsvModel.html#afb83773f74144ca39a656b5abfd5ff6d',1,'QxtCsvModel']]],
+  ['qxt_5fd_5',['qxt_d',['../de/db3/classQxtCsvModel.html#adaa29c529e9e67dbcb661ef0d22d7e57',1,'QxtCsvModel']]],
   ['qxt_5fp_5fptr_6',['qxt_p_ptr',['../db/d14/classQxtPrivate.html#a795119eb3c84d0788a8c6c24fc440166',1,'QxtPrivate']]]
 ];

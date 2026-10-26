@@ -1,11 +1,5 @@
 var NAVTREEINDEX10 =
 {
-"d2/de1/tst__vpiece_8h_source.html":[2,0,0,2,2,34],
-"d2/de5/vdxfpaintdevice_8cpp.html":[2,0,0,1,4,8],
-"d2/de5/vdxfpaintdevice_8cpp_source.html":[2,0,0,1,4,8],
-"d2/deb/classVisToolArc.html":[1,0,302],
-"d2/deb/classVisToolArc.html#a325c960e7339e3e2fe5f303065804438":[1,0,302,10],
-"d2/deb/classVisToolArc.html#a4132eb327462c81aae68cfdf674d990a":[1,0,302,6],
 "d2/deb/classVisToolArc.html#a43918e3444999e71bfe72badd260c120":[1,0,302,7],
 "d2/deb/classVisToolArc.html#a47fb5fbfb764ff02eb41b80bc6fa4452":[1,0,302,1],
 "d2/deb/classVisToolArc.html#a6f344acc02bf3df93e9d1b9fb4a583a6":[1,0,302,5],
@@ -172,7 +166,6 @@ var NAVTREEINDEX10 =
 "d3/d23/dialogshoulderpoint_8cpp.html":[2,0,0,1,13,0,1,57],
 "d3/d23/dialogshoulderpoint_8cpp_source.html":[2,0,0,1,13,0,1,57],
 "d3/d2b/vtoolmove_8cpp.html":[2,0,0,1,13,1,0,0,3],
-"d3/d2b/vtoolmove_8cpp.html#a2f7cb2fa85efab3c7cc6db3569f5bd15":[2,0,0,1,13,1,0,0,3,0],
 "d3/d2b/vtoolmove_8cpp_source.html":[2,0,0,1,13,1,0,0,3],
 "d3/d2e/dialogcutspline_8cpp.html":[2,0,0,1,13,0,1,21],
 "d3/d2e/dialogcutspline_8cpp_source.html":[2,0,0,1,13,0,1,21],
@@ -249,5 +242,12 @@ var NAVTREEINDEX10 =
 "d3/d44/classVTranslateMeasurements.html#ac47e7bcdc243572e944b229e98be129a":[1,0,434,0],
 "d3/d44/classVTranslateMeasurements.html#ac4e8b53c8ed3fe6cb4a47a26b8f673d1":[1,0,434,12],
 "d3/d44/classVTranslateMeasurements.html#ac70b09ab4a0ad62f55624cada908aeae":[1,0,434,19],
-"d3/d44/classVTranslateMeasurements.html#ac7f210a1bcbdab5625e09ce368479820":[1,0,434,22]
+"d3/d44/classVTranslateMeasurements.html#ac7f210a1bcbdab5625e09ce368479820":[1,0,434,22],
+"d3/d44/classVTranslateMeasurements.html#ac81f6cd30759a332096fa3e0bf57a64d":[1,0,434,11],
+"d3/d44/classVTranslateMeasurements.html#ad2a42058a6f3f4c3247e37e3d6b47f78":[1,0,434,16],
+"d3/d44/classVTranslateMeasurements.html#ae7bf030040acffd904f21ffa270cdeb2":[1,0,434,27],
+"d3/d44/classVTranslateMeasurements.html#af4ab46d237f7dff73cba7b8e547828b3":[1,0,434,10],
+"d3/d44/classVTranslateMeasurements.html#af59f0c6573283b1b6758b95f5e624ec5":[1,0,434,32],
+"d3/d46/movelabel_8h.html":[2,0,0,1,13,2,0,5],
+"d3/d46/movelabel_8h_source.html":[2,0,0,1,13,2,0,5]
 };
